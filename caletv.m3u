@@ -1,44 +1,66 @@
 #EXTM3U
 #EXTINF:30,Nr1
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/chunklist_b400000.m3u8
+
 #EXTINF:30,Power Hd
 https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playist.m3u8
+
 #EXTINF:0,Power Dance
 https://listen.powerapp.com.tr/dance/dance.smil/playlist.m3u8
+
 #EXTINF:0,Polis_Tsm
 https://m.egm.gov.tr:8095/stream?/;stream.mp3
-#EXTINF:0,stream?
-#EXTVLCOPT:network-caching=1000
+
+#EXTINF:0,Polis_Tsm_Ydk
 https://m.egm.gov.tr:8095/stream?
+
 #EXTINF:0,Radyo Ilef
 http://radyo.cc.ankara.edu.tr:8089/;stream/1
+
 #EXTINF:0,Radyo Voyage
 https://dygedge.radyotvonline.net/radyovoyage/playlist.m3u8
+
 #EXTINF:0,Radyo Voyage2
 http://voyagewmp.radyotvonline.com/;
+
 #EXTINF:0,Swiss Pop
 https://stream.srg-ssr.ch/m/rsp/mp3_128
+
 #EXTINF:0,Vintage
 https://vintageradio.ice.infomaniak.ch/vintageradio-high.mp3
+
 #EXTINF:0,Swiss Jazz
 https://stream.srg-ssr.ch/m/rsj/mp3_128
+
 #EXTINF:0,Itu Jazz
 http://160.75.86.29:8088/itucazmp3
+
 #EXTINF:0,Joy_Jazz
 https://27913.live.streamtheworld.com/JOY_JAZZ128AAC.aac
+
 #EXTINF:0,Swiss Classic
 https://stream.srg-ssr.ch/m/rsc_de/mp3_128
+
 #EXTINF:0,Itu Klasik
 http://160.75.86.29:8088/ituklasikmp3
+
 #EXTINF:0,Borusan_Klasik
 https://27953.live.streamtheworld.com/BORUSAN_KLASIK128AAC.aac
+
 #EXTINF:0,N1_Klasik
 https://n10101m.mediatriple.net/classic
+
 #EXTINF:0,N1_Jazz
 https://n10101m.mediatriple.net/jazz
+
 #EXTINF:0,N1_Disko
 https://n10101m.mediatriple.net/disco
+
 #EXTINF:0,Radyo
 https://n10101m.mediatriple.net/musiki
+
 #EXTINF:0,Karadeniz_Karnaval
 https://25453.live.streamtheworld.com/KARADENIZ128AAC.aac
+
+#EXTINF:0,TRT_3
+https://rd-trtradyo3.medya.trt.com.tr/master.m3u8
