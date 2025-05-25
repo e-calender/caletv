@@ -14,6 +14,8 @@ https://m.egm.gov.tr:8095/stream?
 http://radyo.cc.ankara.edu.tr:8089/;stream/1
 #EXTINF:0,Radyo Voyage
 https://dygedge.radyotvonline.net/radyovoyage/playlist.m3u8
+#EXTINF:0,Radyo Voyage2
+http://voyagewmp.radyotvonline.com/;
 #EXTINF:0,Swiss Pop
 https://stream.srg-ssr.ch/m/rsp/mp3_128
 #EXTINF:0,Vintage
