@@ -1,544 +1,107 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="ext" tvg-name="Trt1  " tvg-logo="" group-title="TRT",Trt1  
-https://tv-trt1.medya.trt.com.tr/master.m3u8
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Trt 2  " tvg-logo="" group-title="TRT",Trt 2  
-https://tv-trt2.medya.trt.com.tr/master.m3u8
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Trt Belgesel  " tvg-logo="" group-title="TRT",Trt Belgesel  
-https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Trt Turk  " tvg-logo="" group-title="TRT",Trt Turk  
-https://tv-trtturk.medya.trt.com.tr/master.m3u8
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Trt Avaz  " tvg-logo="" group-title="TRT",Trt Avaz  
-http://tv-trtavaz.medya.trt.com.tr/master.m3u8
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Trt Cocuk  " tvg-logo="" group-title="TRT",Trt Cocuk  
-http://tv-trtcocuk.medya.trt.com.tr/master.m3u8
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Trt Muzik  " tvg-logo="" group-title="TRT",Trt Muzik  
-https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Trt Eba  " tvg-logo="" group-title="TRT",Trt Eba  
-https://tv-e-okul01.medya.trt.com.tr/master.m3u8
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Trt Haber  " tvg-logo="" group-title="TRT",Trt Haber  
-https://tv-trthaber.medya.trt.com.tr/master.m3u8
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Trt Belgesel  " tvg-logo="" group-title="TRT",Trt Belgesel  
-https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Showtv  " tvg-logo="" group-title="ULUSAL",Showtv  
-https://ciner-live.daioncdn.net/showtv/showtv.m3u8
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Startv  " tvg-logo="" group-title="ULUSAL",Startv  
-https://dogus-live.daioncdn.net/startv/startv.m3u8
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Tv4  " tvg-logo="" group-title="ULUSAL",Tv4  
-https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Tv360  " tvg-logo="" group-title="ULUSAL",Tv360  
-https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Tlc  " tvg-logo="" group-title="ULUSAL",Tlc  
-https://dogus-live.daioncdn.net/tlc/tlc.m3u8
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Dmax  " tvg-logo="" group-title="ULUSAL",Dmax  
-https://dogus-live.daioncdn.net/dmax/dmax.m3u8
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Teve 2  " tvg-logo="" group-title="ULUSAL",Teve 2  
-https://demiroren-live.daioncdn.net/teve2/teve2.m3u8
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Tv 8  " tvg-logo="" group-title="ULUSAL",Tv 8  
-https://tv8-live.daioncdn.net/tv8/tv8.m3u8
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Tlc  " tvg-logo="" group-title="ULUSAL",Tlc  
-https://dogus-live.daioncdn.net/tlc/tlc_720p.m3u8
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Dmax  " tvg-logo="" group-title="ULUSAL",Dmax  
-https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Show Tv  " tvg-logo="" group-title="ULUSAL",Show Tv  
-https://ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Star  " tvg-logo="" group-title="ULUSAL",Star  
-https://dogus-live.daioncdn.net/startv/startv_720p.m3u8
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Atv  " tvg-logo="" group-title="ULUSAL",Atv  
-https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_1080p.m3u8
-
-#EXTINF:-1 tvg-id="ext" tvg-name="A2  " tvg-logo="" group-title="ULUSAL",A2  
-https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv_1080p.m3u8
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Kanal D  " tvg-logo="" group-title="ULUSAL",Kanal D  
-https://demiroren-live.daioncdn.net/kanald/kanald_1080p.m3u8
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Fox  " tvg-logo="" group-title="ULUSAL",Fox  
-http://116.202.238.88/FOXTV_TR/index.m3u8
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Kanal 7  " tvg-logo="" group-title="ULUSAL",Kanal 7  
-https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Teve 2  " tvg-logo="" group-title="ULUSAL",Teve 2  
-https://demiroren-live.daioncdn.net/teve2/teve2_1080p.m3u8
-
-#EXTINF:-1 tvg-id="ext" tvg-name="360 Tv  " tvg-logo="" group-title="ULUSAL",360 Tv  
-https://tv.ensonhaber.com/tv360/tv360.m3u8
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Trt Belgesel  " tvg-logo="" group-title="ULUSAL",Trt Belgesel  
-https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Tlc  " tvg-logo="" group-title="ULUSAL",Tlc  
-https://dogus-live.daioncdn.net/tlc/tlc_720p.m3u8
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Dmax  " tvg-logo="" group-title="ULUSAL",Dmax  
-https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Nr1  " tvg-logo="" group-title="MUZIK",Nr1  
+#EXTINF:-1 tvg-name="Nr1" tvg-id="ext" group-title="Liste" tvg-logo="logo N/A",Nr1
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/chunklist_b400000.m3u8
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Power Turk  " tvg-logo="" group-title="MUZIK",Power Turk  
+#EXTINF:-1 tvg-name="Power Turk" tvg-id="ext" group-title="Liste" tvg-logo="logo N/A",Power Turk
 https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Power Dance  " tvg-logo="" group-title="MUZIK",Power Dance  
+#EXTINF:-1 tvg-name="Power Dance" tvg-id="ext" group-title="Liste" tvg-logo="logo N/A",Power Dance
 https://listen.powerapp.com.tr/dance/dance.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Kral Pop  " tvg-logo="" group-title="MUZIK",Kral Pop  
-https://dogus-live.daioncdn.net/kralpoptv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Nr1 Turk  " tvg-logo="" group-title="MUZIK",Nr1 Turk  
+#EXTINF:-1 tvg-name="Nr1 Turk" tvg-id="ext" group-title="Liste" tvg-logo="logo N/A",Nr1 Turk
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e187770143.smil/chunklist_b400000.m3u8
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Power Hd  " tvg-logo="" group-title="MUZIK",Power Hd  
+#EXTINF:-1 tvg-name="Power Hd" tvg-id="ext" group-title="Liste" tvg-logo="logo N/A",Power Hd
 https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playist.m3u8
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Cartoon Network  " tvg-logo="" group-title="MUZIK",Cartoon Network  
-https://tv1.arectv30.sbs/live/cartoonnetwork.m3u8
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Halk Tv  " tvg-logo="" group-title="MUHALIF",Halk Tv  
-https://halktv-live.daioncdn.net/halktv/halktv.m3u8
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Sozcu Tv  " tvg-logo="" group-title="MUHALIF",Sozcu Tv  
-http://szctvdvr.blutv.com/blutv_szctv_dvr/live.m3u8
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Yol Tv  " tvg-logo="" group-title="MUHALIF",Yol Tv  
-https://iptv.amgsmart2home.de/YOLTVMAIN/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Tele 1  " tvg-logo="" group-title="MUHALIF",Tele 1  
-http://5.144.1.235:29981/stream/channelid/1632371892?profile=pass
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Halk Tv  " tvg-logo="" group-title="MUHALIF",Halk Tv  
-https://halktv-live.daioncdn.net/halktv/halktv.m3u8
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Tele 1  " tvg-logo="" group-title="MUHALIF",Tele 1  
-https://tele1-live.ercdn.net/tele1/tele1.m3u8
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Halk Tv  " tvg-logo="" group-title="MUHALIF",Halk Tv  
-https://halktv-live.daioncdn.net/halktv/halktv_720p.m3u8
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Haberturk  " tvg-logo="" group-title="HABER",Haberturk  
-https://ciner-live.daioncdn.net/haberturktv/haberturktv.m3u8
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Bloomberg Ht  " tvg-logo="" group-title="HABER",Bloomberg Ht  
-https://bloomberght-live.daioncdn.net/bloomberght/bloomberght.m3u8
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Trt Spor Yildiz  " tvg-logo="" group-title="SPOR",Trt Spor Yildiz  
-https://tv-trtspor2.medya.trt.com.tr/master.m3u8
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Trt Spor  " tvg-logo="" group-title="SPOR",Trt Spor  
-https://tv-trtspor1.medya.trt.com.tr/master.m3u8
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Radyo 1  " tvg-logo="" group-title="RADYO",Radyo 1  
-https://trt.radyotvonline.net/trt1
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Trt_Fm  " tvg-logo="" group-title="RADYO",Trt_Fm  
-https://trt.radyotvonline.net/trtfm
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Radyo 3  " tvg-logo="" group-title="RADYO",Radyo 3  
-https://rd-trtradyo3.medya.trt.com.tr/master.mp3
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Radyo 3  " tvg-logo="" group-title="RADYO",Radyo 3 
-https://rd-trtradyo3.medya.trt.com.tr/master.m3u8
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Trt_Turku  " tvg-logo="" group-title="RADYO",Trt_Turku  
+#EXTINF:-1 tvg-name="Radyo 1" tvg-id="ext" group-title="Liste" tvg-logo="logo N/A",Radyo 1
+https://trt.radyotvonline.net/trt_1.aac
+#EXTINF:-1 tvg-name="Trt_Fm" tvg-id="ext" group-title="Liste" tvg-logo="logo N/A",Trt_Fm
+https://trt.radyotvonline.net/trt_fm.aac
+#EXTINF:-1 tvg-name="Radyo 3" tvg-id="ext" group-title="Liste" tvg-logo="logo N/A",Radyo 3
+https://rd-trtradyo3.medya.trt.com.tr/master_128.m3u8
+#EXTINF:-1 tvg-name="Trt_Turku" tvg-id="ext" group-title="Liste" tvg-logo="logo N/A",Trt_Turku
 https://rd-trtturku.medya.trt.com.tr/master_128.m3u8
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Trt_Nagme  " tvg-logo="" group-title="RADYO",Trt_Nagme  
+#EXTINF:-1 tvg-name="Trt_Nagme" tvg-id="ext" group-title="Liste" tvg-logo="logo N/A",Trt_Nagme
 https://rd-trtnagme.medya.trt.com.tr/master.m3u8
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Polis_Tsm  " tvg-logo="" group-title="RADYO",Polis_Tsm  
+#EXTINF:-1 tvg-name="Polis_Tsm" tvg-id="ext" group-title="Liste" tvg-logo="logo N/A",Polis_Tsm
 https://m.egm.gov.tr:8095/stream?/;stream.mp3
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Tsr  " tvg-logo="" group-title="RADYO",Tsr  
+#EXTINF:-1 tvg-name="Tsr" tvg-id="ext" group-title="Liste" tvg-logo="logo N/A",Tsr
 https://radio-trttsr.medya.trt.com.tr/master_128.m3u8
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Kafa_Radyo  " tvg-logo="" group-title="RADYO",Kafa_Radyo  
+#EXTINF:-1 tvg-name="Kafa_Radyo" tvg-id="ext" group-title="Liste" tvg-logo="logo N/A",Kafa_Radyo
 https://moondigitaledge2.radyotvonline.net/kafaradyo/playlist.m3u8
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Radyo Ilef  " tvg-logo="" group-title="RADYO",Radyo Ilef  
+#EXTINF:-1 tvg-name="Radyo Ilef" tvg-id="ext" group-title="Liste" tvg-logo="logo N/A",Radyo Ilef
 http://radyo.cc.ankara.edu.tr:8089/;stream/1
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Radyo Voyage  " tvg-logo="" group-title="RADYO",Radyo Voyage  
-http://voyagewmp.radyotvonline.com/;
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Swiss Pop  " tvg-logo="" group-title="RADYO",Swiss Pop  
+#EXTINF:-1 tvg-name="Radyo Voyage" tvg-id="ext" group-title="Liste" tvg-logo="logo N/A",Radyo Voyage
+https://dygedge.radyotvonline.net/radyovoyage/playlist.m3u8
+#EXTINF:-1 tvg-name="Swiss Pop" tvg-id="ext" group-title="Liste" tvg-logo="logo N/A",Swiss Pop
 https://stream.srg-ssr.ch/m/rsp/mp3_128
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Swiss Jazz  " tvg-logo="" group-title="RADYO",Swiss Jazz  
+#EXTINF:-1 tvg-name="Swiss Jazz" tvg-id="ext" group-title="Liste" tvg-logo="logo N/A",Swiss Jazz
 https://stream.srg-ssr.ch/m/rsj/mp3_128
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Swiss Classic  " tvg-logo="" group-title="RADYO",Swiss Classic  
+#EXTINF:-1 tvg-name="Swiss Classic" tvg-id="ext" group-title="Liste" tvg-logo="logo N/A",Swiss Classic
 https://stream.srg-ssr.ch/m/rsc_de/mp3_128
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Itu Klasik  " tvg-logo="" group-title="RADYO",Itu Klasik  
+#EXTINF:-1 tvg-name="Itu Klasik" tvg-id="ext" group-title="Liste" tvg-logo="logo N/A",Itu Klasik
 http://160.75.86.29:8088/ituklasikmp3
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Itu Jazz  " tvg-logo="" group-title="RADYO",Itu Jazz  
+#EXTINF:-1 tvg-name="Itu Jazz" tvg-id="ext" group-title="Liste" tvg-logo="logo N/A",Itu Jazz
 http://160.75.86.29:8088/itucazmp3
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Joy_Fm  " tvg-logo="" group-title="RADYO",Joy_Fm  
+#EXTINF:-1 tvg-name="Joy_Fm" tvg-id="ext" group-title="Liste" tvg-logo="logo N/A",Joy_Fm
 https://21633.live.streamtheworld.com/JOY_FM128AAC.aac
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Literal_Radyo  " tvg-logo="" group-title="RADYO",Literal_Radyo  
+#EXTINF:-1 tvg-name="Literal_Radyo" tvg-id="ext" group-title="Liste" tvg-logo="logo N/A",Literal_Radyo
 https://22593.live.streamtheworld.com/LITERAL128AAC.aac
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Radyo_Mydonose  " tvg-logo="" group-title="RADYO",Radyo_Mydonose  
+#EXTINF:-1 tvg-name="Radyo_Mydonose" tvg-id="ext" group-title="Liste" tvg-logo="logo N/A",Radyo_Mydonose
 https://27993.live.streamtheworld.com/RADIO_MYDONOSE128AAC.aac
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Karadeniz_Karnaval  " tvg-logo="" group-title="RADYO",Karadeniz_Karnaval  
+#EXTINF:-1 tvg-name="Karadeniz_Karnaval" tvg-id="ext" group-title="Liste" tvg-logo="logo N/A",Karadeniz_Karnaval
 https://25453.live.streamtheworld.com/KARADENIZ128AAC.aac
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Borusan_Klasik  " tvg-logo="" group-title="RADYO",Borusan_Klasik  
+#EXTINF:-1 tvg-name="Borusan_Klasik" tvg-id="ext" group-title="Liste" tvg-logo="logo N/A",Borusan_Klasik
 https://27953.live.streamtheworld.com/BORUSAN_KLASIK128AAC.aac
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Joy_Jazz  " tvg-logo="" group-title="RADYO",Joy_Jazz  
+#EXTINF:-1 tvg-name="Joy_Jazz" tvg-id="ext" group-title="Liste" tvg-logo="logo N/A",Joy_Jazz
 https://27913.live.streamtheworld.com/JOY_JAZZ128AAC.aac
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Joy_Slow  " tvg-logo="" group-title="RADYO",Joy_Slow  
+#EXTINF:-1 tvg-name="Joy_Slow" tvg-id="ext" group-title="Liste" tvg-logo="logo N/A",Joy_Slow
 https://22653.live.streamtheworld.com/SC030_SO1AAC.aac
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Joy_Dance  " tvg-logo="" group-title="RADYO",Joy_Dance  
+#EXTINF:-1 tvg-name="Joy_Dance" tvg-id="ext" group-title="Liste" tvg-logo="logo N/A",Joy_Dance
 https://25533.live.streamtheworld.com/SC019_SO1AAC.aac
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Metro_Fm  " tvg-logo="" group-title="RADYO",Metro_Fm  
+#EXTINF:-1 tvg-name="Metro_Fm" tvg-id="ext" group-title="Liste" tvg-logo="logo N/A",Metro_Fm
 https://27993.live.streamtheworld.com/METRO_FM128AAC.aac
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Joy_Baby  " tvg-logo="" group-title="RADYO",Joy_Baby  
+#EXTINF:-1 tvg-name="Joy_Baby" tvg-id="ext" group-title="Liste" tvg-logo="logo N/A",Joy_Baby
 https://22733.live.streamtheworld.com/SC009_SO1AAC.aac
-
-#EXTINF:-1 tvg-id="ext" tvg-name="N1_Jazz  " tvg-logo="" group-title="RADYO",N1_Jazz  
+#EXTINF:-1 tvg-name="N1_Jazz" tvg-id="ext" group-title="Liste" tvg-logo="logo N/A",N1_Jazz
 https://n10101m.mediatriple.net/jazz
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Uskudar Musiki Cemiyeti Radyosu  " tvg-logo="" group-title="RADYO",Uskudar Musiki Cemiyeti Radyosu  
+#EXTINF:-1 tvg-name="Uskudar Musiki Cemiyeti Radyosu" tvg-id="ext" group-title="Liste" tvg-logo="logo N/A",Uskudar Musiki Cemiyeti Radyosu
 https://n10101m.mediatriple.net/musiki
-
-#EXTINF:-1 tvg-id="ext" tvg-name="N1_Disko  " tvg-logo="" group-title="RADYO",N1_Disko  
+#EXTINF:-1 tvg-name="N1_Disko" tvg-id="ext" group-title="Liste" tvg-logo="logo N/A",N1_Disko
 https://n10101m.mediatriple.net/disco
-
-#EXTINF:-1 tvg-id="ext" tvg-name="N1_Klasik  " tvg-logo="" group-title="RADYO",N1_Klasik  
+#EXTINF:-1 tvg-name="N1_Klasik" tvg-id="ext" group-title="Liste" tvg-logo="logo N/A",N1_Klasik
 https://n10101m.mediatriple.net/classic
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Number1 Greek  " tvg-logo="" group-title="RADYO",Number1 Greek  
+#EXTINF:-1 tvg-name="Number1 Greek" tvg-id="ext" group-title="Liste" tvg-logo="logo N/A",Number1 Greek
 https://n10101m.mediatriple.net/greek
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Gecmistv  " tvg-logo="" group-title="OZEL",Gecmistv  
-https://tv1.arectv30.sbs/live/tarihtv.m3u8
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Histeritv  " tvg-logo="" group-title="OZEL",Histeritv  
-https://tv1.arectv30.sbs/live/history.m3u8
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Bebecetv  " tvg-logo="" group-title="OZEL",Bebecetv  
-https://tv1.arectv30.sbs/live/bbc.m3u8
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Diskoveri  " tvg-logo="" group-title="OZEL",Diskoveri  
-https://tv1.arectv30.sbs/live/discovery.m3u8
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Dogasev  " tvg-logo="" group-title="OZEL",Dogasev  
-https://tv1.arectv30.sbs/live/lovenature.m3u8
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Turk_Smart  " tvg-logo="" group-title="OZEL",Turk_Smart  
-https://tv1.arectv30.sbs/live/mvturk.m3u8
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Filmtv2  " tvg-logo="" group-title="OZEL",Filmtv2  
-https://tv1.arectv30.sbs/live/sinema2.m3u8
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Aksiyon  " tvg-logo="" group-title="OZEL",Aksiyon  
-https://tv1.arectv30.sbs/live/sinemaaksiyon.m3u8
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Komedi  " tvg-logo="" group-title="OZEL",Komedi  
-https://tv1.arectv30.sbs/live/sinemakomedi.m3u8
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Aile  " tvg-logo="" group-title="OZEL",Aile  
-https://tv1.arectv30.sbs/live/sinemaaile.m3u8
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Binbir  " tvg-logo="" group-title="OZEL",Binbir  
-https://tv1.arectv30.sbs/live/sinema1001.m3u8
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Iron Man  " tvg-logo="" group-title="SINEMA",Iron Man  
-https://vidrame.pro/vr/get/ef7709d0/1080.txt
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Iron Man 2  " tvg-logo="" group-title="SINEMA",Iron Man 2  
-https://vod.plvideo.ru/FbZEopwh/EiKYJIFOyO/ZQ01hGwHzcEG8SWrhPD/ZX
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Thor  " tvg-logo="" group-title="SINEMA",Thor  
-https://vod.plvideo.ru/JLxVTeJD/EiKYJIFOyO/aItZ6wkzTjTknDEOXWu/ZX
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Ilk Yenilmez  " tvg-logo="" group-title="SINEMA",Ilk Yenilmez  
-https://vod.plvideo.ru/JLxVTeJD/EiKYJIFOyO/aItZ6wk7-TzYoBU6BZ0/ZX
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Avengers  " tvg-logo="" group-title="SINEMA",Avengers  
-https://vidrame.pro/vr/get/9de3d24b/1080.txt
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Iron Man 3  " tvg-logo="" group-title="SINEMA",Iron Man 3  
-https://s3.pixypost.art/mh/ETIgnKVhDJEuoF4mYwRjBQOjYxEIDHjd0zxpTy4rKOip3DhLKW0s0xi3vr1
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Thor 2  " tvg-logo="" group-title="SINEMA",Thor 2  
-https://vidrame.pro/vr/get/5cac84cf/1080.txt
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Kaptan Amerika 2  " tvg-logo="" group-title="SINEMA",Kaptan Amerika 2  
-https://hls9.playmix.uno/hls/captainamerica-2-thewintersoldier-2014-trdualmp4-1ZbaS3jutnZ.mp4/master.txt
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Kaptan Amerika 2  " tvg-logo="" group-title="SINEMA",Kaptan Amerika 2  
-https://vidrame.pro/vr/get/08b02408/1080.txt
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Galaksinin Koruyuculari  " tvg-logo="" group-title="SINEMA",Galaksinin Koruyuculari  
-https://vod.plvideo.ru/GMPb65uk/AZAevqJa5r/iyfN6I3e-US2QwYb4Sb/ZX
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Avengers 2  " tvg-logo="" group-title="SINEMA",Avengers 2  
-https://vod.plvideo.ru/JLxVTeJD/EiKYJIFOyO/aItZ6wkVQNFwEvY941l/ZX
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Karinca Adam  " tvg-logo="" group-title="SINEMA",Karinca Adam  
-https://vod.plvideo.ru/FbZEopwh/EiKYJIFOyO/ZQ01hGw3k6VSJl8dl8f/ZX
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Civil War  " tvg-logo="" group-title="SINEMA",Civil War  
-https://vod.plvideo.ru/FbZEopwh/EiKYJIFOyO/aItZ6wkEQUuITu2MwtP/ZX
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Doctor Strange  " tvg-logo="" group-title="SINEMA",Doctor Strange  
-https://vod.plvideo.ru/FbZEopwh/EiKYJIFOyO/aItZ6wkTRclLpgpULqQ/ZX
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Galaksinin Koruyuculari 2  " tvg-logo="" group-title="SINEMA",Galaksinin Koruyuculari 2  
-https://vod.plvideo.ru/FbZEopwh/AZAevqJa5r/iyfN6I32JIf-pFNgZi-/ZX
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Spiderman Homecoming  " tvg-logo="" group-title="SINEMA",Spiderman Homecoming  
-https://s24.imagehub.pics/mn/H3OcMTIlYH1uov5Vo21yL29gnJ5aYwVjZGphDzk1pzS5YwRjBQOjYxEIDHjd0zxnJ1uM2IbqJVhpTywpjs0xi24vr1
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Black Panter  " tvg-logo="" group-title="SINEMA",Black Panter  
-https://s4.imglink.info/ml/DzkuL2fhHTShqTuypv4lZQR4YxWfqKWurF4kZQtjpP5RIHSZd0zxnJ1aoTyhnl5cozMis0xi4vr1
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Avengers 3  " tvg-logo="" group-title="SINEMA",Avengers 3  
-https://vod.plvideo.ru/JLxVTeJD/EiKYJIFOyO/iyfN6I3I_HMc32bzI5Q/ZX
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Karinca Adam 2  " tvg-logo="" group-title="SINEMA",Karinca Adam 2  
-https://vod.plvideo.ru/GMPb65uk/EiKYJIFOyO/aItZ6wkghTPMZdhPqth/ZX
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Captain Marvel  " tvg-logo="" group-title="SINEMA",Captain Marvel  
-https://s9.pixypost.art/mc/F2SjqTShYx1OHyMSGP4kZQtjpP5RIHSZd0zxpTy4rKOip3DhLKW0s0xi9vr1
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Avengers 4  " tvg-logo="" group-title="SINEMA",Avengers 4  
-https://vod.plvideo.ru/GMPb65uk/EiKYJIFOyO/ZQ01hGwQT70JnTHUi47/ZX
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Spiderman Far From Home  " tvg-logo="" group-title="SINEMA",Spiderman Far From Home  
-https://s4.imagescdns.pics/m6/H3OcMTIlYx1uov5TLKVhMaWioF5Vo21yYwVjZGxhDzk1pzS5YwRjBQOjYxEIDHjd0zxnJ1uM2ImL2Ehpl5jnJAms0xi4vr1
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Black Widow  " tvg-logo="" group-title="SINEMA",Black Widow  
-https://vidrame.pro/vr/get/226fe687/1080.txt
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Eternals  " tvg-logo="" group-title="SINEMA",Eternals  
-https://cdn140.balcanliselo.online/uploads/encode/v1i4uebv2jga1fan666y/1080p/playlist.m3u8
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Spiderman No Way Home  " tvg-logo="" group-title="SINEMA",Spiderman No Way Home  
-https://s26.imglink.pro/mv/H3OcMTIlYH1uov5Bol5KLKxhFT9gMF4lZQVkYxWfqKWurF4kZQtjpP5RIHRd0zxnJ1aoTyhnl5jpz8s0xi26vr1b2160
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Doctor Strange 2  " tvg-logo="" group-title="SINEMA",Doctor Strange 2  
-https://s26.pixtures.art/m5/ET9wqT9lYyA0pzShM2HhnJ4hqTuyYx11oUEcqzIlp2Hho2LhGJSxozImpl4lZQVlYxyKEHVgERjhZGN4ZUNhESIOGNd0zxpTy4qUIlMKZhLKW0s0xi26vr1
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Thor 4  " tvg-logo="" group-title="SINEMA",Thor 4  
-https://s2.pixtures.art/m8/ITuipv5Zo3MyYzShMP5HnUIhMTIlYwVjZwVhFIqSDv1RGP4kZQtjpP5RIHRd0zxpTy4qUIlMKZhLKW0s0xi2vr1
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Black Panter 2  " tvg-logo="" group-title="SINEMA",Black Panter 2  
-https://s5.imgmania.org/m1/DzkuL2fhHTShqTuypv5KLJguozEuYxMipzI2MKVhZwNlZv5WI0IPYHEZYwRjBQOjYxEIDHjd0zxnJ1aoJShnJRho3Was0xi5vr1
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Galaksinin Koruyuculari Special  " tvg-logo="" group-title="SINEMA",Galaksinin Koruyuculari Special  
-https://s2.photogrids.site/m5/ITuyYxq1LKWxnJShpl5iMv50nTHhE2SfLKu5YxuioTyxLKxhH3OyL2yuoP4lZQVlYyqSDv1RGP4kZQtjpP5RIHSZd0zxpTuiqT9apzyxpl5mnKEys0xi2vr1
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Werewolf By Night  " tvg-logo="" group-title="SINEMA",Werewolf By Night  
-https://sithmanifest.com/server/videos/367248/eng/cDdpa2g3eHFoM3I5V25wS1JJeTgwQzFMdit1Y1lvQnlMaEhRbjZGc0ZUREZlbk5mYVJIYkE3K3c4OEVJTk5ldw/1080.m3u8?_=1727725128
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Karinca Adam 3  " tvg-logo="" group-title="SINEMA",Karinca Adam 3  
-https://s18.photogrids.site/md/DJ50Yx1uov5uozDhqTuyYyqup3NhHKIuoaE1oJShnJRhZwNlZl5WI0IPYHEZYwRjBQOjYxEIDHjd0zxpTuiqT9apzyxpl5mnKEys0xi18vr1
-
-#EXTINF:-1 tvg-id="ext" tvg-name="The Marvels  " tvg-logo="" group-title="SINEMA",The Marvels  
-https://vidrame.pro/vr/get/b38c1403/480.txt
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Deadpool 3  " tvg-logo="" group-title="SINEMA",Deadpool 3  
-https://s1.imagesbox.cloud/m9/ETIuMUOio2jhLJ5xYyqioUMypzyhMF4lZQV0YyqSDv1RGP4kZQtjpP5RIHSZd0zxnJ1uM2ImLz94YzAfo3Ixs0xi1vr1
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Hizli Ve Ofkeli  " tvg-logo="" group-title="SINEMA",Hizli Ve Ofkeli  
-https://vidrame.pro/vr/get/2ab5b9a3/1080.txt
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Hizli Ve Ofkeli 4  " tvg-logo="" group-title="SINEMA",Hizli Ve Ofkeli 4  
-https://vidrame.pro/vr/get/63bc9250/1080.txt
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Hizli Ve Ofkeli 5  " tvg-logo="" group-title="SINEMA",Hizli Ve Ofkeli 5  
-https://vidrame.pro/vr/get/03790982/1080.txt
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Hizli Ve Ofkeli 6  " tvg-logo="" group-title="SINEMA",Hizli Ve Ofkeli 6  
-https://vidrame.pro/vr/get/25624c87/1080.txt
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Hizli Ve Ofkeli 7  " tvg-logo="" group-title="SINEMA",Hizli Ve Ofkeli 7  
-https://vidrame.pro/vr/get/66988bb7/1080.txt
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Hizli Ve Ofkeli 8  " tvg-logo="" group-title="SINEMA",Hizli Ve Ofkeli 8  
-https://eksenload.site/uploads/encode/z1sgbf61btl42knpj4cn/1080p/playlist.m3u8
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Hizli Ve Ofkeli 10  " tvg-logo="" group-title="SINEMA",Hizli Ve Ofkeli 10  
-https://s24.seeshare.pics/mv/EzSmqP5LYwVjZwZhDzk1pzS5YwRjBQOjYxEIDHjd0zxp2Iyp2uupzHhpTywpjs0xi24vr1
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Harry Potter 4  " tvg-logo="" group-title="SINEMA",Harry Potter 4  
-https://cdn.dzen.ru/vod/converted-video/vod-content/59/07/28/15/76/75/90/20/48/dbf19972-2663-4a85-bb54-9543cee1fc05/kaltura/desc_f64f9ca4d846497c4bef430408cca25f/vn11utH2VBx0/master.m3u8
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Harry Potter 5  " tvg-logo="" group-title="SINEMA",Harry Potter 5  
-https://s24.imageshub.pro/mc/FTSlpaxhHT90qTIlYwHhZwNjAl5PGSIFDIxhZGN4ZUNhESIOGNd0zxnJ1uM2ImnUIvYaOlojs0xi24vr1
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Harry Potter 7  " tvg-logo="" group-title="SINEMA",Harry Potter 7  
-https://cdn.prectv2.lat/hls/5/ax61/mp4/b10cd9de3ec26655470bcfa5ccc0bc39.mp4/index.m3u8?token=7gT_dcoNvn4NP3ZxO02QBQ&tms=1731874943
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Harry Potter 7  " tvg-logo="" group-title="SINEMA",Harry Potter 7  
-https://mp4.prectv2.lat/5/ax61/mp4/b10cd9de3ec26655470bcfa5ccc0bc39.mp4?token=7gT_dcoNvn4NP3ZxO02QBQ&tms=1731874943
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Harry Potter 8  " tvg-logo="" group-title="SINEMA",Harry Potter 8  
-https://cdn.dzen.ru/vod/converted-video/vod-content/16/62/70/16/49/14/19/83/81/42b1ccb7-762b-426c-a73e-78aa103ff68a/kaltura/desc_5ef987bcec5b9b34980a552c110cf4e9/vJUahp9BgfkM/master.m3u8
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Batman The Dark Knight  " tvg-logo="" group-title="SINEMA",Batman The Dark Knight  
-https://vidrame.pro/vr/get/503b6fee/1080.txt
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Suicide Squad: Gercek Kotuler  " tvg-logo="" group-title="SINEMA",Suicide Squad: Gercek Kotuler  
-https://vidmody.com/vs/tt1386697
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Yirtici Kuslar Ve Muhtesem Harley Quinn (2020)  " tvg-logo="" group-title="SINEMA",Yirtici Kuslar Ve Muhtesem Harley Quinn (2020)  
-https://vidmody.com/vs/tt7713068
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Han Solo: Bir Star Wars Hikayesi (2018)  " tvg-logo="" group-title="SINEMA",Han Solo: Bir Star Wars Hikayesi (2018)  
-https://vidmody.com/vs/tt3778644
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Rogue One: Bir Star Wars Hikayesi (2016)  " tvg-logo="" group-title="SINEMA",Rogue One: Bir Star Wars Hikayesi (2016)  
-https://vidmody.com/vs/tt3748528
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Star Wars: Bolum 1 (1977)  " tvg-logo="" group-title="SINEMA",Star Wars: Bolum 1 (1977)  
-https://vidmody.com/vs/tt0076759
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Star Wars: Bolum 8 - Son Jedi (2017)  " tvg-logo="" group-title="SINEMA",Star Wars: Bolum 8 - Son Jedi (2017)  
-https://vidmody.com/vs/tt2527336
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Star Wars: Bolum 6 - Jedinin Donusu  " tvg-logo="" group-title="SINEMA",Star Wars: Bolum 6 - Jedinin Donusu  
-https://vidmody.com/vs/tt0086190
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Star Wars: Bolum 7 - Guc Uyaniyor (2015)  " tvg-logo="" group-title="SINEMA",Star Wars: Bolum 7 - Guc Uyaniyor (2015)  
-https://vidmody.com/vs/tt2488496
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Star Wars: Bolum 9 - Skywalkerin Yukselisi (2019)  " tvg-logo="" group-title="SINEMA",Star Wars: Bolum 9 - Skywalkerin Yukselisi (2019)  
-https://vidmody.com/vs/tt2527338
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Star Wars: Bolum I - Gizli Tehlike (1999)  " tvg-logo="" group-title="SINEMA",Star Wars: Bolum I - Gizli Tehlike (1999)  
-https://vidmody.com/vs/tt0120915
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Star Wars: Bolum II - Klonlarin Saldirisi (2002)  " tvg-logo="" group-title="SINEMA",Star Wars: Bolum II - Klonlarin Saldirisi (2002)  
-https://vidmody.com/vs/tt0121765
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Star Wars: Bolum III - Sithin Intikami (2005)  " tvg-logo="" group-title="SINEMA",Star Wars: Bolum III - Sithin Intikami (2005)  
-https://vidmody.com/vs/tt0121766
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Star Wars: Klon Savaslari (2008)  " tvg-logo="" group-title="SINEMA",Star Wars: Klon Savaslari (2008)  
-https://vidmody.com/vs/tt1185834
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Yildiz Savaslari: Imparator (1980)  " tvg-logo="" group-title="SINEMA",Yildiz Savaslari: Imparator (1980)  
-https://vidmody.com/vs/tt0080684
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Jumanji 1  " tvg-logo="" group-title="SINEMA",Jumanji 1  
-https://vidmody.com/vs/tt0113497
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Jumanji 2  " tvg-logo="" group-title="SINEMA",Jumanji 2  
-https://vidmody.com/vs/tt2283362
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Jumanji 3  " tvg-logo="" group-title="SINEMA",Jumanji 3  
-https://vidmody.com/vs/tt7975244
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Venom  " tvg-logo="" group-title="SINEMA",Venom  
-https://vidrame.pro/vr/get/2e79093d/1080.txt
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Venom 2  " tvg-logo="" group-title="SINEMA",Venom 2  
-https://a2.vidload.lol/169/1080p.m3u8
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Gladyator  " tvg-logo="" group-title="SINEMA",Gladyator  
-https://a3.vidload.lol/1322/1080p.m3u8
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Deadpool  " tvg-logo="" group-title="SINEMA",Deadpool  
-https://a2.vidload.lol/176/1080p.m3u8
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Deadpool 2  " tvg-logo="" group-title="SINEMA",Deadpool 2  
-https://vidrame.pro/vr/get/b06bb918/1080.txt
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Deadpool 3  " tvg-logo="" group-title="SINEMA",Deadpool 3  
-https://a2.vidload.lol/3724/1080p.m3u8
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Predator 1  " tvg-logo="" group-title="SINEMA",Predator 1  
-https://vidmody.com/vs/tt0093773
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Predator 2  " tvg-logo="" group-title="SINEMA",Predator 2  
-https://vidmody.com/vs/tt1424381
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Predator 3  " tvg-logo="" group-title="SINEMA",Predator 3  
-https://vidmody.com/vs/tt3829266
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Prey  " tvg-logo="" group-title="SINEMA",Prey  
-https://vidmody.com/vs/tt11866324
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Platform  " tvg-logo="" group-title="SINEMA",Platform  
-https://vidmody.com/vs/tt8228288
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Platform 2  " tvg-logo="" group-title="SINEMA",Platform 2  
-https://load.rectv2024live.com/hls/11/cdn62/7cfe240c265487ca3bbe0bef194b2bbb17280354976.mp4/index.m3u8
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Hobbit 1  " tvg-logo="" group-title="SINEMA",Hobbit 1  
-https://s11.imageshub.pro/mi/FT9vLzy0YwRhDzIeoTIhoJIxnJfhJJ9fL3IfqJfhITuyYxuiLzWcqP4kYxShYyIhMKujMJA0MJDhFz91pz5yrF4lZQRlYwRjBQOjYxE1LJjd0zxnJ1uM2ImnUIvYaOlojs0xi11vr1b480
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Hobbit 2  " tvg-logo="" group-title="SINEMA",Hobbit 2  
-https://vidmody.com/vs/tt1170358
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Hobbit 3  " tvg-logo="" group-title="SINEMA",Hobbit 3  
-https://vidmody.com/vs/tt2310332
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Aclik Oyunlari 1  " tvg-logo="" group-title="SINEMA",Aclik Oyunlari 1  
-https://vidmody.com/vs/tt1392170
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Aclik Oyunlari 2  " tvg-logo="" group-title="SINEMA",Aclik Oyunlari 2  
-https://vidmody.com/vs/tt1951264
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Aclik Oyunlari 3  " tvg-logo="" group-title="SINEMA",Aclik Oyunlari 3  
-https://vidmody.com/vs/tt1951265
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Aclik Oyunlari 4  " tvg-logo="" group-title="SINEMA",Aclik Oyunlari 4  
-https://vidmody.com/vs/tt1951266
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Wall_E  " tvg-logo="" group-title="SINEMA",Wall_E  
-https://vidrame.pro/vr/get/58390cad/1080.txt
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Ters Yuz  " tvg-logo="" group-title="SINEMA",Ters Yuz  
-https://a3.vidload.lol/1055/1080p.m3u8
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Ters Yuz 2  " tvg-logo="" group-title="SINEMA",Ters Yuz 2  
-https://vidrame.pro/vr/get/968e8cf1/1080.txt
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Srek 1  " tvg-logo="" group-title="SINEMA",Srek 1  
-https://vidrame.pro/vr/get/45ba91a9/1080.txt
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Srek 2  " tvg-logo="" group-title="SINEMA",Srek 2  
-https://vidmody.com/vs/tt0298148
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Srek 3  " tvg-logo="" group-title="SINEMA",Srek 3  
-https://vidmody.com/vs/tt0413267
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Srek 4  " tvg-logo="" group-title="SINEMA",Srek 4  
-https://vidrame.pro/vr/get/cc6feded/1080.txt
-
+#EXTINF:-1 tvg-name="Trt1" tvg-id="ext" group-title="Liste" tvg-logo="logo N/A",Trt1
+https://trt.radyotvonline.net/trt_1.aac
+#EXTINF:-1 tvg-name="TrtFM" tvg-id="ext" group-title="Liste" tvg-logo="logo N/A",TrtFM
+https://trt.radyotvonline.net/trt_fm.aac
+#EXTINF:-1 tvg-name="rADYO3" tvg-id="ext" group-title="Liste" tvg-logo="logo N/A",rADYO3
+https://rd-trtradyo3.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-name="nAGME" tvg-id="ext" group-title="Liste" tvg-logo="logo N/A",nAGME
+https://rd-trtnagme.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-name="Tsr" tvg-id="ext" group-title="Liste" tvg-logo="logo N/A",Tsr
+https://radio-trttsr.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-name="Mmlkt" tvg-id="ext" group-title="Liste" tvg-logo="logo N/A",Mmlkt
+https://radio-trtmemleketimfm.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-name="TrtFM2" tvg-id="ext" group-title="Liste" tvg-logo="logo N/A",TrtFM2
+https://trt.radyotvonline.net/trtfm
+#EXTINF:-1 tvg-name="TRT1 yedek" tvg-id="ext" group-title="Liste" tvg-logo="logo N/A",TRT1 yedek
+https://trt.radyotvonline.net/trt1
+#EXTINF:-1 tvg-name="Rdy3 Yedek" tvg-id="ext" group-title="Liste" tvg-logo="logo N/A",Rdy3 Yedek
+https://rd-trtradyo3.medya.trt.com.tr/master_128.m3u8
+#EXTINF:-1 tvg-name="Radyo3" tvg-id="ext" group-title="Liste" tvg-logo="logo N/A",Radyo3
+https://rd-trtradyo3.medya.trt.com.tr/master_128.aac
+#EXTINF:-1 tvg-name="Nagme yedek" tvg-id="ext" group-title="Liste" tvg-logo="logo N/A",Nagme yedek
+https://rd-trtnagme.medya.trt.com.tr/master_128.m3u8
+#EXTINF:-1 tvg-name="Nagme yed" tvg-id="ext" group-title="Liste" tvg-logo="logo N/A",Nagme yed
+https://rd-trtnagme.medya.trt.com.tr/master_128.aac
+#EXTINF:-1 tvg-name="PowerTV" tvg-id="ext" group-title="Liste" tvg-logo="logo N/A",PowerTV
+https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="pOWERdANCE" tvg-id="ext" group-title="Liste" tvg-logo="logo N/A",pOWERdANCE
+https://listen.powerapp.com.tr/dance/dance.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Dance" tvg-id="ext" group-title="Liste" tvg-logo="logo N/A",Dance
+https://listen.powerapp.com.tr/dance/dance.smil/chunks.m3u8
+#EXTINF:-1 tvg-name="NR1" tvg-id="ext" group-title="Liste" tvg-logo="logo N/A",NR1
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/chunks.m3u8
+#EXTINF:-1 tvg-name="House" tvg-id="ext" group-title="Liste" tvg-logo="logo N/A",House
+https://sunsl.streamabc.net/sunsl-house-mp3-192-3326799?sABC=6832s09p%231%239461ps6141pq4sp79729s1no0rn8pp5p%23ubzrcntr&mode=preroll&aw_0_1st.skey=1748168861&cb=116888176&listenerid=9461cf6141cd4fc79729f1ab0ea8cc5c&aw_0_1st.playerid=homepage&amsparams=playerid:homepage;skey:1748168860
+#EXTINF:-1 tvg-name="Vintage" tvg-id="ext" group-title="Liste" tvg-logo="logo N/A",Vintage
+https://vintageradio.ice.infomaniak.ch/vintageradio-high.mp3
