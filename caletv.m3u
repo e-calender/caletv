@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:30,Nr1
+#EXTINF:30,--MUZIK TV--Nr1
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/playlist.m3u8
 
 #EXTINF:30,Power Hd
@@ -11,7 +11,7 @@ https://live.artidijitalmedya.com/artidijital_powertv/powertv/playlist.m3u8
 #EXTINF:0,Power Dance
 https://listen.powerapp.com.tr/dance/dance.smil/playlist.m3u8
 
-#EXTINF:0,Polis_Tsm
+#EXTINF:0,--RADYOLAR--Polis_Tsm
 https://m.egm.gov.tr:8095/stream?/;stream.mp3
 
 #EXTINF:0,Polis_Tsm_Ydk
@@ -59,11 +59,95 @@ https://n10101m.mediatriple.net/jazz
 #EXTINF:0,N1_Disko
 https://n10101m.mediatriple.net/disco
 
-#EXTINF:0,Radyo
+#EXTINF:0,UMC Radyosu
 https://n10101m.mediatriple.net/musiki
+
+#EXTINF:0,Number1 Greek	
+https://n10101m.mediatriple.net/greek
 
 #EXTINF:0,Karadeniz_Karnaval
 https://25453.live.streamtheworld.com/KARADENIZ128AAC.aac
 
 #EXTINF:0,TRT_3
 https://rd-trtradyo3.medya.trt.com.tr/master.m3u8
+
+#EXTINF:0,Radyo 1	
+https://rd-trtradyo1.medya.trt.com.tr/master_128.m3u8
+
+#EXTINF:0,Trt_Fm	
+https://trt.radyotvonline.net/trt_fm.aac
+
+#EXTINF:0,Radyo 3	
+https://rd-trtradyo3.medya.trt.com.tr/master_128.m3u8
+
+#EXTINF:0,Trt_Turku	
+https://rd-trtturku.medya.trt.com.tr/master_128.m3u8
+
+#EXTINF:0,Trt_Nagme	
+https://rd-trtnagme.medya.trt.com.tr/master_128.m3u8
+
+#EXTINF:0,Polis_Tsm	
+https://m.egm.gov.tr:8095/stream?%22
+
+#EXTINF:0,Tsr	
+https://radio-trttsr.medya.trt.com.tr/master_128.m3u8
+
+#EXTINF:0,Kafa_Radyo	
+https://moondigitaledge2.radyotvonline.net/kafaradyo/playlist.m3u8
+
+#EXTINF:-1 ,--KAMERALAR--Anadolu Hisarı
+https://hls.ibb.gov.tr/ls/cam_turistik/b_anadoluhisari.stream/chunklist.m3u8
+#EXTINF:-1 ,Bayazit
+https://hls.ibb.gov.tr/ls/cam_turistik/cam_trsk_beyazit_meydan.stream/chunklist.m3u8
+#EXTINF:-1 ,Beyazıt Kulesi 2
+https://hls.ibb.gov.tr/ls/cam_turistik/wowzaDeneme.stream/chunklist.m3u8
+#EXTINF:-1 ,Beyazıt Meydanı
+https://hls.ibb.gov.tr/ls/cam_turistik/b_beyazitmeydani.stream/chunklist.m3u8
+#EXTINF:-1 ,Beyazit Kule 1
+https://hls.ibb.gov.tr/ls/cam_turistik/cam_trsk_beyazit_kule_1.stream/playlist.m3u8
+#EXTINF:-1 ,Beyazit Kulesi
+https://hls.ibb.gov.tr/ls/cam_turistik/cam_trsk_beyazit_kule_1.stream/chunklist.m3u8
+#EXTINF:-1 ,Beyazit Meydan
+https://hls.ibb.gov.tr/ls/cam_turistik/cam_trsk_beyazit_meydan.stream/playlist.m3u8
+#EXTINF:-1 ,Büyük Çamlıca
+https://hls.ibb.gov.tr/ls/cam_turistik/b_buyukcaml%C4%B1ca.stream/chunklist.m3u8
+#EXTINF:-1 ,Dragos
+https://hls.ibb.gov.tr/ls/cam_turistik/b_dragos.stream/chunklist.m3u8
+#EXTINF:-1 ,Eminönü
+https://hls.ibb.gov.tr/ls/cam_turistik/cam_trsk_eminonu.stream/chunklist.m3u8
+#EXTINF:-1 ,Eyup Sultan - Yedek
+https://hls.ibb.gov.tr/ls/cam_turistik/cam_trsk_eyup.stream/playlist.m3u8
+#EXTINF:-1 ,Eyüp Sultan
+https://hls.ibb.gov.tr/ls/cam_turistik/cam_trsk_eyup.stream/chunklist.m3u8
+#EXTINF:-1 ,Hidiv Kasrı
+https://hls.ibb.gov.tr/ls/cam_turistik/cam_trsk_hidiv_kasri_1.stream/chunklist.m3u8
+#EXTINF:-1 ,Kapalı Çarşı
+https://hls.ibb.gov.tr/ls/cam_turistik/cam_trsk_kapali_carsi.stream/chunklist.m3u8
+#EXTINF:-1 ,Kapali Carsi Yedek
+https://hls.ibb.gov.tr/ls/cam_turistik/cam_trsk_kapali_carsi.stream/playlist.m3u8
+#EXTINF:-1 ,Kartal Kavsagı
+https://hls.ibb.gov.tr/tkm4/hls/124.stream/chunklist.m3u8
+#EXTINF:-1 ,Kız Kulesi
+https://hls.ibb.gov.tr/ls/cam_turistik/new_K%C4%B1zkulesi.stream/chunklist.m3u8
+#EXTINF:-1 ,Kucukcekmece
+https://hls.ibb.gov.tr/tkm2/hls/583.stream/chunklist.m3u8
+#EXTINF:-1 ,Küçükçekmece
+https://hls.ibb.gov.tr/ls/cam_turistik/b_kucukcekmece.stream/chunklist.m3u8
+#EXTINF:-1 ,Metrohan
+https://hls.ibb.gov.tr/ls/cam_turistik/b_metrohan.stream/chunklist.m3u8
+#EXTINF:-1 ,Salacak
+https://hls.ibb.gov.tr/ls/cam_turistik/b_salacak.stream/chunklist.m3u8
+#EXTINF:-1 ,Saraçhane 1
+https://hls.ibb.gov.tr/ls/cam_turistik/b_sarachane.stream/chunklist.m3u8
+#EXTINF:-1 ,Sariyer Carsi
+https://hls.ibb.gov.tr/tkm2/hls/788.stream/chunklist.m3u8
+#EXTINF:-1 ,Sepetçiler Kasrı
+https://hls.ibb.gov.tr/ls/cam_turistik/b_sepetcilerkasri.stream/chunklist.m3u8
+#EXTINF:-1 ,Sultanahmet 2
+https://hls.ibb.gov.tr/ls/cam_turistik/b_sultanahmet2.stream/chunklist.m3u8
+#EXTINF:-1 ,Uğur Mumcu
+https://hls.ibb.gov.tr/tkm1/hls/205.stream/chunklist.m3u8
+#EXTINF:-1 ,Uskudar
+https://hls.ibb.gov.tr/ls/cam_turistik/b_uskudar.stream/chunklist.m3u8
+
+
