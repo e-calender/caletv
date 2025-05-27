@@ -66,79 +66,79 @@ https://n10101m.mediatriple.net/disco
 #EXTINF:0,UMC Radyosu
 https://n10101m.mediatriple.net/musiki
 
-#EXTINF:0,Number1 Greek	
+#EXTINF:0,Number1 Greek
 https://n10101m.mediatriple.net/greek
 
-#EXTINF:0,Power Greek	
+#EXTINF:0,Power Greek
 https://listen.powerapp.com.tr/powergreece/abr/powergreece/128/playlist.m3u8
 
 #EXTINF:0,Karadeniz_Karnaval
 https://25453.live.streamtheworld.com/KARADENIZ128AAC.aac
 
-#EXTINF:0,Atilim	
+#EXTINF:0,Atilim
 https://radyoatilim.yayin.com.tr/stream/1/?icy
 
-#EXTINF:0,Estu	
+#EXTINF:0,Estu
 https://ssl120.radyotelekom.com.tr/8024/stream?/;stream.mp3
 
-#EXTINF:0,Bilkent	
+#EXTINF:0,Bilkent
 https://stream.netradyom.com/listen/radyobilkent/radio.mp3
 
-#EXTINF:0,Literal	
+#EXTINF:0,Literal
 https://22593.live.streamtheworld.com/LITERAL128AAC.aac?/;stream.mp3
 
-#EXTINF:0,Makam	
+#EXTINF:0,Makam
 https://29073.live.streamtheworld.com/MAKAM128AAC.aac?/;stream.mp3
 
-#EXTINF:0,Alaturka	
+#EXTINF:0,Alaturka
 https://yayin.jumboserver.net:9100/stream?/;stream.mp3
 
-#EXTINF:0,Efkar	
+#EXTINF:0,Efkar
 https://29103.live.streamtheworld.com/EFKAR128AAC.aac?/;stream.mp3
 
-#EXTINF:0,ABC Jazz	
+#EXTINF:0,ABC Jazz
 https://mediaserviceslive.akamaized.net/hls/live/2038319/abcjazz/index.m3u8
 
-#EXTINF:0,ABC Klassik	
+#EXTINF:0,ABC Klasik	
 https://mediaserviceslive.akamaized.net/hls/live/2038316/classicfmnsw/index.m3u8
 
-#EXTINF:0,ABC Kalsik 2	
+#EXTINF:0,ABC Pop
 https://radyoatilim.yayin.com.tr/stream/1/?icy
 
-#EXTINF:0,Bilkent	
+#EXTINF:0,Bilkent
 https://stream.netradyom.com/listen/radyobilkent/radio.mp3
 
-#EXTINF:0,Itu Kalssik	
+#EXTINF:0,Itu Klasik	
 http://160.75.86.29:8088/ituklasikmp3
 
-#EXTINF:0,ITU Kjazz	
+#EXTINF:0,ITU Jazz	
 https://22593.live.streamtheworld.com/LITERAL128AAC.aac?/;stream.mp3
 
-#EXTINF:0,ITU JB	
+#EXTINF:0,ITU JazzBlues
 http://160.75.86.29:8088/itucazmp3
 
-#EXTINF:0,ITU Rock	
+#EXTINF:0,ITU Rock
 http://160.75.86.29:8088/iturockmp3
 
-#EXTINF:0,Home Klas	
+#EXTINF:0,Home Klas
 https://moondigitaledge.radyotvonline.net/klasikhome/playlist.m3u8
 
-#EXTINF:0,Home Relax	
+#EXTINF:0,Home Relax
 https://moondigitaledge.radyotvonline.net/relaxhome/playlist.m3u8
 
-#EXTINF:0,Land Clas	
+#EXTINF:0,Land Klasik	
 https://moondigitaledge.radyotvonline.net/classicland/playlist.m3u8
 
-#EXTINF:0,Greekland	
+#EXTINF:0,Greekland
 https://moondigitaledge.radyotvonline.net/greekland/playlist.m3u8
 
-#EXTINF:0,NRK Klasiik	
+#EXTINF:0,NRK Klasik
 https://lyd.nrk.no/icecast/mp3/high/s0w7hwn47m/klassisk
 
-#EXTINF:0,NR1 Clas	
+#EXTINF:0,NR1 Klasik
 https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e34bfc5042_1/playlist.m3u8
 
-#EXTINF:0,Borusan	
+#EXTINF:0,Borusan
 https://28553.live.streamtheworld.com/BORUSAN_KLASIK128AAC.aac?/;stream.mp3
 
 #EXTINF:0,Bayrak Klasik
