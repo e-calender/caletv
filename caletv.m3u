@@ -32,6 +32,15 @@ http://160.75.86.29:8088/itucazmp3
 #EXTINF:0,Joy_Jazz
 https://27913.live.streamtheworld.com/JOY_JAZZ128AAC.aac
 
+#EXTINF:0,Power Love
+https://listen.powerapp.com.tr/powerlove/abr/powerlove/128/playlist.m3u8
+
+#EXTINF:0,Power Xlarge
+https://listen.powerapp.com.tr/powerextralounge/abr/powerextralounge/128/playlist.m3u8
+
+#EXTINF:0,Power Jazz
+https://listen.powerapp.com.tr/powersmoothjazz/abr/powersmoothjazz/128/playlist.m3u8
+
 #EXTINF:0,Swiss Classic
 https://stream.srg-ssr.ch/m/rsc_de/mp3_128
 
@@ -55,6 +64,9 @@ https://n10101m.mediatriple.net/musiki
 
 #EXTINF:0,Number1 Greek	
 https://n10101m.mediatriple.net/greek
+
+#EXTINF:0,Power Greek	
+https://listen.powerapp.com.tr/powergreece/abr/powergreece/128/playlist.m3u8
 
 #EXTINF:0,Karadeniz_Karnaval
 https://25453.live.streamtheworld.com/KARADENIZ128AAC.aac
