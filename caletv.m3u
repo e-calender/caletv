@@ -140,3 +140,16 @@ https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e34bf
 
 #EXTINF:0,Borusan	
 https://28553.live.streamtheworld.com/BORUSAN_KLASIK128AAC.aac?/;stream.mp3
+
+#EXTINF:0,Bayrak Klasik
+http://sc.brtk.net:8006/stream/1/
+
+#EXTINF:0,Bayrak Radyo
+http://sc.brtk.net:8002/stream/1/
+
+#EXTINF:0,Bayrak FM
+http://sc.brtk.net:8000/stream/1/
+
+#EXTINF:0,Bayrak Turk Muzigi
+http://sc.brtk.net:8010/stream/1/
+
