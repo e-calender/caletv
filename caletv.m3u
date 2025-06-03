@@ -1,4 +1,62 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="ext" tvg-name="Stingray naturescape" tvg-logo="" group-title="MusicTV",Stingray naturescape (1080p)
+https://lotus.stingray.com/manifest/naturescape-a002-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Stingray naturescape2" tvg-logo="" group-title="MusicTV",Stingray naturescape2 (1080p)
+https://lotus.stingray.com/manifest/naturescape-a003-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Stingray montreal" tvg-logo="" group-title="MusicTV",Stingray montreal (1080p)
+https://lotus.stingray.com/manifest/ose-122ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Stingray qello001" tvg-logo="" group-title="MusicTV",Stingray qello001 (1080p)
+https://lotus.stingray.com/manifest/qello-qello001-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Stingray classica" tvg-logo="" group-title="MusicTV",Stingray classica (1080p)
+https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Stingray ose-101ads" tvg-logo="" group-title="MusicTV",Stingray ose-101ads (1080p)
+https://lotus.stingray.com/manifest/ose-101ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Stingray cmusic" tvg-logo="" group-title="MusicTV",Stingray cmusic (1080p)
+https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Stingray djazz" tvg-logo="" group-title="MusicTV",Stingray djazz (1080p)
+https://lotus.stingray.com/manifest/djazz-djaads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Stingray ose" tvg-logo="" group-title="MusicTV",Stingray ose (1080p)
+https://lotus.stingray.com/manifest/ose-137ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Stingray ose2" tvg-logo="" group-title="MusicTV",Stingray ose2 (1080p)
+https://lotus.stingray.com/manifest/ose-128ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Stingray naturescape" tvg-logo="" group-title="MusicTV",Stingray 1 (1080p)
+https://lotus.stingray.com/manifest/ose-115ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Stingray naturescape" tvg-logo="" group-title="MusicTV",Stingray 2 (1080p)
+https://lotus.stingray.com/manifest/ose-142ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Stingray naturescape" tvg-logo="" group-title="MusicTV",Stingray 3 (1080p)
+https://lotus.stingray.com/manifest/ose-107ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Stingray naturescape" tvg-logo="" group-title="MusicTV",Stingray 4 (1080p)
+https://lotus.stingray.com/manifest/ose-155ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Stingray naturescape" tvg-logo="" group-title="MusicTV",Stingray 5 (1080p)
+https://lotus.stingray.com/manifest/ose-108ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Stingray naturescape" tvg-logo="" group-title="MusicTV",Stingray 6 (1080p)
+https://lotus.stingray.com/manifest/ose-109ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Stingray naturescape" tvg-logo="" group-title="MusicTV",Stingray 7 (1080p)
+https://lotus.stingray.com/manifest/karaoke-kar000-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Stingray naturescape" tvg-logo="" group-title="MusicTV",Stingray 8 (1080p)
+https://lotus.stingray.com/manifest/ose-104ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Stingray naturescape" tvg-logo="" group-title="MusicTV",Stingray 9 (1080p)
+https://lotus.stingray.com/manifest/ose-102ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Stingray naturescape" tvg-logo="" group-title="MusicTV",Stingray 10 (1080p)
+https://lotus.stingray.com/manifest/ose-202ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Stingray naturescape" tvg-logo="" group-title="MusicTV",Stingray 11 (1080p)
+https://lotus.stingray.com/manifest/ose-140ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Stingray naturescape" tvg-logo="" group-title="MusicTV",Stingray 12 (1080p)
+https://lotus.stingray.com/manifest/ose-134ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Stingray naturescape" tvg-logo="" group-title="MusicTV",Stingray 13 (1080p)
+https://lotus.stingray.com/manifest/ose-317ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Stingray naturescape" tvg-logo="" group-title="MusicTV",Stingray 14 (1080p)
+https://lotus.stingray.com/manifest/ose-190ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Stingray naturescape" tvg-logo="" group-title="MusicTV",Stingray ose-133ads-montreal (1080p)
+https://lotus.stingray.com/manifest/ose-133ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Stingray naturescape" tvg-logo="" group-title="MusicTV",Stingray kpop (1080p)
+https://antares.dribbcast.com/proxy/kpop?mp=/s.mp3
+#EXTINF:-1 tvg-id="ext" tvg-name="Stingray naturescape" tvg-logo="" group-title="MusicTV",Stingray jpop (1080p)
+https://antares.dribbcast.com/proxy/jpop?mp=/s.mp3
+#EXTINF:-1 tvg-id="ext" tvg-name="Stingray naturescape" tvg-logo="" group-title="MusicTV",Stingray cpop (1080p)
+https://antares.dribbcast.com/proxy/cpop?mp=/s.mp3
+#EXTINF:-1 tvg-id="ext" tvg-name="Stingray naturescape" tvg-logo="" group-title="MusicTV",Stingray apop (1080p)
+https://antares.dribbcast.com/proxy/apop?mp=/s.mp3
 #EXTINF:-1 tvg-id="ext" tvg-name="Stingray Classica (1080p)" tvg-logo="" group-title="MusicTV",Stingray Classica (1080p)
 https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Stingray Easy Listening (1080p)" tvg-logo="" group-title="MusicTV",Stingray Easy Listening (1080p)
