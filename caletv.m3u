@@ -15,10 +15,6 @@ https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
 https://amg00056-amg00056c13-rakuten-es-3246.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1  tvg-name="Vevo Pop" tvg-id="ext" group-title="Tv",Vevo Pop
 https://amg00056-amg00056c9-rakuten-fr-3243.playouts.now.amagi.tv/playlist/amg00056-vevotvfast-vevopopfr-rakutenfr/playlist.m3u8
-#EXTINF:-1  tvg-name="Vevo R&B" tvg-id="ext" group-title="Tv",Vevo R&B
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5da0d83f66c9700009b96d0e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2ce913-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=b9489829-fa99-492b-9890-e85a4a467854
-#EXTINF:-1  tvg-name="VH1 East" tvg-id="ext" group-title="Tv",VH1 East
-https://fl3.moveonjoy.com/VH1/index.m3u8
 #EXTINF:-1  tvg-name="MyZen TV" tvg-id="ext" group-title="Tv",MyZen TV
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex/playlist.m3u8
 #EXTINF:-1  tvg-name="Stingray Flashback 70s" tvg-id="ext" group-title="Tv",Stingray Flashback 70s
