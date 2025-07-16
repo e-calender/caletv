@@ -1,159 +1,353 @@
 #EXTM3U
-#EXTINF:-1  tvg-name="Power Hd" tvg-id="ext" group-title="Tv",Power Hd
-https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playist.m3u8
-#EXTINF:-1  tvg-name="Power Dance" tvg-id="ext" group-title="Tv",Power Dance
-https://listen.powerapp.com.tr/dance/dance.smil/playlist.m3u8
-#EXTINF:-1  tvg-name="Power Love" tvg-id="ext" group-title="Tv",Power Love
-https://livetv.powerapp.com.tr/plove/love.smil/playlist.m3u8
-#EXTINF:-1  tvg-name="Nr1" tvg-id="ext" group-title="Tv",Nr1
-https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/playlist.m3u8
-#EXTINF:-1  tvg-name="Now 70s" tvg-id="ext" group-title="Tv",Now 70s
-https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
-#EXTINF:-1  tvg-name="Now 80s" tvg-id="ext" group-title="Tv",Now 80s
-https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
-#EXTINF:-1  tvg-name="Vevo Latino" tvg-id="ext" group-title="Tv",Vevo Latino
-https://amg00056-amg00056c13-rakuten-es-3246.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1  tvg-name="Vevo Pop" tvg-id="ext" group-title="Tv",Vevo Pop
-https://amg00056-amg00056c9-rakuten-fr-3243.playouts.now.amagi.tv/playlist/amg00056-vevotvfast-vevopopfr-rakutenfr/playlist.m3u8
-#EXTINF:-1  tvg-name="MyZen TV" tvg-id="ext" group-title="Tv",MyZen TV
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex/playlist.m3u8
-#EXTINF:-1  tvg-name="Stingray Flashback 70s" tvg-id="ext" group-title="Tv",Stingray Flashback 70s
-https://lotus.stingray.com/manifest/ose-115ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1  tvg-name="Stingray Remember the 80s" tvg-id="ext" group-title="Tv",Stingray Remember the 80s
-https://lotus.stingray.com/manifest/ose-128ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1  tvg-name="Stingray Nothin But 90s" tvg-id="ext" group-title="Tv",Stingray Nothin But 90s
-https://lotus.stingray.com/manifest/ose-142ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1  tvg-name="Stingray Naturescape 1" tvg-id="ext" group-title="Tv",Stingray Naturescape 1
-https://lotus.stingray.com/manifest/naturescape-a002-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1  tvg-name="Stingray Naturescape 2 " tvg-id="ext" group-title="Tv",Stingray Naturescape 2
-https://lotus.stingray.com/manifest/naturescape-a003-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1  tvg-name="Stingray qello001 " tvg-id="ext" group-title="Tv",Stingray Cello_Conserrt
-https://lotus.stingray.com/manifest/qello-qello001-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1  tvg-name="Stingray ose-101ads " tvg-id="ext" group-title="Tv",Stingray Classic Rock
-https://lotus.stingray.com/manifest/ose-101ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1  tvg-name="Stingray cmusic " tvg-id="ext" group-title="Tv",Stingray Movie Music
-https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1  tvg-name="Stingray djazz " tvg-id="ext" group-title="Tv",Stingray DJazz
-https://lotus.stingray.com/manifest/djazz-djaads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1  tvg-name="Stingray Classica " tvg-id="ext" group-title="Tv",Stingray Classica
-https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1  tvg-name="Stingray Easy Listening " tvg-id="ext" group-title="Tv",Stingray Easy Listening
-https://lotus.stingray.com/manifest/ose-137ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1  tvg-name="Stingray Hit List " tvg-id="ext" group-title="Tv",Stingray Hit List
-https://lotus.stingray.com/manifest/ose-107ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1  tvg-name="Stingray Holiday Hits " tvg-id="ext" group-title="Tv",Stingray Holiday Hits
-https://lotus.stingray.com/manifest/ose-155ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1  tvg-name="Stingray Hot Country " tvg-id="ext" group-title="Tv",Stingray Hot Country
-https://lotus.stingray.com/manifest/ose-108ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1  tvg-name="Stingray Karaoke " tvg-id="ext" group-title="Tv",Stingray Karaoke
-https://lotus.stingray.com/manifest/karaoke-kar000-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1  tvg-name="Stingray Pop Adult " tvg-id="ext" group-title="Tv",Stingray Pop Adult
-https://lotus.stingray.com/manifest/ose-104ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1  tvg-name="Stingray Rock Alternative " tvg-id="ext" group-title="Tv",Stingray Rock Alternative
-https://lotus.stingray.com/manifest/ose-102ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1  tvg-name="Stingray Romance Latino " tvg-id="ext" group-title="Tv",Stingray Romance Latino
-https://lotus.stingray.com/manifest/ose-202ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1  tvg-name="Stingray Smooth Jazz " tvg-id="ext" group-title="Tv",Stingray Smooth Jazz
-https://lotus.stingray.com/manifest/ose-140ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1  tvg-name="Stingray Soul Storm " tvg-id="ext" group-title="Tv",Stingray Soul Storm
-https://lotus.stingray.com/manifest/ose-134ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1  tvg-name="Stingray The Spa " tvg-id="ext" group-title="Tv",Stingray The Spa
-https://lotus.stingray.com/manifest/ose-122ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1  tvg-name="Stingray Todays KPOP " tvg-id="ext" group-title="Tv",Stingray Todays KPOP
-https://lotus.stingray.com/manifest/ose-317ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1  tvg-name="Stingray Todays Latin Pop " tvg-id="ext" group-title="Tv",Stingray Todays Latin Pop
-https://lotus.stingray.com/manifest/ose-190ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1  tvg-name="Stingray Urban Beat " tvg-id="ext" group-title="Tv",Stingray Urban Beat
-https://lotus.stingray.com/manifest/ose-133ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1  tvg-name="Radyo Voyage" tvg-id="ext" group-title="Radio",Radyo Voyage
-http://voyagewmp.radyotvonline.com/;
-#EXTINF:-1  tvg-name="Radyo Ilef" tvg-id="ext" group-title="Radio",Radyo Ilef
-http://radyo.cc.ankara.edu.tr:8089/;stream/1
-#EXTINF:-1  tvg-name="N1_Disko" tvg-id="ext" group-title="Radio",N1_Disko
-https://n10101m.mediatriple.net/disco
-#EXTINF:-1  tvg-name="ABC Pop" tvg-id="ext" group-title="Radio",ABC Pop
-https://radyoatilim.yayin.com.tr/stream/1/?icy
-#EXTINF:-1  tvg-name="Bilkent" tvg-id="ext" group-title="Radio",Bilkent
-https://stream.netradyom.com/listen/radyobilkent/radio.mp3
-#EXTINF:-1  tvg-name="Swiss Pop" tvg-id="ext" group-title="Radio",Swiss Pop
-https://stream.srg-ssr.ch/m/rsp/mp3_128
-#EXTINF:-1  tvg-name="Vintage" tvg-id="ext" group-title="Radio",Vintage
-https://vintageradio.ice.infomaniak.ch/vintageradio-high.mp3
-#EXTINF:-1  tvg-name="Power Love" tvg-id="ext" group-title="Radio",Power Love
-https://listen.powerapp.com.tr/powerlove/abr/powerlove/128/playlist.m3u8
-#EXTINF:-1  tvg-name="Power Xlarge" tvg-id="ext" group-title="Radio",Power Xlarge
-https://listen.powerapp.com.tr/powerextralounge/abr/powerextralounge/128/playlist.m3u8
-#EXTINF:-1  tvg-name="Power Greek" tvg-id="ext" group-title="Radio",Power Greek
-https://listen.powerapp.com.tr/powergreece/abr/powergreece/128/playlist.m3u8
-#EXTINF:-1  tvg-name="Karadeniz_Karnaval" tvg-id="ext" group-title="Radio",Karadeniz_Karnaval
-https://25453.live.streamtheworld.com/KARADENIZ128AAC.aac
-#EXTINF:-1  tvg-name="Estu" tvg-id="ext" group-title="Radio",Estu
-https://ssl120.radyotelekom.com.tr/8024/stream?/;stream.mp3
-#EXTINF:-1  tvg-name="Home Klas" tvg-id="ext" group-title="Radio",Home Klas
-https://moondigitaledge.radyotvonline.net/klasikhome/playlist.m3u8
-#EXTINF:-1  tvg-name="Home Relax" tvg-id="ext" group-title="Radio",Home Relax
-https://moondigitaledge.radyotvonline.net/relaxhome/playlist.m3u8
-#EXTINF:-1  tvg-name="ITU Rock" tvg-id="ext" group-title="Radio",ITU Rock
-http://160.75.86.29:8088/iturockmp3
-#EXTINF:-1  tvg-name="Bayrak Radyo" tvg-id="ext" group-title="Radio",Bayrak Radyo
-http://sc.brtk.net:8002/stream/1/
-#EXTINF:-1  tvg-name="Bayrak FM" tvg-id="ext" group-title="Radio",Bayrak FM
-http://sc.brtk.net:8000/stream/1/
-#EXTINF:-1  tvg-name="Bayrak Klasik" tvg-id="ext" group-title="Radio",Bayrak Klasik
-http://sc.brtk.net:8006/stream/1/
-#EXTINF:-1  tvg-name="Borusan" tvg-id="ext" group-title="Radio",Borusan
-https://28553.live.streamtheworld.com/BORUSAN_KLASIK128AAC.aac?/;stream.mp3
-#EXTINF:-1  tvg-name="NR1 Klasik" tvg-id="ext" group-title="Radio",NR1 Klasik
+#EXTINF:86400,TRT 1
+https://tv-trt1.medya.trt.com.tr/master_720.m3u8
+#EXTINF:0,TRT 2
+https://tv-trt2.medya.trt.com.tr/master_720.m3u8
+#EXTINF:0,TRT 2 FHD
+http://167.114.115.233:8080/trt2fhd/index.m3u8
+#EXTINF:0,TRT HABER HD
+https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
+#EXTINF:0,TRT TURK
+https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
+#EXTINF:0,TRT AVAZ
+https://tv-trtavaz.medya.trt.com.tr/master_720.m3u8
+#EXTINF:60,TRT EBA
+https://tv-e-okul01.medya.trt.com.tr/master_720.m3u8
+#EXTINF:0,TRT BELGESEL
+https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
+#EXTINF:0,TRT SPOR
+https://tv-trtspor1.medya.trt.com.tr/master_720.m3u8
+#EXTINF:0,TRT SPOR YILDIZ
+https://tv-trtspor2.medya.trt.com.tr/master_720.m3u8
+#EXTINF:0,DMAX
+https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8
+#EXTINF:0,TLC
+https://dogus-live.daioncdn.net/tlc/tlc_720p.m3u8
+#EXTINF:0,360 TV HD
+http://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
+#EXTINF:0,TV4 HD
+http://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
+#EXTINF:0,FOX
+http://116.202.238.88/FOXTV_TR/index.m3u8
+#EXTINF:0,NOW TV
+http://uycyyuuzyh.turknet.ercdn.net/...wtv/nowtv.m3u8
+#EXTINF:0,STAR TV
+https://dogus-live.daioncdn.net/startv/startv_720p.m3u8
+#EXTINF:0,SHOW TV HD
+http://ciner-live.daioncdn.net/showtv/showtv.m3u8
+#EXTINF:36,SHOWMAX HD
+http://canlitvulusal.xyz/live/showmax/index.m3u8
+#EXTINF:36,SHOW TURK HD
+http://canlitvulusal.xyz/live/showturk/index.m3u8
+#EXTINF:0,ATV
+http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8
+#EXTINF:0,A2 TV
+http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv.m3u8
+#EXTINF:2650,TV8 HD
+https://tv8-live.daioncdn.net/tv8/tv8_1080p.m3u8
+#EXTINF:0,TELE1
+https://tele1-live.ercdn.net/tele1/tele1_720p.m3u8
+#EXTINF:0,HALKTV2
+https://halktv-live.daioncdn.net/halktv/halktv_720p.m3u8
+#EXTINF:0,SOZCUTV
+http://185.234.111.229:8000/play/a00y
+#EXTINF:0,SOZCUTV2
+https://cdn900.ecanlitvizle.live/sozcutv.m3u8?tkn=JNvH_c-2LvmO53-ORL4Fng&tms=1752675147&hst=www.ecanlitvizle.live&ip=176.33.245.247
+#EXTINF:0,USANICK
+http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
+#EXTINF:0,TEENNICK
+https://fl3.moveonjoy.com/Teen_Nick/index.m3u8
+#EXTINF:0,NICKTOONS1
+http://143.244.60.30/NICKTOONS/index.m3u8
+#EXTINF:0,BLOOMBERG
+https://bloomberght-live.daioncdn.net/bloomberght/bloomberght.m3u8
+#EXTINF:0,BLOOMBERG HT
+https://ciner-live.daioncdn.net/bloomberght/bloomberght_720p.m3u8
+#EXTINF:0,CIFTCITV
+https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/chunks.m3u8
+#EXTINF:0,TARIM TV
+https://content.tvkur.com/l/c7e1da7mm25p552d9u9g/index-720p.m3u8
+#EXTINF:0,CARTOON NETWORK
+https://yayin2.canlitv.fun/live/cartoon-network.stream/playlist.m3u8?hash=b391220d10e33ed05d9569134f09f651
+#EXTINF:0,MINIKA COCUK
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk_720p.m3u8
+#EXTINF:0,MINIKA GO
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago_720p.m3u8
+#EXTINF:0,NR1
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/chunklist_b400000.m3u8
+#EXTINF:0,NR1 KLASIK
 https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e34bfc5042_1/playlist.m3u8
-#EXTINF:-1  tvg-name="NRK Klasik" tvg-id="ext" group-title="Radio",NRK Klasik
+#EXTINF:0,NR1 TURK
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e187770143.smil/chunklist_b400000.m3u8
+#EXTINF:0,NRK KLASIK
 https://lyd.nrk.no/icecast/mp3/high/s0w7hwn47m/klassisk
-#EXTINF:-1  tvg-name="Land Klasik" tvg-id="ext" group-title="Radio",Land Klasik
-https://moondigitaledge.radyotvonline.net/classicland/playlist.m3u8
-#EXTINF:-1  tvg-name="Itu Klasik" tvg-id="ext" group-title="Radio",Itu Klasik
-http://160.75.86.29:8088/ituklasikmp3
-#EXTINF:-1  tvg-name="ABC Klasik" tvg-id="ext" group-title="Radio",ABC Klasik
-https://mediaserviceslive.akamaized.net/hls/live/2038316/classicfmnsw/index.m3u8
-#EXTINF:-1  tvg-name="N1_Klasik" tvg-id="ext" group-title="Radio",N1_Klasik
-https://n10101m.mediatriple.net/classic
-#EXTINF:-1  tvg-name="Borusan_Klasik" tvg-id="ext" group-title="Radio",Borusan_Klasik
-https://27953.live.streamtheworld.com/BORUSAN_KLASIK128AAC.aac
-#EXTINF:-1  tvg-name="Swiss Classic" tvg-id="ext" group-title="Radio",Swiss Classic
-https://stream.srg-ssr.ch/m/rsc_de/mp3_128
-#EXTINF:-1  tvg-name="Swiss Jazz" tvg-id="ext" group-title="Radio",Swiss Jazz
-https://stream.srg-ssr.ch/m/rsj/mp3_128
-#EXTINF:-1  tvg-name="ITU JazzBlues" tvg-id="ext" group-title="Radio",ITU JazzBlues
-http://160.75.86.29:8088/itucazmp3
-#EXTINF:-1  tvg-name="Joy_Jazz" tvg-id="ext" group-title="Radio",Joy_Jazz
-https://27913.live.streamtheworld.com/JOY_JAZZ128AAC.aac
-#EXTINF:-1  tvg-name="Power Jazz" tvg-id="ext" group-title="Radio",Power Jazz
+#EXTINF:0,NTV
+https://emmazbvkkf.turknet.ercdn.net/cnifuowzza/ntv/ntv_720p.m3u8
+#EXTINF:0,NTV
+https://dogus-live.daioncdn.net/ntv/playlist.m3u8
+#EXTINF:0,NTV
+https://dogus.daioncdn.net/ntv/ntv_720p.m3u8?ce=3
+#EXTINF:0,SPORTS TV
+https://live.sportstv.com.tr/hls/low/sportstv.m3u8
+#EXTINF:0,SHOW RADYO
+http://46.20.3.229/;
+#EXTINF:0,POWER DEEP
+https://listen.powerapp.com.tr/powerdeep/abr/powerdeep/128/playlist.m3u8
+#EXTINF:0,POWER GOLD
+https://listen.powerapp.com.tr/powergold/abr/powergold/128/playlist.m3u8
+#EXTINF:0,POWER GREECE
+https://listen.powerapp.com.tr/powergreece/abr/powergreece/128/playlist.m3u8
+#EXTINF:0,POWER PLUS
+https://listen.powerapp.com.tr/powerplus/abr/powerplus/128/playlist.m3u8
+#EXTINF:0,POWER POP
+https://listen.powerapp.com.tr/powerpop/abr/powerpop/128/playlist.m3u8
+#EXTINF:0,POWER SMOOTH JAZZ
 https://listen.powerapp.com.tr/powersmoothjazz/abr/powersmoothjazz/128/playlist.m3u8
-#EXTINF:-1  tvg-name="ABC Jazz" tvg-id="ext" group-title="Radio",ABC Jazz
-https://mediaserviceslive.akamaized.net/hls/live/2038319/abcjazz/index.m3u8
-#EXTINF:-1  tvg-name="ITU Jazz" tvg-id="ext" group-title="Radio",ITU Jazz
-https://22593.live.streamtheworld.com/LITERAL128AAC.aac?/;stream.mp3
-#EXTINF:-1  tvg-name="N1_Jazz" tvg-id="ext" group-title="Radio",N1_Jazz
-https://n10101m.mediatriple.net/jazz
-#EXTINF:-1  tvg-name="Bayrak Turk Muzigi" tvg-id="ext" group-title="Radio",Bayrak Turk Muzigi
-http://sc.brtk.net:8010/stream/1/
-#EXTINF:-1  tvg-name="UMC Radyosu" tvg-id="ext" group-title="Radio",UMC Radyosu
-https://n10101m.mediatriple.net/musiki
-#EXTINF:-1  tvg-name="Polis_Tsm_Radyo" tvg-id="ext" group-title="Radio",Polis_Tsm_Radyo
-https://m.egm.gov.tr:8095/stream?
-#EXTINF:-1  tvg-name="Alaturka" tvg-id="ext" group-title="Radio",Alaturka
-https://yayin.jumboserver.net:9100/stream?/;stream.mp3
-#EXTINF:-1  tvg-name="Efkar" tvg-id="ext" group-title="Radio",Efkar
-https://29103.live.streamtheworld.com/EFKAR128AAC.aac?/;stream.mp3
-#EXTINF:-1  tvg-name="Makam" tvg-id="ext" group-title="Radio",Makam
-https://29073.live.streamtheworld.com/MAKAM128AAC.aac?/;stream.mp3
-#EXTINF:-1  tvg-name="Number1 Greek" tvg-id="ext" group-title="Radio",Number1 Greek
+#EXTINF:0,POWER XL
+https://listen.powerapp.com.tr/powerextralounge/abr/powerextralounge/128/playlist.m3u8
+#EXTINF:0,NUMBER 1 DANCE
+http://n10101m.mediatriple.net/dance
+#EXTINF:0,NUMBER 1 DEEP HOUSE
+http://n10101m.mediatriple.net/deephouse
+#EXTINF:0,NUMBER 1 FM
+http://n10101m.mediatriple.net/numberone
+#EXTINF:0,NUMBER 1 HEART
+http://n10101m.mediatriple.net/heart
+#EXTINF:0,NUMBER 1 LOUNGE
+http://n10101m.mediatriple.net/lounge
+#EXTINF:0,NUMBER 1 ROCK
+http://n10101m.mediatriple.net/rock
+#EXTINF:0,NUMBER 1 SLOW
+http://n10101m.mediatriple.net/slow
+#EXTINF:0,NUMBER 1 TURK 90LAR
+http://n10101m.mediatriple.net/numberone90s
+#EXTINF:0,NUMBER 1 TURK DAMAR
+http://n10101m.mediatriple.net/trdamar
+#EXTINF:0,NUMBER 1 TURK ELLER HAVAYA
+https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e3303b3edf_1/playlist.m3u8
+#EXTINF:0,NUMBER 1 WORLD
+http://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2f95dcb16_1/playlist.m3u8
+#EXTINF:0,NUMBER1 GREEK
 https://n10101m.mediatriple.net/greek
-#EXTINF:-1  tvg-name="Greekland" tvg-id="ext" group-title="Radio",Greekland
+#EXTINF:0,NUMBERONE DAMAR
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e198784bdc_1/playlist.m3u8
+#EXTINF:0,NUMBERONE TV
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/playlist.m3u8
+#EXTINF:0,TRT ERZURUM RADYOSU
+https://radio-trterzurum.medya.trt.com.tr/master.m3u8
+#EXTINF:0,TRT ANTALYA RADYOSU
+https://radio-trtantalya.medya.trt.com.tr/master.m3u8
+#EXTINF:0,TRT FM
+https://radio-trtfm.medya.trt.com.tr/master.m3u8
+#EXTINF:0,TRT RADYO 1
+https://radio-trtradyo1.medya.trt.com.tr/master.m3u8
+#EXTINF:0,TRT RADYO HABER RADYO
+https://radio-trtradyohaber.medya.trt.com.tr/master.m3u8
+#EXTINF:0,TRT TRABZON RADYOSU
+https://radio-trttrabzon.medya.trt.com.tr/master.m3u8
+#EXTINF:0,TRT_FM
+https://trt.radyotvonline.net/trt_fm.aac
+#EXTINF:0,TRT_NAGME
+https://rd-trtnagme.medya.trt.com.tr/master_128.m3u8
+#EXTINF:0,TSR
+https://radio-trttsr.medya.trt.com.tr/master_128.m3u8
+#EXTINF:0,TRT_TURKU
+https://rd-trtturku.medya.trt.com.tr/master_128.m3u8
+#EXTINF:0,ABC CLASSIC1
+https://mediaserviceslive.akamaized.net/hls/live/2108547/classicfmnsw/v0-221.m3u8
+#EXTINF:0,ABC CLASSIC2
+https://mediaserviceslive.akamaized.net/hls/live/2108546/classic2/v0-221.m3u8
+#EXTINF:0,ABC JAZZ
+https://mediaserviceslive.akamaized.net/hls/live/2038319/abcjazz/index.m3u8
+#EXTINF:0,ABC KLASIK
+https://mediaserviceslive.akamaized.net/hls/live/2038316/classicfmnsw/index.m3u8
+#EXTINF:0,ALATURKA
+https://yayin.jumboserver.net:9100/stream?/;stream.mp3
+#EXTINF:0,BAYRAK FM
+http://sc.brtk.net:8000/stream/1/
+#EXTINF:0,BAYRAK KLASIK
+http://sc.brtk.net:8006/stream/1/
+#EXTINF:0,BAYRAK RADYO
+http://sc.brtk.net:8002/stream/1/
+#EXTINF:0,BAYRAK TURK MUZIGI
+http://sc.brtk.net:8010/stream/1/
+#EXTINF:0,BEST FM
+http://46.20.7.125/bestfmaac
+#EXTINF:0,BILKENT
+https://stream.netradyom.com/listen/radyobilkent/radio.mp3
+#EXTINF:0,BORUSAN
+https://28553.live.streamtheworld.com/BORUSAN_KLASIK128AAC.aac?/;stream.mp3
+#EXTINF:0,BORUSAN_KLASIK
+https://27953.live.streamtheworld.com/BORUSAN_KLASIK128AAC.aac
+#EXTINF:0,EFKAR
+https://29103.live.streamtheworld.com/EFKAR128AAC.aac?/;stream.mp3
+#EXTINF:0,EFKAR
+https://22533.live.streamtheworld.com/SC008_SO1_SC
+#EXTINF:0,ESTU
+https://ssl120.radyotelekom.com.tr/8024/stream?/;stream.mp3
+#EXTINF:0,GREEKLAND
 https://moondigitaledge.radyotvonline.net/greekland/playlist.m3u8
-#EXTINF:-1  tvg-name="Stingray kpop" tvg-id="ext" group-title="Radio",Stingray Kpop
-https://antares.dribbcast.com/proxy/kpop?mp=/s.mp3
-#EXTINF:-1  tvg-name="Stingray jpop" tvg-id="ext" group-title="Radio",Stingray Jpop
-https://antares.dribbcast.com/proxy/jpop?mp=/s.mp3
-#EXTINF:-1  tvg-name="Stingray cpop" tvg-id="ext" group-title="Radio",Stingray Cpop
+#EXTINF:0,HOME KLAS
+https://moondigitaledge.radyotvonline.net/klasikhome/playlist.m3u8
+#EXTINF:0,HOME RELAX
+https://moondigitaledge.radyotvonline.net/relaxhome/playlist.m3u8
+#EXTINF:0,ITU JAZZ
+https://22593.live.streamtheworld.com/LITERAL128AAC.aac?/;stream.mp3
+#EXTINF:0,ITU JAZZBLUES
+http://160.75.86.29:8088/itucazmp3
+#EXTINF:0,ITU KLASIK
+http://160.75.86.29:8088/ituklasikmp3
+#EXTINF:0,JOY JAZZ
+https://playerservices.streamtheworld.com/api/livestream-redirect/JOY_JAZZ_SC?/;
+#EXTINF:0,JOY TURK ROCK
+https://playerservices.streamtheworld.com/api/livestream-redirect/JOYTURK_ROCK_SC?/;
+#EXTINF:0,JOY_BABY
+https://22733.live.streamtheworld.com/SC009_SO1AAC.aac
+#EXTINF:0,JOY_DANCE
+https://25533.live.streamtheworld.com/SC019_SO1AAC.aac
+#EXTINF:0,JOY_FM
+https://21633.live.streamtheworld.com/JOY_FM128AAC.aac
+#EXTINF:0,JOY_SLOW
+https://22653.live.streamtheworld.com/SC030_SO1AAC.aac
+#EXTINF:0,KAFA_RADYO
+https://moondigitaledge2.radyotvonline.net/kafaradyo/playlist.m3u8
+#EXTINF:0,KARADENIZ_KARNAVAL
+https://25453.live.streamtheworld.com/KARADENIZ128AAC.aac
+#EXTINF:0,LAND KLASIK
+https://moondigitaledge.radyotvonline.net/classicland/playlist.m3u8
+#EXTINF:0,LITERAL_RDAYO
+https://22593.live.streamtheworld.com/LITERAL128AAC.aac
+#EXTINF:0,MAKAM
+https://29073.live.streamtheworld.com/MAKAM128AAC.aac?/;stream.mp3
+#EXTINF:0,METRO_FM
+https://27993.live.streamtheworld.com/METRO_FM128AAC.aac
+#EXTINF:0,METROPOL FM
+http://stream1.mfm.plexpark.com/radio/8000/simulcast-berlin-sd-64.aac
+#EXTINF:0,N1_DISKO
+https://n10101m.mediatriple.net/disco
+#EXTINF:0,N1_JAZZ
+https://n10101m.mediatriple.net/jazz
+#EXTINF:0,N1_KLASIK
+https://n10101m.mediatriple.net/classic
+#EXTINF:0,NTV RADYO
+http://ntvrdwmp.radyotvonline.com/;
+#EXTINF:0,PAL FM
+http://shoutcast.radyogrup.com:1030/;
+#EXTINF:0,PAL STATION
+http://shoutcast.radyogrup.com:1020/;
+#EXTINF:0,PARK FM
+http://yayin.netradyom.com:8050/PARKFM
+#EXTINF:0,POLIS_TSM
+https://m.egm.gov.tr:8095/stream?%22
+#EXTINF:0,POLIS_TSM_RADYO
+https://m.egm.gov.tr:8095/stream?
+#EXTINF:0,POP 90
+https://23563.live.streamtheworld.com/POP90_SC?/;
+#EXTINF:0,RADYO 1
+https://rd-trtradyo1.medya.trt.com.tr/master_128.m3u8
+#EXTINF:0,RADYO ILEF
+http://radyo.cc.ankara.edu.tr:8089/;stream/1
+#EXTINF:0,RADYO VOYAGE
+https://dygedge.radyotvonline.net/radyovoyage/playlist.m3u8
+#EXTINF:0,RADYO VOYAGE
+http://voyagewmp.radyotvonline.com/;
+#EXTINF:0,RADYO VOYAGE YDK
+https://dygedge.radyotvonline.net/radyovoyage/playlist.m3u8?listeningSessionID=64dd1bab7aa168a0_2732079_cWxwp6qu__0000000lbSe&downloadSessionID=0
+#EXTINF:0,RADYO_MYDONOSE
+https://27993.live.streamtheworld.com/RADIO_MYDONOSE128AAC.aac
+#EXTINF:0,RELAX HOME
+http://moondigitalmaster.radyotvonline.net/relaxhome/playlist.m3u8
+#EXTINF:0,RS FM
+http://voicecdn.sputnikimages.com/voicestm
+#EXTINF:0,SWISS CLASSIC
+https://stream.srg-ssr.ch/m/rsc_de/mp3_128
+#EXTINF:0,SWISS JAZZ
+https://stream.srg-ssr.ch/m/rsj/mp3_128
+#EXTINF:0,SWISS POP
+https://stream.srg-ssr.ch/m/rsp/mp3_128
+#EXTINF:0,UMC RADYOSU
+https://n10101m.mediatriple.net/musiki
+#EXTINF:0,MYZEN TV
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex/playlist.m3u8
+#EXTINF:0,POP HOME
+https://ssl4.radyotvonline.com/radyohome/pophome.stream_aac/playlist.m3u8
+#EXTINF:0,POWER HD
+https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playist.m3u8
+#EXTINF:0,POWER LOVE
+https://livetv.powerapp.com.tr/plove/love.smil/playlist.m3u8
+#EXTINF:0,POWER LOVE
+https://listen.powerapp.com.tr/powerlove/abr/powerlove/128/playlist.m3u8
+#EXTINF:0,POWER TURK
+https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8
+#EXTINF:0,POWER TURK HD
+https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlists.m3u8
+#EXTINF:0,POWER FM
+https://listen.powerapp.com.tr/powerfm/abr/powerfm/128/playlist.m3u8
+#EXTINF:0,POWER DANCE
+https://livetv.powerapp.com.tr/dance/dance.smil/playlist.m3u8
+#EXTINF:0,POWER DANCE
+https://listen.powerapp.com.tr/powerdance/abr/powerdance/128/playlist.m3u8
+#EXTINF:0,NOW 70S
+https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:0,NOW 80S
+https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:0,STINGRAY CELLO_CONSERRT
+https://lotus.stingray.com/manifest/qello-qello001-montreal/samsungtvplus/master.m3u8
+#EXTINF:0,STINGRAY CLASSIC ROCK
+https://lotus.stingray.com/manifest/ose-101ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:0,STINGRAY CLASSICA
+https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/master.m3u8
+#EXTINF:0,STINGRAY CPOP
 https://antares.dribbcast.com/proxy/cpop?mp=/s.mp3
-#EXTINF:-1  tvg-name="Stingray apop" tvg-id="ext" group-title="Radio",Stingray Apop
-https://antares.dribbcast.com/proxy/apop?mp=/s.mp3
+#EXTINF:0,STINGRAY DJAZZ
+https://lotus.stingray.com/manifest/djazz-djaads-montreal/samsungtvplus/master.m3u8
+#EXTINF:0,STINGRAY EASY LISTENING
+https://lotus.stingray.com/manifest/ose-137ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:0,STINGRAY FLASHBACK 70S
+https://lotus.stingray.com/manifest/ose-115ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:0,STINGRAY HIT LIST
+https://lotus.stingray.com/manifest/ose-107ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:0,STINGRAY HOLIDAY HITS
+https://lotus.stingray.com/manifest/ose-155ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:0,STINGRAY HOT COUNTRY
+https://lotus.stingray.com/manifest/ose-108ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:0,STINGRAY JPOP
+https://antares.dribbcast.com/proxy/jpop?mp=/s.mp3
+#EXTINF:0,STINGRAY KARAOKE
+https://lotus.stingray.com/manifest/karaoke-kar000-montreal/samsungtvplus/master.m3u8
+#EXTINF:0,STINGRAY KPOP
+https://antares.dribbcast.com/proxy/kpop?mp=/s.mp3
+#EXTINF:0,STINGRAY MOVIE MUSIC
+https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/master.m3u8
+#EXTINF:0,STINGRAY NATURESCAPE 1
+https://lotus.stingray.com/manifest/naturescape-a002-montreal/samsungtvplus/master.m3u8
+#EXTINF:0,STINGRAY NATURESCAPE 2
+https://lotus.stingray.com/manifest/naturescape-a003-montreal/samsungtvplus/master.m3u8
+#EXTINF:0,STINGRAY NOTHIN BUT 90S
+https://lotus.stingray.com/manifest/ose-142ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:0,STINGRAY POP ADULT
+https://lotus.stingray.com/manifest/ose-104ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:0,STINGRAY REMEMBER THE 80S
+https://lotus.stingray.com/manifest/ose-128ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:0,STINGRAY ROCK ALTERNATIVE
+https://lotus.stingray.com/manifest/ose-102ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:0,STINGRAY ROMANCE LATINO
+https://lotus.stingray.com/manifest/ose-202ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:0,STINGRAY SMOOTH JAZZ
+https://lotus.stingray.com/manifest/ose-140ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:0,STINGRAY SOUL STORM
+https://lotus.stingray.com/manifest/ose-134ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:0,STINGRAY THE SPA
+https://lotus.stingray.com/manifest/ose-122ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:0,STINGRAY TODAYS KPOP
+https://lotus.stingray.com/manifest/ose-317ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:0,STINGRAY TODAYS LATIN POP
+https://lotus.stingray.com/manifest/ose-190ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:0,STINGRAY URBAN BEAT
+https://lotus.stingray.com/manifest/ose-133ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:0,VEVO LATINO
+https://amg00056-amg00056c13-rakuten-es-3246.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:0,VEVO POP
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d93b635b43dd1a399b39eee/master.m3u8?advertisingId=&appName=rokuchannel&appVersion=1.0&deviceDNT=1&deviceId=8f35210d-be26-5e0d-8c57-d0f910026ee7&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel
+#EXTINF:0,VEVO POP
+https://amg00056-amg00056c9-rakuten-fr-3243.playouts.now.amagi.tv/playlist/amg00056-vevotvfast-vevopopfr-rakutenfr/playlist.m3u8
