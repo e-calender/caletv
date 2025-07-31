@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:86400,TRT 1
+#EXTINF:0,TRT 1
 https://tv-trt1.medya.trt.com.tr/master_720.m3u8
 #EXTINF:0,TRT 2
 https://tv-trt2.medya.trt.com.tr/master_720.m3u8
@@ -81,6 +81,140 @@ https://dogus-live.daioncdn.net/ntv/playlist.m3u8
 https://dogus.daioncdn.net/ntv/ntv_720p.m3u8?ce=3
 #EXTINF:0,SPORTS TV
 https://live.sportstv.com.tr/hls/low/sportstv.m3u8
+#EXTINF:0,MYZEN TV
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex/playlist.m3u8
+#EXTINF:0,POP HOME
+https://ssl4.radyotvonline.com/radyohome/pophome.stream_aac/playlist.m3u8
+#EXTINF:0,POWER HD
+https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playist.m3u8
+#EXTINF:0,POWER LOVE
+https://livetv.powerapp.com.tr/plove/love.smil/playlist.m3u8
+#EXTINF:0,POWER LOVE
+https://listen.powerapp.com.tr/powerlove/abr/powerlove/128/playlist.m3u8
+#EXTINF:0,POWER TURK
+https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8
+#EXTINF:0,POWER TURK HD
+https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlists.m3u8
+#EXTINF:0,POWER FM
+https://listen.powerapp.com.tr/powerfm/abr/powerfm/128/playlist.m3u8
+#EXTINF:0,POWER DANCE
+https://livetv.powerapp.com.tr/dance/dance.smil/playlist.m3u8
+#EXTINF:0,POWER DANCE
+https://listen.powerapp.com.tr/powerdance/abr/powerdance/128/playlist.m3u8
+#EXTINF:0,NOW 70S
+https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:0,NOW 80S
+https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:0,STINGRAY CELLO_CONSERRT
+https://lotus.stingray.com/manifest/qello-qello001-montreal/samsungtvplus/master.m3u8
+#EXTINF:0,STINGRAY CLASSIC ROCK
+https://lotus.stingray.com/manifest/ose-101ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:0,STINGRAY CLASSICA
+https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/master.m3u8
+#EXTINF:0,STINGRAY CPOP
+https://antares.dribbcast.com/proxy/cpop?mp=/s.mp3
+#EXTINF:0,STINGRAY DJAZZ
+https://lotus.stingray.com/manifest/djazz-djaads-montreal/samsungtvplus/master.m3u8
+#EXTINF:0,STINGRAY EASY LISTENING
+https://lotus.stingray.com/manifest/ose-137ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:0,STINGRAY FLASHBACK 70S
+https://lotus.stingray.com/manifest/ose-115ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:0,STINGRAY HIT LIST
+https://lotus.stingray.com/manifest/ose-107ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:0,STINGRAY HOLIDAY HITS
+https://lotus.stingray.com/manifest/ose-155ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:0,STINGRAY HOT COUNTRY
+https://lotus.stingray.com/manifest/ose-108ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:0,STINGRAY JPOP
+https://antares.dribbcast.com/proxy/jpop?mp=/s.mp3
+#EXTINF:0,STINGRAY KARAOKE
+https://lotus.stingray.com/manifest/karaoke-kar000-montreal/samsungtvplus/master.m3u8
+#EXTINF:0,STINGRAY KPOP
+https://antares.dribbcast.com/proxy/kpop?mp=/s.mp3
+#EXTINF:0,STINGRAY MOVIE MUSIC
+https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/master.m3u8
+#EXTINF:0,STINGRAY NATURESCAPE 1
+https://lotus.stingray.com/manifest/naturescape-a002-montreal/samsungtvplus/master.m3u8
+#EXTINF:0,STINGRAY NATURESCAPE 2
+https://lotus.stingray.com/manifest/naturescape-a003-montreal/samsungtvplus/master.m3u8
+#EXTINF:0,STINGRAY NOTHIN BUT 90S
+https://lotus.stingray.com/manifest/ose-142ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:0,STINGRAY POP ADULT
+https://lotus.stingray.com/manifest/ose-104ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:0,STINGRAY REMEMBER THE 80S
+https://lotus.stingray.com/manifest/ose-128ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:0,STINGRAY ROCK ALTERNATIVE
+https://lotus.stingray.com/manifest/ose-102ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:0,STINGRAY ROMANCE LATINO
+https://lotus.stingray.com/manifest/ose-202ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:0,STINGRAY SMOOTH JAZZ
+https://lotus.stingray.com/manifest/ose-140ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:0,STINGRAY SOUL STORM
+https://lotus.stingray.com/manifest/ose-134ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:0,STINGRAY THE SPA
+https://lotus.stingray.com/manifest/ose-122ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:0,STINGRAY TODAYS KPOP
+https://lotus.stingray.com/manifest/ose-317ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:0,STINGRAY TODAYS LATIN POP
+https://lotus.stingray.com/manifest/ose-190ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:0,STINGRAY URBAN BEAT
+https://lotus.stingray.com/manifest/ose-133ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:0,VEVO LATINO
+https://amg00056-amg00056c13-rakuten-es-3246.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:0,VEVO POP
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d93b635b43dd1a399b39eee/master.m3u8?advertisingId=&appName=rokuchannel&appVersion=1.0&deviceDNT=1&deviceId=8f35210d-be26-5e0d-8c57-d0f910026ee7&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel
+#EXTINF:0,VEVO POP
+https://amg00056-amg00056c9-rakuten-fr-3243.playouts.now.amagi.tv/playlist/amg00056-vevotvfast-vevopopfr-rakutenfr/playlist.m3u8
+#EXTINF:0,RT_NEWS
+https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
+#EXTINF:0,RT_DOC
+https://rt-rtd.rttv.com/dvr/rtdoc/playlist_4500Kb.m3u8
+#EXTINF:0,CGTN_DOC
+https://mn-nl.mncdn.com/dogusdyg_drone/cgtn/playlist.m3u8
+#EXTINF:0,DRONE_TV
+https://airvuz-dronetv-1-eu.xiaomi.wurl.tv/4300.m3u8
+#EXTINF:0,ICTIMAI_TV
+https://live.itv.az/itv.m3u8?bandwidth=3900&shift=0
+#EXTINF:0,TRT Nağme
+https://rd-trtnagme.medya.trt.com.tr/master_128.m3u8
+#EXTINF:0,TRT Radyo3
+https://rd-trtradyo3.medya.trt.com.tr/master_128.m3u8
+#EXTINF:0,TRT Fm
+https://rd-trtfm.medya.trt.com.tr/master_128.m3u8
+#EXTINF:0,Trt Radyo1
+https://rd-trtradyo1.medya.trt.com.tr/master.m3u8
+#EXTINF:0,TRT Türkü
+https://rd-trtturku.medya.trt.com.tr/master_128.m3u8
+#EXTINF:0,TRT Radyo 1
+https://rd-trtradyo1.medya.trt.com.tr/master.m3u8
+#EXTINF:0,Joy FM
+https://27793.live.streamtheworld.com/JOY_FMAAC.aac
+#EXTINF:0,Alem FM
+https://alemfm.radyotvonline.net/alemfmaac
+#EXTINF:0,Metro FM
+https://27873.live.streamtheworld.com/METRO_FM128AAC.aac
+#EXTINF:0,Joy Jazz
+https://22183.live.streamtheworld.com/JOY_JAZZ128AAC.aac
+#EXTINF:0,Max Jazz
+https://cast.tunzilla.com/http://live.radyotvonline.com:8090/;
+#EXTINF:0,Nr1 Jazz
+https://n10101m.mediatriple.net/jazz
+#EXTINF:0,Power Smooth Jazz
+https://listen.powerapp.com.tr/powersmoothjazz/abr/playlist.m3u8
+#EXTINF:0,Datça Onair
+https://datcaonair.ozelip.com/8008/stream
+#EXTINF:0,Kıyı müzik
+https://kiyi.radioca.st/stream
+#EXTINF:0,Radyo Gökçeada
+https://radyogok.80.yayin.com.tr/;stream.nsv
+#EXTINF:0,Loops Radio
+https://progressive.ozelip.com/7670/stream
+#EXTINF:0,Radio Glamorize
+https://live.radioglamorize.com/stream1
+#EXTINF:0,TRT TSR Türkiye'nin Sesi Radyosu
+https://radio-trttsr.medya.trt.com.tr/master.m3u8
+#EXTINF:0,Radyo Mix
+https://mixfm.ozelip.com/9598/stream
 #EXTINF:0,SHOW RADYO
 http://46.20.3.229/;
 #EXTINF:0,POWER DEEP
@@ -245,6 +379,8 @@ https://dygedge.radyotvonline.net/radyovoyage/playlist.m3u8
 http://voyagewmp.radyotvonline.com/;
 #EXTINF:0,RADYO VOYAGE YDK
 https://dygedge.radyotvonline.net/radyovoyage/playlist.m3u8?listeningSessionID=64dd1bab7aa168a0_2732079_cWxwp6qu__0000000lbSe&downloadSessionID=0
+#EXTINF:0,RADYO VOYAGE YDK2
+https://dygedge.radyotvonline.net/radyovoyage/playlist.m3u8
 #EXTINF:0,RADYO_MYDONOSE
 https://27993.live.streamtheworld.com/RADIO_MYDONOSE128AAC.aac
 #EXTINF:0,RELAX HOME
@@ -259,109 +395,3 @@ https://stream.srg-ssr.ch/m/rsj/mp3_128
 https://stream.srg-ssr.ch/m/rsp/mp3_128
 #EXTINF:0,UMC RADYOSU
 https://n10101m.mediatriple.net/musiki
-#EXTINF:0,MYZEN TV
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex/playlist.m3u8
-#EXTINF:0,POP HOME
-https://ssl4.radyotvonline.com/radyohome/pophome.stream_aac/playlist.m3u8
-#EXTINF:0,POWER HD
-https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playist.m3u8
-#EXTINF:0,POWER LOVE
-https://livetv.powerapp.com.tr/plove/love.smil/playlist.m3u8
-#EXTINF:0,POWER LOVE
-https://listen.powerapp.com.tr/powerlove/abr/powerlove/128/playlist.m3u8
-#EXTINF:0,POWER TURK
-https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8
-#EXTINF:0,POWER TURK HD
-https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlists.m3u8
-#EXTINF:0,POWER FM
-https://listen.powerapp.com.tr/powerfm/abr/powerfm/128/playlist.m3u8
-#EXTINF:0,POWER DANCE
-https://livetv.powerapp.com.tr/dance/dance.smil/playlist.m3u8
-#EXTINF:0,POWER DANCE
-https://listen.powerapp.com.tr/powerdance/abr/powerdance/128/playlist.m3u8
-#EXTINF:0,NOW 70S
-https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
-#EXTINF:0,NOW 80S
-https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
-#EXTINF:0,STINGRAY CELLO_CONSERRT
-https://lotus.stingray.com/manifest/qello-qello001-montreal/samsungtvplus/master.m3u8
-#EXTINF:0,STINGRAY CLASSIC ROCK
-https://lotus.stingray.com/manifest/ose-101ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:0,STINGRAY CLASSICA
-https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/master.m3u8
-#EXTINF:0,STINGRAY CPOP
-https://antares.dribbcast.com/proxy/cpop?mp=/s.mp3
-#EXTINF:0,STINGRAY DJAZZ
-https://lotus.stingray.com/manifest/djazz-djaads-montreal/samsungtvplus/master.m3u8
-#EXTINF:0,STINGRAY EASY LISTENING
-https://lotus.stingray.com/manifest/ose-137ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:0,STINGRAY FLASHBACK 70S
-https://lotus.stingray.com/manifest/ose-115ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:0,STINGRAY HIT LIST
-https://lotus.stingray.com/manifest/ose-107ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:0,STINGRAY HOLIDAY HITS
-https://lotus.stingray.com/manifest/ose-155ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:0,STINGRAY HOT COUNTRY
-https://lotus.stingray.com/manifest/ose-108ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:0,STINGRAY JPOP
-https://antares.dribbcast.com/proxy/jpop?mp=/s.mp3
-#EXTINF:0,STINGRAY KARAOKE
-https://lotus.stingray.com/manifest/karaoke-kar000-montreal/samsungtvplus/master.m3u8
-#EXTINF:0,STINGRAY KPOP
-https://antares.dribbcast.com/proxy/kpop?mp=/s.mp3
-#EXTINF:0,STINGRAY MOVIE MUSIC
-https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/master.m3u8
-#EXTINF:0,STINGRAY NATURESCAPE 1
-https://lotus.stingray.com/manifest/naturescape-a002-montreal/samsungtvplus/master.m3u8
-#EXTINF:0,STINGRAY NATURESCAPE 2
-https://lotus.stingray.com/manifest/naturescape-a003-montreal/samsungtvplus/master.m3u8
-#EXTINF:0,STINGRAY NOTHIN BUT 90S
-https://lotus.stingray.com/manifest/ose-142ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:0,STINGRAY POP ADULT
-https://lotus.stingray.com/manifest/ose-104ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:0,STINGRAY REMEMBER THE 80S
-https://lotus.stingray.com/manifest/ose-128ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:0,STINGRAY ROCK ALTERNATIVE
-https://lotus.stingray.com/manifest/ose-102ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:0,STINGRAY ROMANCE LATINO
-https://lotus.stingray.com/manifest/ose-202ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:0,STINGRAY SMOOTH JAZZ
-https://lotus.stingray.com/manifest/ose-140ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:0,STINGRAY SOUL STORM
-https://lotus.stingray.com/manifest/ose-134ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:0,STINGRAY THE SPA
-https://lotus.stingray.com/manifest/ose-122ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:0,STINGRAY TODAYS KPOP
-https://lotus.stingray.com/manifest/ose-317ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:0,STINGRAY TODAYS LATIN POP
-https://lotus.stingray.com/manifest/ose-190ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:0,STINGRAY URBAN BEAT
-https://lotus.stingray.com/manifest/ose-133ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:0,VEVO LATINO
-https://amg00056-amg00056c13-rakuten-es-3246.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:0,VEVO POP
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d93b635b43dd1a399b39eee/master.m3u8?advertisingId=&appName=rokuchannel&appVersion=1.0&deviceDNT=1&deviceId=8f35210d-be26-5e0d-8c57-d0f910026ee7&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel
-#EXTINF:0,VEVO POP
-https://amg00056-amg00056c9-rakuten-fr-3243.playouts.now.amagi.tv/playlist/amg00056-vevotvfast-vevopopfr-rakutenfr/playlist.m3u8
-#EXTINF:0,RT_NEWS
-https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
-#EXTINF:0,RT_DOC
-https://rt-rtd.rttv.com/dvr/rtdoc/playlist_4500Kb.m3u8
-#EXTINF:0,CGTN_DOC
-https://mn-nl.mncdn.com/dogusdyg_drone/cgtn/playlist.m3u8
-#EXTINF:0,DRONE_TV
-https://airvuz-dronetv-1-eu.xiaomi.wurl.tv/4300.m3u8
-#EXTINF:0,ICTIMAI_TV
-https://live.itv.az/itv.m3u8?bandwidth=3900&shift=0
-#EXTINF:0,TRT Nağme
-https://rd-trtnagme.medya.trt.com.tr/master_128.m3u8
-#EXTINF:0,TRT Radyo3
-https://rd-trtradyo3.medya.trt.com.tr/master_128.m3u8
-#EXTINF:0,TRT Fm
-https://rd-trtfm.medya.trt.com.tr/master_128.m3u8
-#EXTINF:0,Trt Radyo1
-https://rd-trtradyo1.medya.trt.com.tr/master.m3u8
-#EXTINF:0,TRT Türkü
-https://rd-trtturku.medya.trt.com.tr/master_128.m3u8
-#EXTINF:0,TRT Radyo 1
-https://rd-trtradyo1.medya.trt.com.tr/master.m3u8
