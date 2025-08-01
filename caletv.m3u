@@ -1,9 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="ext" tvg-name="cosby" tvg-logo="" group-title="Ulusal",cosby2
-https://s1045sas.storage.yandex.net/rdisk/3e00b5d9e348a57bd734ab9f8a18a4fc8cff0163f4123854de05916fae58a57d/688be69a/gOYRDrKuARB8267wlllEoBlhxJksD3U7twyNpM0ODeiV_KgHEgZBTHdUUegreggZ3MYAi8zS-YBaM7hwN4JnQg==?uid=0&filename=26700.mp4&disposition=attachment&hash=5cc1AcO2CTWnhRkpvsN6hCsD0Ac9oGYVGQW7D%2BJl5JCaBMEl3yUirw5clIzWlrp5q/J6bpmRyOJonT3VoXnDag%3D%3D%3A&limit=0&content_type=video%2Fmp4&owner_uid=1894953906&fsize=211340950&hid=09bd8a83a3562b597aa39b35b0c46809&media_type=video&tknv=v3&ts=63b40b7735a80&s=f6e342461c5ec6359c55a3d3fe819a235cc24262d1258a028a38dde5907fd8f2&pb=U2FsdGVkX198j8gY_A6lUIhkqVMNa0Uhgy34lFe6229tllPcRVBHgJ9aDED8G4w2uvq5nzfc9xK9inGewZjnmFehH8nXRKtPM7De7u9Mkgk
-#EXTINF:-1 tvg-id="ext" tvg-name="cosby" tvg-logo="" group-title="Ulusal",cosby3
-https://s794sas.storage.yandex.net/rdisk/66dfb71e733d067170b44c991a616c3ea98d855f567f3103f03d4fcd23de93c9/688be6f3/gOYRDrKuARB8267wlllEoGZhxzwK8j2AVDe1kyZ6CrfghhH73YuMpy3aUpf3Dus7m442sNAu1vuiQ_PEQY8_vQ==?uid=0&filename=26701.mp4&disposition=attachment&hash=RU2MuGsTXGhyFsXk3R4EkhctkqrhJQb0Or3Ib874vx6tlW7pyEgvBTPIxyRVXcF/q/J6bpmRyOJonT3VoXnDag%3D%3D%3A&limit=0&content_type=video%2Fmp4&owner_uid=1894953906&fsize=211591123&hid=a0fff17dc4227fa44e0676d241ec0094&media_type=video&tknv=v3&ts=63b40bcc162c0&s=affc44ad249e275b910ea22563aaa686ec3c80c607555dadae19c74a86bc013f&pb=U2FsdGVkX184CSbSfs79TlvX0tLNGtGPCsAj-X8ZN4epiKyxlELjGhXSD-WUM8XSBc5Pd03Si_1ZS8PHR38mN3OXqALeJsHcUCPlBbwKyxk
-
 #EXTINF:-1 tvg-id="ext" tvg-name="Trt 1" tvg-logo="" group-title="Ulusal",Trt 1
 https://tv-trt1.medya.trt.com.tr/master_720.m3u8
 
