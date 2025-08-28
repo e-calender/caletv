@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="ext" tvg-name="Gorevimiz_Tehlike_Kao_Bey" tvg-logo="" group-title="Filmler",Ha ha
-https://s3.gelsistirire.cfd:183/d/zanlrbsgsk3rtzj54hwqzrexcuc7wglccgsa4jzctt3lmzawpavtywspynssnsb7kjbfbbje/agbyz10hkoc6.mp4
 
 #EXTINF:-1 tvg-id="ext" tvg-name="Trt 1" tvg-logo="" group-title="Ulusal",Trt 1
 https://tv-trt1.medya.trt.com.tr/master_720.m3u8
@@ -123,7 +121,7 @@ https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
 https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ext" tvg-name="Stingray Cello_Conserrt" tvg-logo="" group-title="MuzikTV",Stingray Cello_Conserrt
-https://lotus.stingray.com/manifest/qello-qello001-montreal/samsungtvplus/master.m3u8
+https://lotus.stingray.com/manifest/qello-qello001-montreal/samsungtvplus/master_720.m3u8
 
 #EXTINF:-1 tvg-id="ext" tvg-name="Stingray Classic Rock" tvg-logo="" group-title="MuzikTV",Stingray Classic Rock
 https://lotus.stingray.com/manifest/ose-101ads-montreal/samsungtvplus/master.m3u8
