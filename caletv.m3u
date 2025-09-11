@@ -121,16 +121,13 @@ https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
 https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ext" tvg-name="Stingray Cello_Conserrt" tvg-logo="" group-title="MuzikTV",Stingray Cello_Conserrt
-https://lotus.stingray.com/manifest/qello-qello001-montreal/samsungtvplus/master_720.m3u8
+https://lotus.stingray.com/manifest/qello-qello001-montreal/samsungtvplus/master.m3u8
 
 #EXTINF:-1 tvg-id="ext" tvg-name="Stingray Classic Rock" tvg-logo="" group-title="MuzikTV",Stingray Classic Rock
 https://lotus.stingray.com/manifest/ose-101ads-montreal/samsungtvplus/master.m3u8
 
 #EXTINF:-1 tvg-id="ext" tvg-name="Stingray Classica" tvg-logo="" group-title="MuzikTV",Stingray Classica
 https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/master.m3u8
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Stingray Cpop" tvg-logo="" group-title="MuzikTV",Stingray Cpop
-https://antares.dribbcast.com/proxy/cpop?mp=/s.mp3
 
 #EXTINF:-1 tvg-id="ext" tvg-name="Stingray Djazz" tvg-logo="" group-title="MuzikTV",Stingray Djazz
 https://lotus.stingray.com/manifest/djazz-djaads-montreal/samsungtvplus/master.m3u8
@@ -143,12 +140,6 @@ https://lotus.stingray.com/manifest/ose-107ads-montreal/samsungtvplus/master.m3u
 
 #EXTINF:-1 tvg-id="ext" tvg-name="Stingray Hot Country" tvg-logo="" group-title="MuzikTV",Stingray Hot Country
 https://lotus.stingray.com/manifest/ose-108ads-montreal/samsungtvplus/master.m3u8
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Stingray Jpop" tvg-logo="" group-title="MuzikTV",Stingray Jpop
-https://antares.dribbcast.com/proxy/jpop?mp=/s.mp3
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Stingray Kpop" tvg-logo="" group-title="MuzikTV",Stingray Kpop
-https://antares.dribbcast.com/proxy/kpop?mp=/s.mp3
 
 #EXTINF:-1 tvg-id="ext" tvg-name="Stingray Movie Music" tvg-logo="" group-title="MuzikTV",Stingray Movie Music
 https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/master.m3u8
@@ -566,4 +557,13 @@ https://29073.live.streamtheworld.com/MAKAM128AAC.aac?/;stream.mp3
 
 #EXTINF:-1 tvg-id="ext" tvg-name="Umc Radyosu" tvg-logo="" group-title="Alaturka_Radyo",Umc Radyosu
 https://n10101m.mediatriple.net/musiki
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Stingray Cpop" tvg-logo="" group-title="MuzikTV",Stingray Cpop
+https://antares.dribbcast.com/proxy/cpop?mp=/s.mp3
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Stingray Jpop" tvg-logo="" group-title="MuzikTV",Stingray Jpop
+https://antares.dribbcast.com/proxy/jpop?mp=/s.mp3
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Stingray Kpop" tvg-logo="" group-title="MuzikTV",Stingray Kpop
+https://antares.dribbcast.com/proxy/kpop?mp=/s.mp3
 
