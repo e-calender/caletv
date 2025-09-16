@@ -105,6 +105,9 @@ https://halktv-live.daioncdn.net/halktv/halktv_720p.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Sozcutv" tvg-logo="" group-title="Muhalif",Sozcutv
 http://185.234.111.229:8000/play/a00y
 
+#EXTINF:-1 tvg-id="ext" tvg-name="Sozcutv2" tvg-logo="" group-title="Muhalif",Sozcutv2
+https://cdn.tecostream.xyz/Sozcu_Tv.m3u8
+
 #EXTINF:-1 tvg-id="ext" tvg-name="Nr1" tvg-logo="" group-title="MuzikTV",Nr1
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/chunklist_b400000.m3u8
 
@@ -223,6 +226,9 @@ https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
 https://rt-rtd.rttv.com/dvr/rtdoc/playlist_4500Kb.m3u8
 
 #EXTINF:-1 tvg-id="ext" tvg-name="Cgtn_Doc" tvg-logo="" group-title="YabanciTV",Cgtn_Doc
+https://mn-nl.mncdn.com/dogusdyg_drone/cgtn/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Cgtn_Doc2" tvg-logo="" group-title="YabanciTV",Cgtn_Doc2
 https://mn-nl.mncdn.com/dogusdyg_drone/cgtn/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ext" tvg-name="Drone_Tv" tvg-logo="" group-title="YabanciTV",Drone_Tv
