@@ -3,13 +3,13 @@
 http://stream.tvcdn.net/ulusal/trt-1.m3u8
 
 #EXTINF:-1 tvg-id="ext" tvg-name="Trt 1" tvg-logo="" group-title="Ulusal",Trt 1
-https://tv-trt1.medya.trt.com.tr/master_720.m3u8
+https://tv-trt1.medya.trt.com.tr/master.m3u8
 
 #EXTINF:-1 tvg-id="ext" tvg-name="Trt 2" tvg-logo="" group-title="Ulusal",Trt 2
-https://tv-trt2.medya.trt.com.tr/master_720.m3u8
+https://tv-trt2.medya.trt.com.tr/master.m3u8
 
 #EXTINF:-1 tvg-id="ext" tvg-name="Trt Belgesel" tvg-logo="" group-title="Ulusal",Trt Belgesel
-https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
+https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
 
 #EXTINF:-1 tvg-id="ext" tvg-name="Trt Belgesel" tvg-logo="" group-title="Ulusal",Trt Belgesel
 http://stream.tvcdn.net/belgesel/trt-belgesel.m3u8
@@ -18,10 +18,10 @@ http://stream.tvcdn.net/belgesel/trt-belgesel.m3u8
 http://stream.tvcdn.net/ulusal-yurt-disi/trt-avaz.m3u8
 
 #EXTINF:-1 tvg-id="ext" tvg-name="Trt Avaz" tvg-logo="" group-title="Ulusal",Trt Avaz
-https://tv-trtavaz.medya.trt.com.tr/master_720.m3u8
+https://tv-trtavaz.medya.trt.com.tr/master.m3u8
 
 #EXTINF:-1 tvg-id="ext" tvg-name="Trt Eba" tvg-logo="" group-title="Ulusal",Trt Eba
-https://tv-e-okul01.medya.trt.com.tr/master_720.m3u8
+https://tv-e-okul01.medya.trt.com.tr/master.m3u8
 
 #EXTINF:-1 tvg-id="ext" tvg-name="Trt Eba" tvg-logo="" group-title="Ulusal",Trt Eba
 http://stream.tvcdn.net/cocuk-egitim/trt-eba.m3u8
@@ -30,16 +30,16 @@ http://stream.tvcdn.net/cocuk-egitim/trt-eba.m3u8
 http://stream.tvcdn.net/haber/trt-haber.m3u8
 
 #EXTINF:-1 tvg-id="ext" tvg-name="Trt Haber Hd" tvg-logo="" group-title="Ulusal",Trt Haber Hd
-https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
+https://tv-trthaber.medya.trt.com.tr/master.m3u8
 
 #EXTINF:-1 tvg-id="ext" tvg-name="Trt Spor" tvg-logo="" group-title="Ulusal",Trt Spor
-https://tv-trtspor1.medya.trt.com.tr/master_720.m3u8
+https://tv-trtspor1.medya.trt.com.tr/master.m3u8
 
 #EXTINF:-1 tvg-id="ext" tvg-name="Trt Spor Yildiz" tvg-logo="" group-title="Ulusal",Trt Spor Yildiz
-https://tv-trtspor2.medya.trt.com.tr/master_720.m3u8
+https://tv-trtspor2.medya.trt.com.tr/master.m3u8
 
 #EXTINF:-1 tvg-id="ext" tvg-name="Trt Turk" tvg-logo="" group-title="Ulusal",Trt Turk
-https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
+https://tv-trtturk.medya.trt.com.tr/master.m3u8
 
 #EXTINF:-1 tvg-id="ext" tvg-name="Trt Turk" tvg-logo="" group-title="Ulusal",Trt Turk
 http://stream.tvcdn.net/ulusal-yurt-disi/trt-turk.m3u8
