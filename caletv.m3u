@@ -78,8 +78,6 @@ https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/master.
 #EXTINF:-1 tvg-id="ext" tvg-name="Myzen Tv" tvg-logo="" group-title="MuzikTV",Myzen Tv
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex/playlist.m3u8
 
-
-
 #EXTINF:-1 tvg-id="ext" tvg-name="Now 70S" tvg-logo="" group-title="MuzikTV",Now 70S
 https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
 
@@ -353,14 +351,26 @@ https://stream.netradyom.com/listen/radyobilkent/radio.mp3
 #EXTINF:-1 tvg-id="ext" tvg-name="Joy Fm" tvg-logo="" group-title="Radyolar",Joy Fm
 https://27793.live.streamtheworld.com/JOY_FMAAC.aac
 
-#EXTINF:-1 tvg-id="ext" tvg-name="Trt Tsr Turkiyenin Sesi Radyosu" tvg-logo="" group-title="Radyolar",Trt Tsr Turkiyenin Sesi Radyosu
-https://radio-trttsr.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="TRT Radyo1" tvg-logo="" group-title="Radyolar",TRT Radyo1
+https://trt.radyotvonline.net/trt_1.aac
 
-#EXTINF:-1 tvg-id="ext" tvg-name="Trt Erzurum Radyosu" tvg-logo="" group-title="Radyolar",Trt Erzurum Radyosu
-https://radio-trterzurum.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="TRT Fm" tvg-logo="" group-title="Radyolar",TRT Fm
+https://trt.radyotvonline.net/trt_fm.aac
 
-#EXTINF:-1 tvg-id="ext" tvg-name="Trt Antalya Radyosu" tvg-logo="" group-title="Radyolar",Trt Antalya Radyosu
-https://radio-trtantalya.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="TRT 3 aac" tvg-logo="" group-title="Radyolar",TRT 3 aac
+https://rd-trtradyo3.medya.trt.com.tr/master_128_primary_2580178.aac
+
+#EXTINF:-1 tvg-id="ext" tvg-name="TRT 3" tvg-logo="" group-title="Radyolar",TRT 3
+https://rd-trtradyo3.medya.trt.com.tr/master_128.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="TRT Nagme" tvg-logo="" group-title="Radyolar",TRT Nagme
+https://rd-trtnagme.medya.trt.com.tr/master_128.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="TRT Turku" tvg-logo="" group-title="Radyolar",TRT Turku
+https://rd-trtturku.medya.trt.com.tr/master_128_primary_835209.aac
+
+#EXTINF:-1 tvg-id="ext" tvg-name="TRT TSR" tvg-logo="" group-title="Radyolar",TRT TSR
+https://radio-trttsr.medya.trt.com.tr/master_128.m3u8
 
 #EXTINF:-1 tvg-id="ext" tvg-name="Home Relax" tvg-logo="" group-title="Radyolar",Home Relax
 https://moondigitaledge.radyotvonline.net/relaxhome/playlist.m3u8
