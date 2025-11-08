@@ -1,210 +1,25 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="ext" tvg-name="Trt 1" tvg-logo="" group-title="Ulusal",Trt 1
-http://stream.tvcdn.net/ulusal/trt-1.m3u8
 
-#EXTINF:-1 tvg-id="ext" tvg-name="Trt 1" tvg-logo="" group-title="Ulusal",Trt 1
-https://tv-trt1.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Stingray Naturescape 1" tvg-logo="" group-title="MuzikTV",Stingray Naturescape 1
+https://lotus.stingray.com/manifest/naturescape-a002-montreal/samsungtvplus/master.m3u8
 
-#EXTINF:-1 tvg-id="ext" tvg-name="Trt 2" tvg-logo="" group-title="Ulusal",Trt 2
-https://tv-trt2.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Stingray Naturescape" tvg-logo="" group-title="MuzikTV",Stingray Naturescape 2
+https://lotus.stingray.com/manifest/naturescape-a003-montreal/samsungtvplus/master.m3u8
 
-#EXTINF:-1 tvg-id="ext" tvg-name="Trt Belgesel" tvg-logo="" group-title="Ulusal",Trt Belgesel
-https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Stingray Holidayscapes" tvg-logo="" group-title="MuzikTV",Stingray Holidayscapes
+https://plextv.ott-channels.stingray.com/holidayscapes/master.m3u8
 
-#EXTINF:-1 tvg-id="ext" tvg-name="Trt Belgesel" tvg-logo="" group-title="Ulusal",Trt Belgesel
-http://stream.tvcdn.net/belgesel/trt-belgesel.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Stingray Holiday Hits" tvg-logo="" group-title="MuzikTV",Stingray Holiday Hits
+https://lotus.stingray.com/manifest/ose-155ads-montreal/samsungtvplus/master.m3u8
 
-#EXTINF:-1 tvg-id="ext" tvg-name="Trt Avaz" tvg-logo="" group-title="Ulusal",Trt Avaz
-http://stream.tvcdn.net/ulusal-yurt-disi/trt-avaz.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Stingray Flashback 70s" tvg-logo="" group-title="MuzikTV",Stingray 70s
+https://lotus.stingray.com/manifest/ose-115ads-montreal/samsungtvplus/master.m3u8
 
-#EXTINF:-1 tvg-id="ext" tvg-name="Trt Avaz" tvg-logo="" group-title="Ulusal",Trt Avaz
-https://tv-trtavaz.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Stingray Remember the 80s" tvg-logo="" group-title="MuzikTV",Stingray 80s
+https://lotus.stingray.com/manifest/ose-128ads-montreal/samsungtvplus/master.m3u8
 
-#EXTINF:-1 tvg-id="ext" tvg-name="Trt Eba" tvg-logo="" group-title="Ulusal",Trt Eba
-https://tv-e-okul01.medya.trt.com.tr/master.m3u8
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Trt Eba" tvg-logo="" group-title="Ulusal",Trt Eba
-http://stream.tvcdn.net/cocuk-egitim/trt-eba.m3u8
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Trt Haber" tvg-logo="" group-title="Ulusal",Trt Haber
-http://stream.tvcdn.net/haber/trt-haber.m3u8
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Trt Haber Hd" tvg-logo="" group-title="Ulusal",Trt Haber Hd
-https://tv-trthaber.medya.trt.com.tr/master.m3u8
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Trt Spor" tvg-logo="" group-title="Ulusal",Trt Spor
-https://tv-trtspor1.medya.trt.com.tr/master.m3u8
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Trt Spor Yildiz" tvg-logo="" group-title="Ulusal",Trt Spor Yildiz
-https://tv-trtspor2.medya.trt.com.tr/master.m3u8
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Trt Turk" tvg-logo="" group-title="Ulusal",Trt Turk
-https://tv-trtturk.medya.trt.com.tr/master.m3u8
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Trt Turk" tvg-logo="" group-title="Ulusal",Trt Turk
-http://stream.tvcdn.net/ulusal-yurt-disi/trt-turk.m3u8
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Show Turk Hd" tvg-logo="" group-title="Ulusal",Show Turk Hd
-http://canlitvulusal.xyz/live/showturk/index.m3u8
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Show Tv Hd" tvg-logo="" group-title="Ulusal",Show Tv Hd
-http://ciner-live.daioncdn.net/showtv/showtv.m3u8
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Showmax Hd" tvg-logo="" group-title="Ulusal",Showmax Hd
-http://canlitvulusal.xyz/live/showmax/index.m3u8
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Sports Tv" tvg-logo="" group-title="Ulusal",Sports Tv
-https://live.sportstv.com.tr/hls/low/sportstv.m3u8
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Star Tv" tvg-logo="" group-title="Ulusal",Star Tv
-http://stream.tvcdn.net/ulusal/star-tv.m3u8
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Star Tv" tvg-logo="" group-title="Ulusal",Star Tv
-https://dogus-live.daioncdn.net/startv/startv_720p.m3u8
-
-#EXTINF:-1 tvg-id="ext" tvg-name="360 Tv" tvg-logo="" group-title="Ulusal",360 Tv
-http://stream.tvcdn.net/ulusal/360-tv.m3u8
-
-#EXTINF:-1 tvg-id="ext" tvg-name="360 Tv Hd" tvg-logo="" group-title="Ulusal",360 Tv Hd
-http://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
-
-#EXTINF:-1 tvg-id="ext" tvg-name="A2 Tv" tvg-logo="" group-title="Ulusal",A2 Tv
-http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv.m3u8
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Atv" tvg-logo="" group-title="Ulusal",Atv
-http://stream.tvcdn.net/ulusal/atv.m3u8
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Atv" tvg-logo="" group-title="Ulusal",Atv
-http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Dmax" tvg-logo="" group-title="Ulusal",Dmax
-https://uzunmuhalefet.serv00.net/canlitv2.php?id=12979&.m3u8
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Dmax" tvg-logo="" group-title="Ulusal",Dmax
-http://stream.tvcdn.net/eglence/dmax.m3u8
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Dmax" tvg-logo="" group-title="Ulusal",Dmax
-https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Tlc" tvg-logo="" group-title="Ulusal",Tlc
-http://stream.tvcdn.net/eglence/tlc.m3u8
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Tlc" tvg-logo="" group-title="Ulusal",Tlc
-https://dogus-live.daioncdn.net/tlc/tlc_720p.m3u8
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Tlc" tvg-logo="" group-title="Ulusal",Tlc
-https://uzunmuhalefet.serv00.net/canlitv2.php?id=11219&.m3u8
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Bloomberg" tvg-logo="" group-title="Ulusal",Bloomberg
-https://bloomberght-live.daioncdn.net/bloomberght/bloomberght.m3u8
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Bloomberg Ht" tvg-logo="" group-title="Ulusal",Bloomberg Ht
-http://stream.tvcdn.net/ekonomi/bloomberg-ht.m3u8
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Bloomberg Ht" tvg-logo="" group-title="Ulusal",Bloomberg Ht
-https://ciner-live.daioncdn.net/bloomberght/bloomberght_720p.m3u8
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Cartoon Network" tvg-logo="" group-title="Ulusal",Cartoon Network
-http://stream.tvcdn.net/cocuk-egitim/cartoon-network.m3u8
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Cartoon Network" tvg-logo="" group-title="Ulusal",Cartoon Network
-https://uzunmuhalefet.serv00.net/canlitv2.php?id=11233&.m3u8
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Ciftcitv" tvg-logo="" group-title="Ulusal",Ciftcitv
-https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/chunks.m3u8
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Haber Global" tvg-logo="" group-title="Ulusal",Haber Global
-http://stream.tvcdn.net/haber/haber-global.m3u8
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Kanal 7" tvg-logo="" group-title="Ulusal",Kanal 7
-http://stream.tvcdn.net/ulusal/kanal-7.m3u8
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Kanal D" tvg-logo="" group-title="Ulusal",Kanal D
-http://stream.tvcdn.net/ulusal/kanal-d.m3u8
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Koy" tvg-logo="" group-title="Ulusal",Koy
-https://uzunmuhalefet.serv00.net/canlitv2.php?id=12013&.m3u8
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Koy Tv" tvg-logo="" group-title="Ulusal",Koy Tv
-http://stream.tvcdn.net/belgesel/koy-tv.m3u8
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Mavi Karadeniz" tvg-logo="" group-title="Ulusal",Mavi Karadeniz
-http://stream.tvcdn.net/yerel/mavi-karadeniz.m3u8
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Meltem Tv" tvg-logo="" group-title="Ulusal",Meltem Tv
-http://stream.tvcdn.net/dini/meltem-tv.m3u8
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Minika Cocuk" tvg-logo="" group-title="Ulusal",Minika Cocuk
-https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk_720p.m3u8
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Now Tv" tvg-logo="" group-title="Ulusal",Now Tv
-http://stream.tvcdn.net/ulusal/now-tv.m3u8
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Now Tv" tvg-logo="" group-title="Ulusal",Now Tv
-http://116.202.238.88/FOXTV_TR/index.m3u8
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Ntv" tvg-logo="" group-title="Ulusal",Ntv
-https://emmazbvkkf.turknet.ercdn.net/cnifuowzza/ntv/ntv_720p.m3u8
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Ntv" tvg-logo="" group-title="Ulusal",Ntv
-https://dogus-live.daioncdn.net/ntv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Ntv" tvg-logo="" group-title="Ulusal",Ntv
-http://stream.tvcdn.net/haber/ntv.m3u8
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Ntv" tvg-logo="" group-title="Ulusal",Ntv
-https://dogus.daioncdn.net/ntv/ntv_720p.m3u8?ce=3
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Tarim Tv" tvg-logo="" group-title="Ulusal",Tarim Tv
-https://content.tvkur.com/l/c7e1da7mm25p552d9u9g/index-720p.m3u8
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Tarimtv" tvg-logo="" group-title="Ulusal",Tarimtv
-http://stream.tvcdn.net/belgesel/tarim-tv.m3u8
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Toprak Tv" tvg-logo="" group-title="Ulusal",Toprak Tv
-http://stream.tvcdn.net/belgesel/toprak-tv.m3u8
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Toprak Tv" tvg-logo="" group-title="Ulusal",Toprak Tv
-https://uzunmuhalefet.serv00.net/canlitv2.php?id=12274&.m3u8
-
-#EXTINF:-1 tvg-id="ext" tvg-name="cay Tv" tvg-logo="" group-title="Ulusal",cay Tv
-http://stream.tvcdn.net/yerel/cay-tv.m3u8
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Tv 100" tvg-logo="" group-title="Ulusal",Tv 100
-http://stream.tvcdn.net/ulusal/tv-100.m3u8
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Tv 4" tvg-logo="" group-title="Ulusal",Tv 4
-http://stream.tvcdn.net/eglence/tv-4.m3u8
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Tv4 Hd" tvg-logo="" group-title="Ulusal",Tv4 Hd
-http://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Tv8" tvg-logo="" group-title="Ulusal",Tv8
-http://stream.tvcdn.net/ulusal/tv8.m3u8
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Tv85 Hd" tvg-logo="" group-title="Ulusal",Tv85 Hd
-https://tv8-live.daioncdn.net/tv8bucuk/tv8bucuk.m3u8
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Tv8 Hd" tvg-logo="" group-title="Ulusal",Tv8 Hd
-https://tv8-live.daioncdn.net/tv8/tv8_1080p.m3u8
-
-#EXTINF:-1 tvg-id="ext" tvg-name="ciftci" tvg-logo="" group-title="Ulusal",ciftci
-http://stream.tvcdn.net/belgesel/ciftci-tv.m3u8
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Halk Tv" tvg-logo="" group-title="Muhalif",Halk Tv
-http://stream.tvcdn.net/haber/halk-tv.m3u8
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Halktv" tvg-logo="" group-title="Muhalif",Halktv
-https://halktv-live.daioncdn.net/halktv/halktv_720p.m3u8
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Sozcutv2" tvg-logo="" group-title="Muhalif",Sozcutv2
-https://cdn.tecostream.xyz/Sozcu_Tv.m3u8
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Sozcutv" tvg-logo="" group-title="Muhalif",Sozcutv
-http://185.234.111.229:8000/play/a00y
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Tele1TV" tvg-logo="" group-title="Muhalif",Tele1TV
-https://tele1-live.ercdn.net/tele1/tele1_1080p.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Stingray Nothin But 90s" tvg-logo="" group-title="MuzikTV",Stingray 90s
+https://lotus.stingray.com/manifest/ose-142ads-montreal/samsungtvplus/master.m3u8
 
 #EXTINF:-1 tvg-id="ext" tvg-name="Stingray Urban Beat" tvg-logo="" group-title="MuzikTV",Stingray Urban Beat
 https://lotus.stingray.com/manifest/ose-133ads-montreal/samsungtvplus/master.m3u8
@@ -214,9 +29,6 @@ https://lotus.stingray.com/manifest/ose-190ads-montreal/samsungtvplus/master.m3u
 
 #EXTINF:-1 tvg-id="ext" tvg-name="Stingray Todays KPOP" tvg-logo="" group-title="MuzikTV",Stingray Todays KPOP
 https://lotus.stingray.com/manifest/ose-317ads-montreal/samsungtvplus/master.m3u8
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Kral Pop Tv" tvg-logo="" group-title="MuzikTV",Kral Pop Tv
-http://stream.tvcdn.net/muzik/kral-pop-tv.m3u8
 
 #EXTINF:-1 tvg-id="ext" tvg-name="Stingray The Spa" tvg-logo="" group-title="MuzikTV",Stingray The Spa
 https://lotus.stingray.com/manifest/ose-122ads-montreal/samsungtvplus/master.m3u8
@@ -230,26 +42,11 @@ https://lotus.stingray.com/manifest/ose-140ads-montreal/samsungtvplus/master.m3u
 #EXTINF:-1 tvg-id="ext" tvg-name="Stingray Romance Latino" tvg-logo="" group-title="MuzikTV",Stingray Romance Latino
 https://lotus.stingray.com/manifest/ose-202ads-montreal/samsungtvplus/master.m3u8
 
-#EXTINF:-1 tvg-id="ext" tvg-name="Stingray Rock Alternative" tvg-logo="" group-title="MuzikTV",Stingray Rock Alternative
+#EXTINF:-1 tvg-id="ext" tvg-name="Stingray Rock Alternative" tvg-logo="" group-title="MuzikTV",Stingray Rock 
 https://lotus.stingray.com/manifest/ose-102ads-montreal/samsungtvplus/master.m3u8
 
-#EXTINF:-1 tvg-id="ext" tvg-name="Stingray Remember the 80s" tvg-logo="" group-title="MuzikTV",Stingray Remember the 80s
-https://lotus.stingray.com/manifest/ose-128ads-montreal/samsungtvplus/master.m3u8
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Stingray Naturescape" tvg-logo="" group-title="MuzikTV",Stingray Naturescape
-https://lotus.stingray.com/manifest/naturescape-a003-montreal/samsungtvplus/master.m3u8
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Stingray Naturescape 1" tvg-logo="" group-title="MuzikTV",Stingray Naturescape 1
-https://lotus.stingray.com/manifest/naturescape-a002-montreal/samsungtvplus/master.m3u8
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Stingray Pop Adult" tvg-logo="" group-title="MuzikTV",Stingray Pop Adult
+#EXTINF:-1 tvg-id="ext" tvg-name="Stingray Pop Adult" tvg-logo="" group-title="MuzikTV",Stingray Pop 
 https://lotus.stingray.com/manifest/ose-104ads-montreal/samsungtvplus/master.m3u8
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Stingray Nothin But 90s" tvg-logo="" group-title="MuzikTV",Stingray Nothin But 90s
-https://lotus.stingray.com/manifest/ose-142ads-montreal/samsungtvplus/master.m3u8
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Stingray Holidayscapes" tvg-logo="" group-title="MuzikTV",Stingray Holidayscapes
-https://plextv.ott-channels.stingray.com/holidayscapes/master.m3u8
 
 #EXTINF:-1 tvg-id="ext" tvg-name="Stingray Qello Concerts" tvg-logo="" group-title="MuzikTV",Stingray Qello Concerts
 https://lotus.stingray.com/manifest/qello-qello001-montreal/samsungtvplus/master.m3u8
@@ -263,14 +60,8 @@ https://lotus.stingray.com/manifest/ose-108ads-montreal/samsungtvplus/master.m3u
 #EXTINF:-1 tvg-id="ext" tvg-name="Stingray Classica" tvg-logo="" group-title="MuzikTV",Stingray Classica
 https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/master.m3u8
 
-#EXTINF:-1 tvg-id="ext" tvg-name="Stingray Holiday Hits" tvg-logo="" group-title="MuzikTV",Stingray Holiday Hits
-https://lotus.stingray.com/manifest/ose-155ads-montreal/samsungtvplus/master.m3u8
-
 #EXTINF:-1 tvg-id="ext" tvg-name="Stingray Hit List" tvg-logo="" group-title="MuzikTV",Stingray Hit List
 https://lotus.stingray.com/manifest/ose-107ads-montreal/samsungtvplus/master.m3u8
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Stingray Flashback 70s" tvg-logo="" group-title="MuzikTV",Stingray Flashback 70s
-https://lotus.stingray.com/manifest/ose-115ads-montreal/samsungtvplus/master.m3u8
 
 #EXTINF:-1 tvg-id="ext" tvg-name="Stingray Easy Listening" tvg-logo="" group-title="MuzikTV",Stingray Easy Listening
 https://lotus.stingray.com/manifest/ose-137ads-montreal/samsungtvplus/master.m3u8
@@ -278,7 +69,7 @@ https://lotus.stingray.com/manifest/ose-137ads-montreal/samsungtvplus/master.m3u
 #EXTINF:-1 tvg-id="ext" tvg-name="Stingray Classic Rock" tvg-logo="" group-title="MuzikTV",Stingray Classic Rock
 https://lotus.stingray.com/manifest/ose-101ads-montreal/samsungtvplus/master.m3u8
 
-#EXTINF:-1 tvg-id="ext" tvg-name="Stingray DJAZZ" tvg-logo="" group-title="MuzikTV",Stingray DJAZZ
+#EXTINF:-1 tvg-id="ext" tvg-name="Stingray DJAZZ" tvg-logo="" group-title="MuzikTV",Stingray Jazz
 https://lotus.stingray.com/manifest/djazz-djaads-montreal/samsungtvplus/master.m3u8
 
 #EXTINF:-1 tvg-id="ext" tvg-name="Stingray CMusic" tvg-logo="" group-title="MuzikTV",Stingray CMusic
@@ -286,6 +77,8 @@ https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/master.
 
 #EXTINF:-1 tvg-id="ext" tvg-name="Myzen Tv" tvg-logo="" group-title="MuzikTV",Myzen Tv
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex/playlist.m3u8
+
+
 
 #EXTINF:-1 tvg-id="ext" tvg-name="Now 70S" tvg-logo="" group-title="MuzikTV",Now 70S
 https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
@@ -299,14 +92,17 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17
 #EXTINF:-1 tvg-id="ext" tvg-name="Power Hd" tvg-logo="" group-title="MuzikTV",Power Hd
 https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playist.m3u8
 
-#EXTINF:-1 tvg-id="ext" tvg-name="Dream Turk" tvg-logo="" group-title="MuzikTV",Dream Turk
-http://stream.tvcdn.net/muzik/dream-turk.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Power Tv" tvg-logo="" group-title="MuzikTV",Power Tv
+http://stream.tvcdn.net/muzik/power-tv.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Number One Tv" tvg-logo="" group-title="MuzikTV",Number One Tv
+http://stream.tvcdn.net/muzik/number-one-tv.m3u8
 
 #EXTINF:-1 tvg-id="ext" tvg-name="Power Dance" tvg-logo="" group-title="MuzikTV",Power Dance
 https://livetv.powerapp.com.tr/dance/dance.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ext" tvg-name="Nr1 Turk" tvg-logo="" group-title="MuzikTV",Nr1 Turk
-https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e187770143.smil/chunklist_b400000.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Number 1 Dance" tvg-logo="" group-title="MuzikTV",Number 1 Dance
+http://stream.tvcdn.net/muzik/number-1-dance.m3u8
 
 #EXTINF:-1 tvg-id="ext" tvg-name="Vevo Pop" tvg-logo="" group-title="MuzikTV",Vevo Pop
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d93b635b43dd1a399b39eee/master.m3u8?advertisingId=&appName=rokuchannel&appVersion=1.0&deviceDNT=1&deviceId=8f35210d-be26-5e0d-8c57-d0f910026ee7&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel
@@ -329,23 +125,20 @@ http://stream.tvcdn.net/muzik/number-1-ask.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Number 1 Damar" tvg-logo="" group-title="MuzikTV",Number 1 Damar
 http://stream.tvcdn.net/muzik/number-1-damar.m3u8
 
-#EXTINF:-1 tvg-id="ext" tvg-name="Number 1 Dance" tvg-logo="" group-title="MuzikTV",Number 1 Dance
-http://stream.tvcdn.net/muzik/number-1-dance.m3u8
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Number One Tv" tvg-logo="" group-title="MuzikTV",Number One Tv
-http://stream.tvcdn.net/muzik/number-one-tv.m3u8
-
 #EXTINF:-1 tvg-id="ext" tvg-name="Number One Turk" tvg-logo="" group-title="MuzikTV",Number One Turk
 http://stream.tvcdn.net/muzik/number-one-turk.m3u8
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Power Tv" tvg-logo="" group-title="MuzikTV",Power Tv
-http://stream.tvcdn.net/muzik/power-tv.m3u8
 
 #EXTINF:-1 tvg-id="ext" tvg-name="Power Turk Hd" tvg-logo="" group-title="MuzikTV",Power Turk Hd
 https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlists.m3u8
 
 #EXTINF:-1 tvg-id="ext" tvg-name="Trt Muzik" tvg-logo="" group-title="MuzikTV",Trt Muzik
 http://stream.tvcdn.net/muzik/trt-muzik.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Nr1 Turk" tvg-logo="" group-title="MuzikTV",Nr1 Turk
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e187770143.smil/chunklist_b400000.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Dream Turk" tvg-logo="" group-title="MuzikTV",Dream Turk
+http://stream.tvcdn.net/muzik/dream-turk.m3u8
 
 #EXTINF:-1 tvg-id="ext" tvg-name="Stingray Cpop" tvg-logo="" group-title="Bati_Radyo",Stingray Cpop
 https://antares.dribbcast.com/proxy/cpop?mp=/s.mp3
