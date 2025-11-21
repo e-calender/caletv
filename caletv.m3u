@@ -668,5 +668,109 @@ https://antares.dribbcast.com/proxy/jpop?mp=/s.mp3
 #EXTINF:-1 tvg-id="ext" tvg-name="Stingray Cpop" tvg-logo="" group-title="Radyolar",Stingray Cpop
 https://antares.dribbcast.com/proxy/cpop?mp=/s.mp3
 
+#EXTINF:-1 tvg-id="ext" tvg-name="Trt 1" tvg-logo="" group-title="Ulusal",Trt 1
+https://trt.daioncdn.net/trt-1/master_720p.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Trt 2" tvg-logo="" group-title="Ulusal",Trt 2
+https://tv-trt2.medya.trt.com.tr/master_720.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Trt Belgesel" tvg-logo="" group-title="Ulusal",Trt Belgesel
+https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Trt Spor" tvg-logo="" group-title="Ulusal",Trt Spor
+https://tv-trtspor1.medya.trt.com.tr/master_720.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Trt Spor Yildiz" tvg-logo="" group-title="Ulusal",Trt Spor Yildiz
+https://tv-trtspor2.medya.trt.com.tr/master_720.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Trt Haber Hd" tvg-logo="" group-title="Ulusal",Trt Haber Hd
+https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Trt Turk" tvg-logo="" group-title="Ulusal",Trt Turk
+https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Trt Avaz" tvg-logo="" group-title="Ulusal",Trt Avaz
+https://tv-trtavaz.medya.trt.com.tr/master_720.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Trt Eba" tvg-logo="" group-title="Ulusal",Trt Eba
+https://tv-e-okul01.medya.trt.com.tr/master_720.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Dmax" tvg-logo="" group-title="Ulusal",Dmax
+https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Tlc" tvg-logo="" group-title="Ulusal",Tlc
+https://dogus-live.daioncdn.net/tlc/tlc_720p.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="360 Tv Hd" tvg-logo="" group-title="Ulusal",360 Tv Hd
+http://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Tv4 Hd" tvg-logo="" group-title="Ulusal",Tv4 Hd
+http://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Now Tv" tvg-logo="" group-title="Ulusal",Now Tv
+http://116.202.238.88/FOXTV_TR/index.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Star Tv" tvg-logo="" group-title="Ulusal",Star Tv
+https://dogus-live.daioncdn.net/startv/startv_720p.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Show Tv Hd" tvg-logo="" group-title="Ulusal",Show Tv Hd
+http://ciner-live.daioncdn.net/showtv/showtv.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Showmax Hd" tvg-logo="" group-title="Ulusal",Showmax Hd
+http://canlitvulusal.xyz/live/showmax/index.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Show Turk Hd" tvg-logo="" group-title="Ulusal",Show Turk Hd
+http://canlitvulusal.xyz/live/showturk/index.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Atv" tvg-logo="" group-title="Ulusal",Atv
+http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="A2 Tv" tvg-logo="" group-title="Ulusal",A2 Tv
+http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Tv8 Hd" tvg-logo="" group-title="Ulusal",Tv8 Hd
+https://tv8-live.daioncdn.net/tv8/tv8_1080p.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Tv85 Hd" tvg-logo="" group-title="Ulusal",Tv85 Hd
+https://tv8-live.daioncdn.net/tv8bucuk/tv8bucuk.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Bloomberg" tvg-logo="" group-title="Ulusal",Bloomberg
+https://bloomberght-live.daioncdn.net/bloomberght/bloomberght.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Sports Tv" tvg-logo="" group-title="Ulusal",Sports Tv
+https://live.sportstv.com.tr/hls/low/sportstv.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Bloomberg Ht" tvg-logo="" group-title="Ulusal",Bloomberg Ht
+https://ciner-live.daioncdn.net/bloomberght/bloomberght_720p.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Ciftcitv" tvg-logo="" group-title="Ulusal",Ciftcitv
+https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/chunks.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Tarim Tv" tvg-logo="" group-title="Ulusal",Tarim Tv
+https://content.tvkur.com/l/c7e1da7mm25p552d9u9g/index-720p.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Minika Cocuk" tvg-logo="" group-title="Ulusal",Minika Cocuk
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk_720p.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Ntv" tvg-logo="" group-title="Ulusal",Ntv
+https://emmazbvkkf.turknet.ercdn.net/cnifuowzza/ntv/ntv_720p.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Ntv" tvg-logo="" group-title="Ulusal",Ntv
+https://dogus-live.daioncdn.net/ntv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Ntv" tvg-logo="" group-title="Ulusal",Ntv
+https://dogus.daioncdn.net/ntv/ntv_720p.m3u8?ce=3
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Halktv" tvg-logo="" group-title="Muhalif",Halktv
+https://halktv-live.daioncdn.net/halktv/halktv_720p.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Tele1TV" tvg-logo="" group-title="Muhalif",Tele1TV
+https://tele1-live.ercdn.net/tele1/tele1_1080p.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Sozcutv" tvg-logo="" group-title="Muhalif",Sozcutv
+http://185.234.111.229:8000/play/a00y
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Sozcutv2" tvg-logo="" group-title="Muhalif",Sozcutv2
+https://cdn.tecostream.xyz/Sozcu_Tv.m3u8
 
 
