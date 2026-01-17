@@ -773,6 +773,12 @@ http://185.234.111.229:8000/play/a00y
 #EXTINF:-1 tvg-id="ext" tvg-name="Sozcutv2" tvg-logo="" group-title="Muhalif",Sozcutv2
 https://cdn.tecostream.xyz/Sozcu_Tv.m3u8
 
+#EXTINF:-1 tvg-id="ext" tvg-name="UgurMumcu" tvg-logo="" group-title="Mobese",UgurMumcu
+https://601a55c88ec6d.streamlock.net/hls/205.stream/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Kartal Soğanlık" tvg-logo="" group-title="Mobese",Kartal Soğanlık
+https://601a55c88ec6d.streamlock.net/hls/88.stream/chunklist.m3u8
+
 #EXTM3U
 #EXTINF:-1 tvg-id="TRT 1" tvg-name="TRT 1" tvg-logo="https://assets.uzunmuhalefet.com/logos/aae0367d-c9ab-45a2-8518-0968cd5d2f55.png" group-title="Ulusal",TRT 1
 https://streams.uzunmuhalefet.com/stream/535f4f5a-3ffa-4919-bb5d-5d31024c9237.m3u8
