@@ -773,4 +773,224 @@ http://185.234.111.229:8000/play/a00y
 #EXTINF:-1 tvg-id="ext" tvg-name="Sozcutv2" tvg-logo="" group-title="Muhalif",Sozcutv2
 https://cdn.tecostream.xyz/Sozcu_Tv.m3u8
 
+#EXTM3U
+#EXTINF:-1 tvg-id="TRT 1" tvg-name="TRT 1" tvg-logo="https://assets.uzunmuhalefet.com/logos/aae0367d-c9ab-45a2-8518-0968cd5d2f55.png" group-title="Ulusal",TRT 1
+https://streams.uzunmuhalefet.com/stream/535f4f5a-3ffa-4919-bb5d-5d31024c9237.m3u8
+
+#EXTINF:-1 tvg-id="ATV" tvg-name="ATV" tvg-logo="https://assets.uzunmuhalefet.com/logos/ff506778-7000-4a3b-8376-994a8f32058b.png" group-title="Ulusal",ATV
+https://streams.uzunmuhalefet.com/stream/c8758555-8581-4dec-9a46-ebcfaf9ace0a.m3u8
+
+#EXTINF:-1 tvg-id="Kanal D" tvg-name="Kanal D" tvg-logo="https://assets.uzunmuhalefet.com/logos/f49135ae-a8f7-45b4-8762-e3e447215e7d.png" group-title="Ulusal",Kanal D
+https://streams.uzunmuhalefet.com/stream/6bdc8fb5-3e82-4b44-a0b1-6ab9fdc35d3f.m3u8
+
+#EXTINF:-1 tvg-id="NOW TV" tvg-name="NOW TV" tvg-logo="https://assets.uzunmuhalefet.com/logos/e540b948-8fba-4163-ac65-1d4e8f8bf1bc.png" group-title="Ulusal",NOW TV
+https://streams.uzunmuhalefet.com/stream/f9368c57-16e5-44a2-a559-46377a476b04.m3u8
+
+#EXTINF:-1 tvg-id="Show TV" tvg-name="Show TV" tvg-logo="https://assets.uzunmuhalefet.com/logos/49ce7689-87c7-4a06-80a7-f5cdf9a19481.png" group-title="Ulusal",Show TV
+https://streams.uzunmuhalefet.com/stream/0ed1c367-312d-4a42-9772-ef257a36b775.m3u8
+
+#EXTINF:-1 tvg-id="Kanal 7" tvg-name="Kanal 7" tvg-logo="https://assets.uzunmuhalefet.com/logos/9af5ca05-f788-4ca3-9fd3-92c89d555c2b.png" group-title="Ulusal",Kanal 7
+https://streams.uzunmuhalefet.com/stream/7c94cb8c-63d1-46df-afac-a299e3910a5a.m3u8
+
+#EXTINF:-1 tvg-id="TV8" tvg-name="TV8" tvg-logo="https://assets.uzunmuhalefet.com/logos/8a33c746-0aff-44e0-9f1a-1bb3515de3ad.png" group-title="Ulusal",TV8
+https://streams.uzunmuhalefet.com/stream/e93b8e86-e4fc-450a-81d4-2188eda7dda0.m3u8
+
+#EXTINF:-1 tvg-id="Star TV" tvg-name="Star TV" tvg-logo="https://assets.uzunmuhalefet.com/logos/8bd73113-9389-419a-9341-55c3e82469b5.png" group-title="Ulusal",Star TV
+https://streams.uzunmuhalefet.com/stream/a8ea8b0b-9c06-41ce-b7f9-35e895c78b77.m3u8
+
+#EXTINF:-1 tvg-id="360 TV" tvg-name="360 TV" tvg-logo="https://assets.uzunmuhalefet.com/logos/9c668bd2-85f6-464d-b366-611e84c6f372.png" group-title="Ulusal",360 TV
+https://streams.uzunmuhalefet.com/stream/90fefbea-4a78-4f02-962f-2e1e4ad22f98.m3u8
+
+#EXTINF:-1 tvg-id="TV 100" tvg-name="TV 100" tvg-logo="https://assets.uzunmuhalefet.com/logos/6bdc7aae-f138-452b-a7c1-6f847ff2fa71.png" group-title="Ulusal",TV 100
+https://streams.uzunmuhalefet.com/stream/d95e9a1b-3955-4643-8327-413da9a1ce60.m3u8
+
+#EXTINF:-1 tvg-id="TYT TÃ¼rk" tvg-name="TYT Türk" tvg-logo="https://assets.uzunmuhalefet.com/logos/b3857c25-e816-48b9-8348-a13ee436dba9.png" group-title="Ulusal",TYT Türk
+https://streams.uzunmuhalefet.com/stream/7ca72bbc-449a-4521-80e2-b891f1964493.m3u8
+
+#EXTINF:-1 tvg-id="TRT Haber" tvg-name="TRT Haber" tvg-logo="https://assets.uzunmuhalefet.com/logos/8e701547-6beb-4553-a41e-815dd5e03b93.png" group-title="Haber",TRT Haber
+https://streams.uzunmuhalefet.com/stream/aa1ae31d-1d61-44b2-b675-b74e3ff5c7fc.m3u8
+
+#EXTINF:-1 tvg-id="Halk TV" tvg-name="Halk TV" tvg-logo="https://assets.uzunmuhalefet.com/logos/8373e35a-90c5-4396-888a-eb0b8a3fb6d0.png" group-title="Haber",Halk TV
+https://streams.uzunmuhalefet.com/stream/ea5e2000-56b6-4fb9-8dcf-b8bbe90b9f7b.m3u8
+
+#EXTINF:-1 tvg-id="NTV" tvg-name="NTV" tvg-logo="https://assets.uzunmuhalefet.com/logos/71dca388-e7d8-46c0-9b28-439b954a7613.png" group-title="Haber",NTV
+https://streams.uzunmuhalefet.com/stream/f27d4ced-d7e4-4d63-95b4-c47302cad618.m3u8
+
+#EXTINF:-1 tvg-id="SÃ¶zcÃ¼ TV" tvg-name="Sözcü TV" tvg-logo="https://assets.uzunmuhalefet.com/logos/f16de70e-9de7-4b41-937f-11a65fb2932d.png" group-title="Haber",Sözcü TV
+https://streams.uzunmuhalefet.com/stream/30f86caf-1b7e-4e62-8bdc-4729ea68492a.m3u8
+
+#EXTINF:-1 tvg-id="Ulusal Kanal" tvg-name="Ulusal Kanal" tvg-logo="https://assets.uzunmuhalefet.com/logos/c75d260b-10d6-42c6-b69e-bf04f773cc9b.png" group-title="Haber",Ulusal Kanal
+https://streams.uzunmuhalefet.com/stream/e8b425ad-571d-475d-a657-37bca8985836.m3u8
+
+#EXTINF:-1 tvg-id="KRT" tvg-name="KRT" tvg-logo="https://assets.uzunmuhalefet.com/logos/90997288-1507-49fe-84ee-a3a67281b23c.png" group-title="Haber",KRT
+https://streams.uzunmuhalefet.com/stream/d474a997-0ba9-486e-a0c2-acc58cadf150.m3u8
+
+#EXTINF:-1 tvg-id="TV 5" tvg-name="TV 5" tvg-logo="https://assets.uzunmuhalefet.com/logos/058318fb-65bc-4ebd-8d52-add836f53ba9.png" group-title="Haber",TV 5
+https://streams.uzunmuhalefet.com/stream/e12ae805-19c9-4c7f-ac92-cdd89d953d10.m3u8
+
+#EXTINF:-1 tvg-id="Flash Haber TV" tvg-name="Flash Haber TV" tvg-logo="https://assets.uzunmuhalefet.com/logos/48705266-7426-492a-a091-f2e599ba7a36.png" group-title="Haber",Flash Haber TV
+https://streams.uzunmuhalefet.com/stream/6a0ae937-29d4-455b-b498-8fc8e82b95b4.m3u8
+
+#EXTINF:-1 tvg-id="DHA 1" tvg-name="DHA 1" tvg-logo="https://assets.uzunmuhalefet.com/logos/a1069752-bcab-437a-9283-ea7058e2acaa.png" group-title="Haber",DHA 1
+https://streams.uzunmuhalefet.com/stream/46e674ea-131a-4c9c-ba58-b04e64fdecbc.m3u8
+
+#EXTINF:-1 tvg-id="DHA 2" tvg-name="DHA 2" tvg-logo="https://assets.uzunmuhalefet.com/logos/a1069752-bcab-437a-9283-ea7058e2acaa.png" group-title="Haber",DHA 2
+https://streams.uzunmuhalefet.com/stream/908e148d-71ea-4aaf-a984-845515890395.m3u8
+
+#EXTINF:-1 tvg-id="Ä°HA 1" tvg-name="İHA 1" tvg-logo="https://assets.uzunmuhalefet.com/logos/b9b9c9e4-aa99-4083-aaee-b8fb4db77b9c.png" group-title="Haber",İHA 1
+https://streams.uzunmuhalefet.com/stream/b8da99f4-56ae-4756-b733-b8a8a6099f39.m3u8
+
+#EXTINF:-1 tvg-id="Ä°HA 2" tvg-name="İHA 2" tvg-logo="https://assets.uzunmuhalefet.com/logos/b9b9c9e4-aa99-4083-aaee-b8fb4db77b9c.png" group-title="Haber",İHA 2
+https://streams.uzunmuhalefet.com/stream/4c2ed2e8-2b2a-4a02-97cc-1e3e190f1c77.m3u8
+
+#EXTINF:-1 tvg-id="BHA TV" tvg-name="BHA TV" tvg-logo="https://assets.uzunmuhalefet.com/logos/0d01aed5-e168-494f-8320-1e49e11b8de1.png" group-title="Haber",BHA TV
+https://streams.uzunmuhalefet.com/stream/843d8857-d125-4188-84f9-0d261976c51f.m3u8
+
+#EXTINF:-1 tvg-id="TRT TÃ¼rk" tvg-name="TRT Türk" tvg-logo="https://assets.uzunmuhalefet.com/logos/b92d1f4b-55f5-4950-81ae-e4c31cd5e856.png" group-title="Ulusal - Yurt Dışı",TRT Türk
+https://streams.uzunmuhalefet.com/stream/d8fcd134-0f23-4883-ae8f-4c04cc3cc49a.m3u8
+
+#EXTINF:-1 tvg-id="TRT Avaz" tvg-name="TRT Avaz" tvg-logo="https://assets.uzunmuhalefet.com/logos/31f75bd0-47b3-4f22-be4f-d11ed0dbabeb.png" group-title="Ulusal - Yurt Dışı",TRT Avaz
+https://streams.uzunmuhalefet.com/stream/3dd49c7a-001c-4be0-9a16-0f8957e3977c.m3u8
+
+#EXTINF:-1 tvg-id="Bloomberg HT" tvg-name="Bloomberg HT" tvg-logo="https://assets.uzunmuhalefet.com/logos/e31b4e7f-7a0f-43dc-ab5c-57b2c373de96.png" group-title="Ekonomi",Bloomberg HT
+https://streams.uzunmuhalefet.com/stream/36931c3c-b36b-45eb-89c8-ffdcea8a9329.m3u8
+
+#EXTINF:-1 tvg-id="EkotÃ¼rk" tvg-name="Ekotürk" tvg-logo="https://assets.uzunmuhalefet.com/logos/e25527ce-8f1b-4ff5-a847-db2601a0ea56.png" group-title="Ekonomi",Ekotürk
+https://streams.uzunmuhalefet.com/stream/50237544-8084-4092-b09c-234af5f951af.m3u8
+
+#EXTINF:-1 tvg-id="Finans TÃ¼rk" tvg-name="Finans Türk" tvg-logo="https://assets.uzunmuhalefet.com/logos/1547c841-f6c4-47a3-b5db-79c4fcb5ee7b.png" group-title="Ekonomi",Finans Türk
+https://streams.uzunmuhalefet.com/stream/93841168-9d59-43d0-9246-e04b64558b05.m3u8
+
+#EXTINF:-1 tvg-id="CNBC-e" tvg-name="CNBC-e" tvg-logo="https://assets.uzunmuhalefet.com/logos/12e9ad74-6243-43e3-9c1a-20a3c5a9eccd.png" group-title="Ekonomi",CNBC-e
+https://streams.uzunmuhalefet.com/stream/41cde2c5-8f3c-405f-b5a2-fd6242d1d0a4.m3u8
+
+#EXTINF:-1 tvg-id="TRT 2" tvg-name="TRT 2" tvg-logo="https://assets.uzunmuhalefet.com/logos/c43c931c-f79b-4adf-a7de-3aa0d0fe785e.png" group-title="Eglence",TRT 2
+https://streams.uzunmuhalefet.com/stream/daa339b4-807f-4111-b212-318ae5798801.m3u8
+
+#EXTINF:-1 tvg-id="A2" tvg-name="A2" tvg-logo="https://assets.uzunmuhalefet.com/logos/c54ad35b-cc2f-4a9b-bfd0-ae1afee9c763.png" group-title="Eglence",A2
+https://streams.uzunmuhalefet.com/stream/cd13382a-cd53-46b1-964a-928bdf4e63e7.m3u8
+
+#EXTINF:-1 tvg-id="teve2" tvg-name="teve2" tvg-logo="https://assets.uzunmuhalefet.com/logos/0209d87d-bc28-48a5-b1c0-0354f27017b7.png" group-title="Eglence",teve2
+https://streams.uzunmuhalefet.com/stream/44cff2e5-7871-40c8-b6d2-094572b4371a.m3u8
+
+#EXTINF:-1 tvg-id="Show Max" tvg-name="Show Max" tvg-logo="https://assets.uzunmuhalefet.com/logos/3005c68a-16db-436f-b1b9-1618d8bb05d8.png" group-title="Eglence",Show Max
+https://streams.uzunmuhalefet.com/stream/2ffa76f2-5c2b-4f98-b29b-9bbda2f75ad6.m3u8
+
+#EXTINF:-1 tvg-id="TV 8.5" tvg-name="TV 8.5" tvg-logo="https://assets.uzunmuhalefet.com/logos/6385908c-ab9b-4f06-b5fd-6042352f41f2.png" group-title="Eglence",TV 8.5
+https://streams.uzunmuhalefet.com/stream/88228e59-ca29-4b4a-95e5-e9152bd9e1b4.m3u8
+
+#EXTINF:-1 tvg-id="TLC" tvg-name="TLC" tvg-logo="https://assets.uzunmuhalefet.com/logos/8ae78da8-6ebd-4ba2-bd97-fcf61be6471e.png" group-title="Eglence",TLC
+https://streams.uzunmuhalefet.com/stream/7c98bf26-69a3-4f45-a330-d7c27459b375.m3u8
+
+#EXTINF:-1 tvg-id="DMAX" tvg-name="DMAX" tvg-logo="https://assets.uzunmuhalefet.com/logos/8dbef7ca-af5a-446c-83dc-cf7b32bbe5a8.png" group-title="Eglence",DMAX
+https://streams.uzunmuhalefet.com/stream/ca37ad2f-27a2-4227-9e04-fdd4b2279f3e.m3u8
+
+#EXTINF:-1 tvg-id="TV 4" tvg-name="TV 4" tvg-logo="https://assets.uzunmuhalefet.com/logos/83e033f3-6cb3-4afa-8aec-85f2a049648f.png" group-title="Eglence",TV 4
+https://streams.uzunmuhalefet.com/stream/39e2ff02-8468-4c67-8388-ab83d792071b.m3u8
+
+#EXTINF:-1 tvg-id="GZT TV" tvg-name="GZT TV" tvg-logo="https://assets.uzunmuhalefet.com/logos/b50865cd-24e3-4a24-9c10-cf61573b6320.png" group-title="Eglence",GZT TV
+https://streams.uzunmuhalefet.com/stream/ad800944-d66c-43b2-a6b2-cb590ad8075f.m3u8
+
+#EXTINF:-1 tvg-id="Bi Kanal" tvg-name="Bi Kanal" tvg-logo="https://assets.uzunmuhalefet.com/logos/9c62b6fd-db6c-450b-bbf3-352868d50eba.png" group-title="Eglence",Bi Kanal
+https://streams.uzunmuhalefet.com/stream/63753799-0883-4da4-8774-3a9a3ead16a4.m3u8
+
+#EXTINF:-1 tvg-id="Bizim Ev TV" tvg-name="Bizim Ev TV" tvg-logo="https://assets.uzunmuhalefet.com/logos/6e30823e-4722-4dee-a352-9f81a67b4ca7.png" group-title="Eglence",Bizim Ev TV
+https://streams.uzunmuhalefet.com/stream/e2956b3c-4dfd-4610-a4dd-90be4bd1ef9d.m3u8
+
+#EXTINF:-1 tvg-id="Tivi6" tvg-name="Tivi6" tvg-logo="https://assets.uzunmuhalefet.com/logos/82d9c0fb-ef2d-4f75-9eb5-673b7ed8b10b.png" group-title="Eglence",Tivi6
+https://streams.uzunmuhalefet.com/stream/dfe0f95a-70ae-418b-b4e1-c9d63515edab.m3u8
+
+#EXTINF:-1 tvg-id="Dizi-Film TV" tvg-name="Dizi-Film TV" tvg-logo="https://assets.uzunmuhalefet.com/logos/99faa850-add3-43c3-9fd1-2a4fc638c49f.png" group-title="Eglence",Dizi-Film TV
+https://streams.uzunmuhalefet.com/stream/b63b0c43-c0c7-4d4c-bce1-add3c10ac09d.m3u8
+
+#EXTINF:-1 tvg-id="Fashion One TV" tvg-name="Fashion One TV" tvg-logo="https://assets.uzunmuhalefet.com/logos/935e306b-8134-4672-80c3-9487b0f021a0.png" group-title="Eglence",Fashion One TV
+https://streams.uzunmuhalefet.com/stream/7c09700e-871b-4282-8f5d-c5046b46a888.m3u8
+
+#EXTINF:-1 tvg-id="Dizi TDC" tvg-name="Dizi TDC" tvg-logo="https://assets.uzunmuhalefet.com/logos/8c534c96-111b-4f41-8b87-43a705c32a6a.png" group-title="Eglence",Dizi TDC
+https://streams.uzunmuhalefet.com/stream/3b4817d9-f8d4-439f-a4ae-53f16b72089a.m3u8
+
+#EXTINF:-1 tvg-id="Super TÃ¼rk TV" tvg-name="Super Türk TV" tvg-logo="https://assets.uzunmuhalefet.com/logos/233e84b7-239e-433a-8234-6059c8141ab4.png" group-title="Eglence",Super Türk TV
+https://streams.uzunmuhalefet.com/stream/6a6bce48-2365-49c8-bfb2-3fccdac9372e.m3u8
+
+#EXTINF:-1 tvg-id="Kuzeymax" tvg-name="Kuzeymax" tvg-logo="https://assets.uzunmuhalefet.com/logos/8ae9a3c0-cc01-4dbd-a8c6-175c8b0dd287.png" group-title="Eglence",Kuzeymax
+https://streams.uzunmuhalefet.com/stream/4542f8b9-5c6c-4ef1-aa87-48c0f991fe73.m3u8
+
+#EXTINF:-1 tvg-id="Arzu Film" tvg-name="Arzu Film" tvg-logo="https://assets.uzunmuhalefet.com/logos/f401dbcd-970c-4a9d-9f8e-df4fb78a09f1.png" group-title="Eglence",Arzu Film
+https://streams.uzunmuhalefet.com/stream/6a638416-45c9-4db0-a06a-4f2a4d56ccf0.m3u8
+
+#EXTINF:-1 tvg-id="Film AtÃ¶lyesi" tvg-name="Film Atölyesi" tvg-logo="https://assets.uzunmuhalefet.com/logos/3da5ccab-06e3-40cb-a585-11f5ee3e13b8.png" group-title="Eglence",Film Atölyesi
+https://streams.uzunmuhalefet.com/stream/a1c44406-1b5d-4366-abd3-7e829d391410.m3u8
+
+#EXTINF:-1 tvg-id="GÃ¼lÅŸah Film" tvg-name="Gülşah Film" tvg-logo="https://assets.uzunmuhalefet.com/logos/bbaf6db1-c4b6-4346-9cd1-8a0b331ffd34.png" group-title="Eglence",Gülşah Film
+https://streams.uzunmuhalefet.com/stream/9d022de6-eb42-42fe-ae71-4728b1850a01.m3u8
+
+#EXTINF:-1 tvg-id="Kemal Sunal Filmleri" tvg-name="Kemal Sunal Filmleri" tvg-logo="https://assets.uzunmuhalefet.com/logos/23261646-b494-438f-af29-e142bcb85863.png" group-title="Eglence",Kemal Sunal Filmleri
+https://streams.uzunmuhalefet.com/stream/00f5d14e-2eae-4a5e-bec7-f7f91d468248.m3u8
+
+#EXTINF:-1 tvg-id="Kemal Sunal Filmler ve Sahneler" tvg-name="Kemal Sunal Filmler ve Sahneler" tvg-logo="https://assets.uzunmuhalefet.com/logos/23261646-b494-438f-af29-e142bcb85863.png" group-title="Eglence",Kemal Sunal Filmler ve Sahneler
+https://streams.uzunmuhalefet.com/stream/6d98fd2d-7f68-46b4-968a-fc4810fc041c.m3u8
+
+#EXTINF:-1 tvg-id="Aksiyon Filmleri" tvg-name="Aksiyon Filmleri" tvg-logo="https://assets.uzunmuhalefet.com/logos/22c7372b-cde9-489c-9c83-c37b8811a6cb.png" group-title="Eglence",Aksiyon Filmleri
+https://streams.uzunmuhalefet.com/stream/03195462-2a8c-4ff0-8fe9-3e0b1c0de7f8.m3u8
+
+#EXTINF:-1 tvg-id="TLC SuÃ§ ve AraÅŸtÄ±rma" tvg-name="TLC Suç ve Araştırma" tvg-logo="https://assets.uzunmuhalefet.com/logos/8ae78da8-6ebd-4ba2-bd97-fcf61be6471e.png" group-title="Eglence",TLC Suç ve Araştırma
+https://streams.uzunmuhalefet.com/stream/878720d6-1278-46de-92c0-46cccb565905.m3u8
+
+#EXTINF:-1 tvg-id="DMAX Antik MÄ±sÄ±r" tvg-name="DMAX Antik Mısır" tvg-logo="https://assets.uzunmuhalefet.com/logos/f9f83480-1122-44da-9db1-93d16d10e249.png" group-title="Eglence",DMAX Antik Mısır
+https://streams.uzunmuhalefet.com/stream/37ca2f56-f2d0-4704-994f-f9eadb81d2ff.m3u8
+
+#EXTINF:-1 tvg-id="AvÅŸar Film" tvg-name="Avşar Film" tvg-logo="https://assets.uzunmuhalefet.com/logos/673c4e13-d884-4291-8d76-ed54ff55d116.png" group-title="Eglence",Avşar Film
+https://streams.uzunmuhalefet.com/stream/5d18ff69-8b04-42c1-b528-9bc8491095c8.m3u8
+
+#EXTINF:-1 tvg-id="TRT Spor" tvg-name="TRT Spor" tvg-logo="https://assets.uzunmuhalefet.com/logos/bbe065e2-ff43-4c9c-aec8-1734bd397daf.png" group-title="Spor",TRT Spor
+https://streams.uzunmuhalefet.com/stream/dc23a8ec-c62f-47a2-ae23-e823a9851a1a.m3u8
+
+#EXTINF:-1 tvg-id="TRT Spor YÄ±ldÄ±z" tvg-name="TRT Spor Yıldız" tvg-logo="https://assets.uzunmuhalefet.com/logos/f530a309-bcec-46a0-bb80-32a2a3591114.png" group-title="Spor",TRT Spor Yıldız
+https://streams.uzunmuhalefet.com/stream/978e9210-f530-44ae-99c8-8bdfc998b071.m3u8
+
+#EXTINF:-1 tvg-id="TRT 3 Spor" tvg-name="TRT 3 Spor" tvg-logo="https://assets.uzunmuhalefet.com/logos/c7b11f89-a897-47f2-90b8-961928bc0521.png" group-title="Spor",TRT 3 Spor
+https://streams.uzunmuhalefet.com/stream/82cce5b2-d998-4108-85d8-db0728722c4a
+
+#EXTINF:-1 tvg-id="TRT Belgesel" tvg-name="TRT Belgesel" tvg-logo="https://assets.uzunmuhalefet.com/logos/df68b5b5-c14f-4d9c-a8cb-b34a02f50c18.png" group-title="Belgesel",TRT Belgesel
+https://streams.uzunmuhalefet.com/stream/d2c6d071-d252-4b73-9607-df0084017f2e.m3u8
+
+#EXTINF:-1 tvg-id="TGRT Belgesel" tvg-name="TGRT Belgesel" tvg-logo="https://assets.uzunmuhalefet.com/logos/22f97725-d582-42bb-a50a-e2437125558a.png" group-title="Belgesel",TGRT Belgesel
+https://streams.uzunmuhalefet.com/stream/34e1a5d8-e09d-45ab-bd70-d056caccd5df.m3u8
+
+#EXTINF:-1 tvg-id="CGTN Belgesel" tvg-name="CGTN Belgesel" tvg-logo="https://assets.uzunmuhalefet.com/logos/958809cc-44b6-48ee-98ed-1e87e0632a64.png" group-title="Belgesel",CGTN Belgesel
+https://streams.uzunmuhalefet.com/stream/2bd10121-51a7-4de7-9aaa-8b0db19bdd3b.m3u8
+
+#EXTINF:-1 tvg-id="Yaban TV" tvg-name="Yaban TV" tvg-logo="https://assets.uzunmuhalefet.com/logos/4d5dbf1a-4524-4d11-8904-0c5c9fc4b7aa.png" group-title="Belgesel",Yaban TV
+https://streams.uzunmuhalefet.com/stream/610b517c-1882-4c9e-a1e5-4272601eefd2.m3u8
+
+#EXTINF:-1 tvg-id="Ã‡iftÃ§i TV" tvg-name="Çiftçi TV" tvg-logo="https://assets.uzunmuhalefet.com/logos/0a4992bf-7c3d-41ae-aa0d-e44ecb1ac0cb.png" group-title="Belgesel",Çiftçi TV
+https://streams.uzunmuhalefet.com/stream/e71083cf-eb54-408b-8aba-d66690520801.m3u8
+
+#EXTINF:-1 tvg-id="KÃ¶y TV" tvg-name="Köy TV" tvg-logo="https://assets.uzunmuhalefet.com/logos/592f509e-2e57-445f-833c-e3388ae88120.png" group-title="Belgesel",Köy TV
+https://streams.uzunmuhalefet.com/stream/7a1294e7-9fa8-4c3d-89b8-eb67e33bc2e6.m3u8
+
+#EXTINF:-1 tvg-id="Toprak TV" tvg-name="Toprak TV" tvg-logo="https://assets.uzunmuhalefet.com/logos/dd4da8fc-609f-4d05-8adb-9bba0f584738.png" group-title="Belgesel",Toprak TV
+https://streams.uzunmuhalefet.com/stream/54fd8806-0142-4839-930e-aa1d662ad866.m3u8
+
+#EXTINF:-1 tvg-id="NatureTime TÃ¼rkÃ§e" tvg-name="NatureTime Türkçe" tvg-logo="https://assets.uzunmuhalefet.com/logos/ed12053a-f7cb-42f8-a9bb-26e1e992ea99.png" group-title="Belgesel",NatureTime Türkçe
+https://streams.uzunmuhalefet.com/stream/ec36d9c3-9cc2-4d79-ad94-16af00c95bf4.m3u8
+
+#EXTINF:-1 tvg-id="TRT Ã‡ocuk" tvg-name="TRT Çocuk" tvg-logo="https://assets.uzunmuhalefet.com/logos/ec9eb56f-cabd-4dd5-b0cf-d743e92a288b.png" group-title="Çocuk",TRT Çocuk
+https://streams.uzunmuhalefet.com/stream/6ad16f63-33f5-45bd-9742-1b98a71ce6ed.m3u8
+
+#EXTINF:-1 tvg-id="TRT Diyanet Ã‡ocuk" tvg-name="TRT Diyanet Çocuk" tvg-logo="https://assets.uzunmuhalefet.com/logos/9ae01de4-e188-48c6-b35a-430074d7b228.png" group-title="Çocuk",TRT Diyanet Çocuk
+https://streams.uzunmuhalefet.com/stream/f0091bbb-4942-46ed-864b-2eb9d92d9869.m3u8
+
+#EXTINF:-1 tvg-id="TRT EBA" tvg-name="TRT EBA" tvg-logo="https://assets.uzunmuhalefet.com/logos/98687328-412c-452d-a7ac-71fbbc329b5e.png" group-title="Çocuk",TRT EBA
+https://streams.uzunmuhalefet.com/stream/3cad8cd6-f7b5-4a71-98ea-586e50109ca0.m3u8
+
+#EXTINF:-1 tvg-id="Minika Ã‡ocuk" tvg-name="Minika Çocuk" tvg-logo="https://assets.uzunmuhalefet.com/logos/7be5925e-181a-4c4c-96c0-9cd4ec14caea.png" group-title="Çocuk",Minika Çocuk
+https://streams.uzunmuhalefet.com/stream/507ebfe3-0c78-4804-b3be-637e9b45f5a0.m3u8
+
+#EXTINF:-1 tvg-id="Minika Go" tvg-name="Minika Go" tvg-logo="https://assets.uzunmuhalefet.com/logos/789232b7-b727-4adf-a6e9-017b4e11606b.png" group-title="Çocuk",Minika Go
+https://streams.uzunmuhalefet.com/stream/d22a7171-68af-48ad-bd70-b2b6912fcdec.m3u8
+
+#EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network" tvg-logo="https://assets.uzunmuhalefet.com/logos/5e11008b-c2d2-4f23-b6a1-d6f9af0e52ef.png" group-title="Çocuk",Cartoon Network
+https://streams.uzunmuhalefet.com/stream/9d940976-31c8-4570-92e6-a684e49bea46.m3u8
+
 
