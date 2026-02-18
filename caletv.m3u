@@ -68,7 +68,7 @@ https://lotus.stingray.com/manifest/ose-137ads-montreal/samsungtvplus/master.m3u
 #EXTINF:-1 tvg-id="ext" tvg-name="Stingray Classic Rock" tvg-logo="" group-title="Tv_Stingray",Stingray Classic Rock
 https://lotus.stingray.com/manifest/ose-101ads-montreal/samsungtvplus/master.m3u8
 
-#EXTINF:-1 tvg-id="ext" tvg-name="Stingray DJAZZ" tvg-logo="" group-title="Tv_Stingray",Stingray DJAZZ
+#EXTINF:-1 tvg-id="ext" tvg-name="Stingray Djazz" tvg-logo="" group-title="Tv_Stingray",Stingray Djazz
 https://lotus.stingray.com/manifest/djazz-djaads-montreal/samsungtvplus/master.m3u8
 
 #EXTINF:-1 tvg-id="ext" tvg-name="Stingray CMusic" tvg-logo="" group-title="Tv_Stingray",Stingray CMusic
@@ -299,8 +299,9 @@ https://cdn.tecostream.xyz/Sozcu_Tv.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Sözcü TV" tvg-logo="" group-title="Tv_Muhalif",Sözcü TV
 https://streams.uzunmuhalefet.com/stream/30f86caf-1b7e-4e62-8bdc-4729ea68492a.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Meltem_Tv" tvg-logo="" group-title="Tv_Muhalif",Meltem_Tv
+#EXTINF:-1 tvg-id="ext" tvg-name="Meltem_Tv" tvg-logo="" group-title="Tv_Muhalif",Meltem_Tv
 https://vhxyrsly.rocketcdn.com/meltemtv/chunklist.m3u8
+
 #EXTINF:-1 tvg-id="ext" tvg-name="Tele1TV" tvg-logo="" group-title="Tv_Haber",Tele1TV
 https://tele1-live.ercdn.net/tele1/tele1_1080p.m3u8
 
@@ -406,74 +407,8 @@ https://moondigitaledge2.radyotvonline.net/kafaradyo/playlist.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Sputnik Radyo" tvg-logo="" group-title="Radyo_Genel",Sputnik Radyo
 https://icecast-rian.cdnvideo.ru/voicestm
 
-#EXTINF:-1 tvg-id="ext" tvg-name="Radyo Ilef" tvg-logo="" group-title="Radyo_Genel",Radyo Ilef
-http://radyo.cc.ankara.edu.tr:8089/;stream/1
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Joy_Fm" tvg-logo="" group-title="Radyo_Genel",Joy_Fm
-https://21633.live.streamtheworld.com/JOY_FM128AAC.aac
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Radyo Voyage" tvg-logo="" group-title="Radyo_Genel",Radyo Voyage
-http://voyagewmp.radyotvonline.com/;
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Radyo Voyage Ydk2" tvg-logo="" group-title="Radyo_Genel",Radyo Voyage Ydk2
-https://dygedge.radyotvonline.net/radyovoyage/playlist.m3u8
-
 #EXTINF:-1 tvg-id="ext" tvg-name="Metro_Fm" tvg-logo="" group-title="Radyo_Genel",Metro_Fm
 https://27993.live.streamtheworld.com/METRO_FM128AAC.aac
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Polis_Tsm" tvg-logo="" group-title="Radyo_Genel",Polis_Tsm
-https://m.egm.gov.tr:8095/stream?%22
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Bayrak Turk Muzigi" tvg-logo="" group-title="Radyo_Genel",Bayrak Turk Muzigi
-http://sc.brtk.net:8010/stream/1/
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Alaturka" tvg-logo="" group-title="Radyo_Genel",Alaturka
-https://yayin.jumboserver.net:9100/stream?/;stream.mp3
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Efkar" tvg-logo="" group-title="Radyo_Genel",Efkar
-https://29103.live.streamtheworld.com/EFKAR128AAC.aac?/;stream.mp3
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Radyo_Alaturka" tvg-logo="" group-title="Radyo_Genel",Radyo_Alaturka
-https://yayin.jumboserver.net:9100/stream
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Makam" tvg-logo="" group-title="Radyo_Genel",Makam
-https://29073.live.streamtheworld.com/MAKAM128AAC.aac?/;stream.mp3
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Umc Radyosu" tvg-logo="" group-title="Radyo_Genel",Umc Radyosu
-https://n10101m.mediatriple.net/musiki
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Abc Jazz" tvg-logo="" group-title="Radyo_Genel",Abc Jazz
-https://mediaserviceslive.akamaized.net/hls/live/2038319/abcjazz/index.m3u8
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Itu Jazz" tvg-logo="" group-title="Radyo_Genel",Itu Jazz
-https://22593.live.streamtheworld.com/LITERAL128AAC.aac?/;stream.mp3
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Itu Jazzblues" tvg-logo="" group-title="Radyo_Genel",Itu Jazzblues
-http://160.75.86.29:8088/itucazmp3
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Nr1 Klasik" tvg-logo="" group-title="Radyo_Genel",Nr1 Klasik
-https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e34bfc5042_1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Nrk Klasik" tvg-logo="" group-title="Radyo_Genel",Nrk Klasik
-https://lyd.nrk.no/icecast/mp3/high/s0w7hwn47m/klassisk
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Abc Classic1" tvg-logo="" group-title="Radyo_Genel",Abc Classic1
-https://mediaserviceslive.akamaized.net/hls/live/2108547/classicfmnsw/v0-221.m3u8
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Abc Classic2" tvg-logo="" group-title="Radyo_Genel",Abc Classic2
-https://mediaserviceslive.akamaized.net/hls/live/2108546/classic2/v0-221.m3u8
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Borusan" tvg-logo="" group-title="Radyo_Genel",Borusan
-https://28553.live.streamtheworld.com/BORUSAN_KLASIK128AAC.aac?/;stream.mp3
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Bayrak Klasik" tvg-logo="" group-title="Radyo_Genel",Bayrak Klasik
-http://sc.brtk.net:8006/stream/1/
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Borusan_Klasik" tvg-logo="" group-title="Radyo_Genel",Borusan_Klasik
-https://27953.live.streamtheworld.com/BORUSAN_KLASIK128AAC.aac
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Itu Klasik" tvg-logo="" group-title="Radyo_Genel",Itu Klasik
-http://160.75.86.29:8088/ituklasikmp3
 
 #EXTINF:-1 tvg-id="ext" tvg-name="Home Klas" tvg-logo="" group-title="Radyo_Genel",Home Klas
 https://moondigitaledge.radyotvonline.net/klasikhome/playlist.m3u8
@@ -519,6 +454,72 @@ https://antares.dribbcast.com/proxy/jpop?mp=/s.mp3
 
 #EXTINF:-1 tvg-id="ext" tvg-name="Stingray Cpop" tvg-logo="" group-title="Radyo_Genel",Stingray Cpop
 https://antares.dribbcast.com/proxy/cpop?mp=/s.mp3
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Radyo Ilef" tvg-logo="" group-title="Radyo_Sakin",Radyo Ilef
+http://radyo.cc.ankara.edu.tr:8089/;stream/1
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Joy_Fm" tvg-logo="" group-title="Radyo_Sakin",Joy_Fm
+https://21633.live.streamtheworld.com/JOY_FM128AAC.aac
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Radyo Voyage" tvg-logo="" group-title="Radyo_Sakin",Radyo Voyage
+http://voyagewmp.radyotvonline.com/;
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Radyo Voyage Ydk2" tvg-logo="" group-title="Radyo_Sakin",Radyo Voyage Ydk2
+https://dygedge.radyotvonline.net/radyovoyage/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Abc Jazz" tvg-logo="" group-title="Radyo_Sakin",Abc Jazz
+https://mediaserviceslive.akamaized.net/hls/live/2038319/abcjazz/index.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Itu Jazz" tvg-logo="" group-title="Radyo_Sakin",Itu Jazz
+https://22593.live.streamtheworld.com/LITERAL128AAC.aac?/;stream.mp3
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Itu Jazzblues" tvg-logo="" group-title="Radyo_Sakin",Itu Jazzblues
+http://160.75.86.29:8088/itucazmp3
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Nr1 Klasik" tvg-logo="" group-title="Radyo_Sakin",Nr1 Klasik
+https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e34bfc5042_1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Nrk Klasik" tvg-logo="" group-title="Radyo_Sakin",Nrk Klasik
+https://lyd.nrk.no/icecast/mp3/high/s0w7hwn47m/klassisk
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Abc Classic1" tvg-logo="" group-title="Radyo_Sakin",Abc Classic1
+https://mediaserviceslive.akamaized.net/hls/live/2108547/classicfmnsw/v0-221.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Abc Classic2" tvg-logo="" group-title="Radyo_Sakin",Abc Classic2
+https://mediaserviceslive.akamaized.net/hls/live/2108546/classic2/v0-221.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Borusan" tvg-logo="" group-title="Radyo_Sakin",Borusan
+https://28553.live.streamtheworld.com/BORUSAN_KLASIK128AAC.aac?/;stream.mp3
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Bayrak Klasik" tvg-logo="" group-title="Radyo_Sakin",Bayrak Klasik
+http://sc.brtk.net:8006/stream/1/
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Borusan_Klasik" tvg-logo="" group-title="Radyo_Sakin",Borusan_Klasik
+https://27953.live.streamtheworld.com/BORUSAN_KLASIK128AAC.aac
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Itu Klasik" tvg-logo="" group-title="Radyo_Sakin",Itu Klasik
+http://160.75.86.29:8088/ituklasikmp3
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Polis_Tsm" tvg-logo="" group-title="Radyo_TSM",Polis_Tsm
+https://m.egm.gov.tr:8095/stream?%22
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Bayrak Turk Muzigi" tvg-logo="" group-title="Radyo_TSM",Bayrak Turk Muzigi
+http://sc.brtk.net:8010/stream/1/
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Alaturka" tvg-logo="" group-title="Radyo_TSM",Alaturka
+https://yayin.jumboserver.net:9100/stream?/;stream.mp3
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Efkar" tvg-logo="" group-title="Radyo_TSM",Efkar
+https://29103.live.streamtheworld.com/EFKAR128AAC.aac?/;stream.mp3
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Radyo_Alaturka" tvg-logo="" group-title="Radyo_TSM",Radyo_Alaturka
+https://yayin.jumboserver.net:9100/stream
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Makam" tvg-logo="" group-title="Radyo_TSM",Makam
+https://29073.live.streamtheworld.com/MAKAM128AAC.aac?/;stream.mp3
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Umc Radyosu" tvg-logo="" group-title="Radyo_TSM",Umc Radyosu
+https://n10101m.mediatriple.net/musiki
 
 #EXTINF:-1 tvg-id="ext" tvg-name="Trt Radyo3" tvg-logo="" group-title="Radyo_TRT",Trt Radyo3
 https://rd-trtradyo3.medya.trt.com.tr/master_128.m3u8
