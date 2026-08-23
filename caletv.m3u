@@ -39,8 +39,6 @@ https://lotus.stingray.com/manifest/ose-108ads-montreal/samsungtvplus/master.m3u
 https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Stingray Hit List" tvg-logo="" group-title="Tv_Stingray",Stingray Hit List
 https://lotus.stingray.com/manifest/ose-107ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Stingray Easy Listening" tvg-logo="" group-title="Tv_Stingray",Stingray Easy Listening
-
 #EXTINF:-1 tvg-id="ext" tvg-name="Stingray Djazz" tvg-logo="" group-title="Tv_Stingray",Stingray Djazz
 https://lotus.stingray.com/manifest/djazz-djaads-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Stingray CMusic" tvg-logo="" group-title="Tv_Stingray",Stingray CMusic
@@ -87,10 +85,8 @@ https://livetv.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8
 https://livetv.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Power TV" tvg-logo="" group-title="Tv_Muzik",Power TV
 https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Trt 2" tvg-logo="" group-title="Tv_Ulusal",Trt 2
-https://tv-trt2.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Trt Spor" tvg-logo="" group-title="Tv_Ulusal",Trt Spor
-
+https://tv-trtspor1.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Trt Haber Hd" tvg-logo="" group-title="Tv_Ulusal",Trt Haber Hd
 https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Trt Turk" tvg-logo="" group-title="Tv_Ulusal",Trt Turk
@@ -139,8 +135,6 @@ https://live.artidijitalmedya.com/artidijital_kanal58/kanal58/playlist.m3u8
 https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=3
 #EXTINF:-1 tvg-id="ext" tvg-name="KRAL Pop TV" tvg-logo="" group-title="Tv_Ulusal",KRAL Pop TV
 https://dogus-live.daioncdn.net/kralpoptv/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="MaviKaradeniz" tvg-logo="" group-title="Tv_Ulusal",MaviKaradeniz
-https://live.artidijitalmedya.com/artidijital_mavikaradeniz/mavikaradeniz/playlist.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Meltem TV" tvg-logo="" group-title="Tv_Ulusal",Meltem TV
 https://vhxyrsly.rocketcdn.com/meltemtv/playlist.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="NOW TV" tvg-logo="" group-title="Tv_Ulusal",NOW TV
@@ -177,10 +171,10 @@ https://live.yoltv.com/hls/stream.m3u8
 https://live.artidijitalmedya.com/artidijital_brtv/brtv/playlist.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Cay TV" tvg-logo="" group-title="Tv_Ulusal",Cay TV
 https://edge1.socialsmart.tv/caytv/bant1/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Halktv" tvg-logo="" group-title="Tv_Muhalif",Halktv
-https://halktv-live.daioncdn.net/halktv/halktv_720p.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Tele1TV" tvg-logo="" group-title="Tv_Haber",Tele1TV
+#EXTINF:-1 tvg-id="ext" tvg-name="Tele1TV" tvg-logo="" group-title="Tv_Ulusal",Tele1TV
 https://tele1-live.ercdn.net/tele1/tele1_1080p.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Halktv" tvg-logo="" group-title="Tv_Ulusal",Halktv
+https://halktv-live.daioncdn.net/halktv/halktv_720p.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Rt_News" tvg-logo="" group-title="Tv_Belgesel",Rt_News
 https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Rt_Documents" tvg-logo="" group-title="Tv_Belgesel",Rt_Documents
@@ -197,12 +191,8 @@ https://tv-trt3.live.trt.com.tr/master.m3u8
 https://tv-trtavaz.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="TRT Belgesel" tvg-logo="" group-title="Tv_TRT",TRT Belgesel
 https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="TRT Cocuk" tvg-logo="" group-title="Tv_TRT",TRT Cocuk
-https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="TRT Diyanet Cocuk" tvg-logo="" group-title="Tv_TRT",TRT Diyanet Cocuk
 https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="TRT EBA Lise" tvg-logo="" group-title="Tv_TRT",TRT EBA Lise
-
 #EXTINF:-1 tvg-id="ext" tvg-name="TRT EBA Ortaokul" tvg-logo="" group-title="Tv_TRT",TRT EBA Ortaokul
 https://tv-e-okul01.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="TRT Haber" tvg-logo="" group-title="Tv_TRT",TRT Haber
@@ -247,10 +237,6 @@ https://moondigitaledge.radyotvonline.net/classicland/playlist.m3u8?listeningSes
 https://tr29.com/live?url=http://37.247.98.8/stream/32/.mp3?&tkn=dUoA5K3Hb6MZiKwduGaRRQ&expires=1787514644&home-klasik
 #EXTINF:-1 tvg-id="ext" tvg-name="Classicland" tvg-logo="" group-title="Radyo_Sakin",Classicland
 https://moondigitaledge.radyotvonline.net/classicland/playlist.m3u8?listeningSessionID=6a85e428855d9509_268456_AycLDO6q__000000098X2&downloadSessionID=0
-#EXTINF:-1 tvg-id="ext" tvg-name="Claacicland" tvg-logo="" group-title="Radyo_TSM",Claacicland
-https://moondigitaledge.radyotvonline.net/classicland/playlist.m3u8?listeningSessionID=6a85e428855d9509_268456_AycLDO6q__000000098X2&downloadSessionID=0
-#EXTINF:-1 tvg-id="ext" tvg-name="Umc Radyosu" tvg-logo="" group-title="Radyo_TSM",Umc Radyosu
-
 #EXTINF:-1 tvg-id="ext" tvg-name="Bayrak Turk Muzigi" tvg-logo="" group-title="Radyo_TSM",Bayrak Turk Muzigi
 http://sc.brtk.net:8010/stream/1/
 #EXTINF:-1 tvg-id="ext" tvg-name="Alaturka" tvg-logo="" group-title="Radyo_TSM",Alaturka
@@ -305,8 +291,6 @@ https://rd-trtradyo3.medya.trt.com.tr/master_128.m3u8
 https://rd-trtnagme.medya.trt.com.tr/master_128.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Trt_Turku" tvg-logo="" group-title="Radyo_TRT",Trt_Turku
 https://rd-trtturku.medya.trt.com.tr/master_128.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Radyo 1" tvg-logo="" group-title="Radyo_TRT",Radyo 1
-https://rd-trtradyo1.medya.trt.com.tr/master_128.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Trt Radyo 1" tvg-logo="" group-title="Radyo_TRT",Trt Radyo 1
 https://rd-trtradyo1.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Trt_Fm" tvg-logo="" group-title="Radyo_TRT",Trt_Fm
