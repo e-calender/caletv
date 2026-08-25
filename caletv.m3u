@@ -200,3 +200,31 @@ https://moondigitaledge2.radyotvonline.net/kafaradyo/playlist.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Sputnik Radyo" tvg-logo="" group-title="Radyo_Genel",Sputnik Radyo
 https://icecast-rian.cdnvideo.ru/voicestm
 
+#EXTINF:-1 tvg-id="ext" tvg-name="Ntv" tvg-logo="" group-title="Tv_Genel",Ntv
+https://dogus.daioncdn.net/ntv/ntv_720p.m3u8?ce=3
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Halk Tv" tvg-logo="" group-title="Tv_Genel",Halk Tv
+https://halktv-live.daioncdn.net/halktv/halktv_720p.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Trt Haber" tvg-logo="" group-title="Tv_Genel",Trt Haber
+https://tv-trthaber.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Rtv" tvg-logo="" group-title="Tv_Yabanci",Rtv
+https://rt-glb.rttv.com/dvr/rtnews/playlist_2500Kb.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Rt_Doc" tvg-logo="" group-title="Tv_Yabanci",Rt_Doc
+https://rt-rtd.rttv.com/dvr/rtdoc/playlist_2500Kb.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Nhk1" tvg-logo="" group-title="Tv_Yabanci",Nhk_1
+https://media-osa.hls.nhkworld.jp/hls/w/live/1/sig/f15f9e1edc8ea58b08e14cf65578954528742cadb8d571e09bbbd5850f67daa2/v3.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Nhk2" tvg-logo="" group-title="Tv_Yabanci",Nhk2
+https://media-osa.hls.nhkworld.jp/hls/w/live/1/sig/45ae6bf6dcf644cfbf5fe0e13dc72d6333bcfdbb60a040d574b3fd4f93c64313/v2.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="CgtnEn" tvg-logo="" group-title="Tv_Yabanci",CgtnEn
+https://english-livebkali.cgtn.com/live/encgtn_1.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="CgtnDoc" tvg-logo="" group-title="Tv_Yabanci",CgtnDoc
+https://english-livebkali.cgtn.com/live/doccgtn_1.m3u8
+
+
