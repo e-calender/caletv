@@ -231,16 +231,16 @@ https://english-livebkali.cgtn.com/live/doccgtn_1.m3u8
 https://trt.daioncdn.net/trt-1/master.m3u8?app=web
 
 #EXTINF:-1 tvg-id="ext" tvg-name="TRT 2" tvg-logo="" group-title="Tv_Genel",TRT 2
-https://tv-trt2.medya.trt.com.tr/master_1080p.m3u8
+https://tv-trt2.medya.trt.com.tr/master.m3u8
 
 #EXTINF:-1 tvg-id="ext" tvg-name="TRT Belgesel" tvg-logo="" group-title="Tv_Genel",TRT Belgesel
-https://tv-trtbelgesel.medya.trt.com.tr/master_1080p.m3u8
+https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
 
 #EXTINF:-1 tvg-id="ext" tvg-name="TRT Haber" tvg-logo="" group-title="Tv_Genel",TRT Haber
-https://tv-trthaber.medya.trt.com.tr/master_1080.m3u8
+https://tv-trthaber.medya.trt.com.tr/master.m3u8
 
 #EXTINF:-1 tvg-id="ext" tvg-name="TRT Spor Yildiz" tvg-logo="" group-title="Tv_Genel",TRT Spor Yildiz
-https://tv-trtspor2.medya.trt.com.tr/master_1080p.m3u8
+https://tv-trtspor2.medya.trt.com.tr/master.m3u8
 
 #EXTINF:-1 tvg-id="ext" tvg-name="TLC" tvg-logo="" group-title="Tv_Genel",TLC
 http://dygvideo.dygdigital.com/live/hls/tlctvdai?m3u8
@@ -274,6 +274,34 @@ https://kamerayayin.ibb.istanbul/turistikcam/buyukcamlica.stream/media_w18226035
 
 #EXTINF:-1 tvg-id="ext" tvg-name="Bayezit" tvg-logo="" group-title="Tv_Kamera",Bayezit
 https://kamerayayin.ibb.istanbul/turistikcam/beyazitkulesi2.stream/media_w1282168843_207852.ts
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Trt1" tvg-logo="" group-title="Tv_Genel",Trt1
+https://tv-trt1.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Trt2" tvg-logo="" group-title="Tv_Genel",Trt2
+https://tv-trt2.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="TrtAvaz" tvg-logo="" group-title="Tv_Genel",TrtAvaz
+https://tv-trtavaz.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="TrtHaber" tvg-logo="" group-title="Tv_Genel",TrtHaber
+https://tv-trthaber.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="TrtMuzik" tvg-logo="" group-title="Tv_Genel",TrtMuzik
+https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="TrtSpor1" tvg-logo="" group-title="Tv_Genel",TrtSpor1
+https://tv-trtspor1.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="TrtSpor2" tvg-logo="" group-title="Tv_Genel",TrtSpor2
+https://tv-trtspor2.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="TrtBelgesel" tvg-logo="" group-title="Tv_Genel",TrtBelgesel
+https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="TrtTurk" tvg-logo="" group-title="Tv_Genel",TrtTurk
+https://tv-trtturk.medya.trt.com.tr/master.m3u8
+
 
 
 
