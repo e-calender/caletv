@@ -302,6 +302,33 @@ https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="TrtTurk" tvg-logo="" group-title="Tv_Genel",TrtTurk
 https://tv-trtturk.medya.trt.com.tr/master.m3u8
 
+#EXTINF:-1 group-title="Tv_480p",Trt1
+https://tv-trt1.medya.trt.com.tr/master_480.m3u8
+
+#EXTINF:-1 group-title="Tv_480p",Trt2
+https://tv-trt2.medya.trt.com.tr/master_480.m3u8
+
+#EXTINF:-1 group-title="Tv_480p",TrtAvaz
+https://tv-trtavaz.medya.trt.com.tr/master_480.m3u8
+
+#EXTINF:-1 group-title="Tv_480p",TrtHaber
+https://tv-trthaber.medya.trt.com.tr/master_480.m3u8
+
+#EXTINF:-1 group-title="Tv_480p",TrtMuzik
+https://tv-trtmuzik.medya.trt.com.tr/master_480.m3u8
+
+#EXTINF:-1 group-title="Tv_480p",Spor1
+https://tv-trtspor1.medya.trt.com.tr/master_480.m3u8
+
+#EXTINF:-1 group-title="Tv_480p",Spor2
+https://tv-trtspor2.medya.trt.com.tr/master_480.m3u8
+
+#EXTINF:-1 group-title="Tv_480p",TrtTurk
+https://tv-trtturk.medya.trt.com.tr/master_480.m3u8
+
+#EXTINF:-1 group-title="Tv_480p",Belgesel
+https://tv-trtbelgesel.medya.trt.com.tr/master_480.m3u8
+
 
 
 
