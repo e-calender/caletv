@@ -122,8 +122,34 @@ https://m.egm.gov.tr:8095/stream?/;stream.mp3
 #EXTINF:-1 tvg-id="ext" tvg-name="Trt_Turku" tvg-logo="" group-title="Radyo_TSM",Trt_Turku
 https://rd-trtturku.medya.trt.com.tr/master_128.m3u8
 
-#EXTINF:-1 tvg-id="ext" radio="true" tvg-name="Swiss Pop" tvg-logo="" group-title="Radyo_Swiss",Swiss Pop
+#EXTINF:-1 tvg-id="ext" radio=true radio=1 tvg-name="Swiss Pop" tvg-logo="" group-title="Radyo_Swiss",Swiss Pop
 https://livestreaming-node-3.srg-ssr.ch/srgssr/rsp/aac/96
+
+
+# --- TEST 1: Standart tırnaklı (radio="true") ---
+#EXTINF:-1 radio="true" group-title="Radyo_Swiss",Swiss Pop 1
+https://livestreaming-node-3.srg-ssr.ch/srgssr/rsp/aac/96
+
+# --- TEST 2: Tırnaksız sayısal (radio=1) ---
+#EXTINF:-1 radio=1 group-title="Radyo_Swiss",Swiss Pop 2
+https://livestreaming-node-3.srg-ssr.ch/srgssr/rsp/aac/96
+
+# --- TEST 3: Tırnaksız metin (radio=true) ---
+#EXTINF:-1 radio=true group-title="Radyo_Swiss",Swiss Pop 3
+https://livestreaming-node-3.srg-ssr.ch/srgssr/rsp/aac/96
+
+# --- TEST 4: Xtream uyumlu (type="radio") ---
+#EXTINF:-1 type="radio" group-title="Radyo_Swiss",Swiss Pop 4
+https://livestreaming-node-3.srg-ssr.ch/srgssr/rsp/aac/96
+
+# --- TEST 5: Alternatif (is-radio="true") ---
+#EXTINF:-1 is-radio="true" group-title="Radyo_Swiss",Swiss Pop 5
+https://livestreaming-node-3.srg-ssr.ch/srgssr/rsp/aac/96
+
+# --- TEST 6: Kombinasyon (type="radio" + radio="true") ---
+#EXTINF:-1 type="radio" radio="true" group-title="Radyo_Swiss",Swiss Pop 6
+https://livestreaming-node-3.srg-ssr.ch/srgssr/rsp/aac/96
+
 
 #EXTINF:-1 tvg-id="ext" radio="true"  tvg-name="Swiss Classic" tvg-logo="" group-title="Radyo_Swiss",Swiss Classic
 https://livestreaming-node-4.srg-ssr.ch/srgssr/rsc_de/aac/96
