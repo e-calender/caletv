@@ -122,13 +122,13 @@ https://m.egm.gov.tr:8095/stream?/;stream.mp3
 #EXTINF:-1 tvg-id="ext" tvg-name="Trt_Turku" tvg-logo="" group-title="Radyo_TSM",Trt_Turku
 https://rd-trtturku.medya.trt.com.tr/master_128.m3u8
 
-#EXTINF:-1 tvg-id="ext" tvg-name="Swiss Pop" tvg-logo="" group-title="Radyo_Swiss",Swiss Pop
+#EXTINF:-1 tvg-id="ext" radio="true" tvg-name="Swiss Pop" tvg-logo="" group-title="Radyo_Swiss",Swiss Pop
 https://livestreaming-node-3.srg-ssr.ch/srgssr/rsp/aac/96
 
-#EXTINF:-1 tvg-id="ext" tvg-name="Swiss Classic" tvg-logo="" group-title="Radyo_Swiss",Swiss Classic
+#EXTINF:-1 tvg-id="ext" radio="true"  tvg-name="Swiss Classic" tvg-logo="" group-title="Radyo_Swiss",Swiss Classic
 https://livestreaming-node-4.srg-ssr.ch/srgssr/rsc_de/aac/96
 
-#EXTINF:-1 tvg-id="ext" tvg-name="Swiss Jazz" tvg-logo="" group-title="Radyo_Swiss",Swiss Jazz
+#EXTINF:-1 tvg-id="ext" radio="true" tvg-name="Swiss Jazz" tvg-logo="" group-title="Radyo_Swiss",Swiss Jazz
 https://livestreaming-node-2.srg-ssr.ch/srgssr/rsj/aac/96
 
 #EXTINF:-1 tvg-id="ext" tvg-name="Swiss Pop Ydk" tvg-logo="" group-title="Radyo_Swiss",Swiss Pop Ydk
